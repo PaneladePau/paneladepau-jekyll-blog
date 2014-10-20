@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Panela de Pau {% if page.title }%}- {{page.title}}{% else %}| Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
+
+		<!-- Google tags -->
+		<meta name="description" content="">
+		<meta name="author" content="Mariana Soares">
+		<meta name="dcterms.rightsHolder" content="Mariana Soares">
+
+		<!-- Facebook tags -->          
+		<meta property="og:title" content="Panela de Pau{% if page.title }%} - {{page.title}}{% endif %}">
+		<meta property="og:type" content="Blog" />
+		<meta property="og:image" content="" />
+		<meta property="og:url" content="{{ site.baseurl }}{% if post.url }%}/{{ post.url }}{% endif %}">
+		<meta property="og:description" content="">
+
+		<!-- Twitter tags -->          
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Panela de Pau{% if page.title }%} - {{page.title}}{% endif %}">
+		<meta name="twitter:description" content="{{page.title}}">
+		<meta name="twitter:image" content="">
+
+		<!-- Mobile viewport -->
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Github project page's custom domain Google robot fix -->
+		<link rel="canonical" href="{{ site.baseurl }}{% if post.url }%}/{{ post.url }}{% endif %}">
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+
+		<!--[if lte IE 8]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]--> <!-- Correção para as tags html5 -->
+	</head>

@@ -1,0 +1,23 @@
+# Site settings
+title: Panela de Pau
+email: mariana.cs@live.com
+description: Blog de culinária feito à base de espontaneidade e descontração.
+#baseurl: http://192.168.0.86/template-pdp-jekyll/_blog
+#url: http://192.168.0.86/template-pdp-jekyll/_blog
+github_username:  PaneladePau
+
+# Build settings
+markdown: rdiscount
+destination: ./_site
+permalink: /:title
+exclude: ['css/main.scss','css/_fonts.sass','css/_media-queries.scss','css/_side-menu.scss']
+paginate: 9
+paginate_path: "receitas?page=num"
+highlighter: rouge
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      published: "true"

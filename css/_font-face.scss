@@ -1,0 +1,29 @@
+@mixin font($file, $name, $style, $weight, $dir, $formats) {
+
+  $src: null;
+  $hash: null;
+
+  @font-face {
+    font-family: '#{$name}';
+    @each $ext in $formats {
+      $format: $ext;
+      @if $ext == eot {
+        src: url('#{$dir}/#{$file}.#{$ext}');
+        $format: 'embedded-opentype';
+        $hash: '?#iefix';
+      } @else if $ext == svg {
+        $hash: '##{$file}';
+      } @else if $ext == ttf {
+        $format: 'truetype';
+      } else {
+        $src: $src, url('#{$dir}/#{$file}.#{$ext}#{$hash}') format('#{$format}');
+        $hash: null;
+      }
+    }
+    src: $src;
+    font-style: $style;
+    font-weight: $weight;
+  }
+};
+
+@include font("Oxygen-Regular", "Oxygen-Regular", style, weight, "../fonts", eot svg ttf woff);

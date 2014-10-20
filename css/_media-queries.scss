@@ -1,0 +1,43 @@
+@media only screen and (max-width : 1400px) {
+
+	body {
+		width: 960px;
+	}
+
+	header {
+		width: 940px;
+	}
+
+	.destaque {
+		.img {
+			width: 620px;
+			height: 352px;
+		}
+	}
+
+	.destaque {
+		.info {
+			height: 352px;
+		}
+		.titulo {
+			margin-top: 0;
+		}
+	}
+
+	.post {
+		&>p {
+			width: 630px;
+		}
+		&>img {
+			width: 380px;
+		}
+	}
+
+	.g-ads-300 {
+		top: 392px;
+	}
+
+	footer {
+		width: 940px;
+	}
+}
