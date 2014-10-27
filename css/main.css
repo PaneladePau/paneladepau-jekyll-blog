@@ -1,1 +1,378 @@
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}html{line-height:1}ol,ul{list-style:none}table{border-collapse:collapse;border-spacing:0}caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}q,blockquote{quotes:none}q:before,q:after,blockquote:before,blockquote:after{content:"";content:none}a img{border:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{display:block}@font-face{font-family:"Oxygen-Regular";src:url("../fonts/Oxygen-Regular.eot");src:url("../fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"),url("../fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"),url("../fonts/Oxygen-Regular.ttf") format("truetype"),url("../fonts/Oxygen-Regular.woff") format("woff");font-style:style;font-weight:weight}*{box-sizing:border-box}body{width:1280px;margin:0 auto;font-family:Oxygen-Regular;font-size:18px}a{text-decoration:none}header{width:1260px;margin:10px;border-bottom:2px solid #934723;overflow:hidden}header li{float:right;margin:10px}header li a{color:#934723}header li a:hover{color:#c9a391}header li:first-of-type{margin-right:0}.logo-main{width:480px;height:165px;margin:10px auto;font-size:0}.post-link{font-size:0;position:absolute;width:100%;height:100%;z-index:20}.destaque{width:100%;height:auto;overflow:hidden;margin-bottom:20px;background-color:transparent;position:relative}.destaque figure{overflow:hidden}.destaque .img{display:block;width:940px;height:530px;float:left;margin:10px;overflow:hidden}.destaque .info{display:block;width:300px;height:530px;float:left;margin:10px;background-color:#c9a391;padding:20px;padding-top:5%;position:relative;text-align:right}.destaque .info p{color:#595959;line-height:1.2}.destaque .info .data{color:#934723 !important;opacity:0.5;margin-top:10px}.destaque .titulo{color:#934723;font-size:42px}.destaque .info-preparo{position:absolute;bottom:40px;width:260px}.post-list{width:300px;height:200px;margin:10px;float:left;position:relative;overflow:hidden;cursor:pointer}.post-list .img{display:block;width:100%;height:170px;border-bottom:2px solid #934723;overflow:hidden;margin-bottom:10px}.post-list .info{padding:20px;display:block;width:300px;height:169px;background-image:url(../img/layout/post-list-icon.png);background-size:150px;background-position:center;background-repeat:no-repeat;background-color:rgba(80,50,30,0.5);position:absolute;top:0;opacity:0;transition:all 0.3s ease-out;color:#fff;text-align:right;line-height:1.2}.post-list .info:hover{color:#fff}.post-list:hover .info{opacity:1}.post-list .titulo{display:none}.post-list .titulo-list{color:#934723;line-height:20px;position:absolute;top:180px}.post-list .titulo-list:hover{color:#c9a391}.post-list .info-preparo{position:absolute;bottom:20px;width:260px}footer{width:1260px;height:160px;margin:10px;float:left}.paginacao{color:#934723;text-align:center;margin-bottom:10px}.paginacao li{display:inline-block}.categorias{border-top:2px solid #934723}.logo-main--internas{width:300px;height:103px;margin:10px 0;margin-bottom:-24px}.post .img{margin-bottom:30px}.post>p{width:950px;padding:10px;padding-right:20px;border-right:1px solid #c9a391;line-height:1.2;color:#934723;text-align:justify}.post>img{width:620px;float:right;margin-left:20px;margin-bottom:20px}.g-ads-300{width:300px;margin:10px;position:absolute;right:0;top:570px}.g-ads-730{margin:30px 10px}.fbshare{margin:10px;margin-top:20px}@media only screen and (max-width: 1400px){body{width:960px}header{width:940px}.destaque .img{width:620px;height:352px}.destaque .info{height:352px}.destaque .titulo{margin-top:0}.post>p{width:630px}.post>img{width:380px}.g-ads-300{top:392px}footer{width:940px}}
+/* line 5, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+@font-face {
+  font-family: "Oxygen-Regular";
+  src: url("../fonts/Oxygen-Regular.eot");
+  src: url("../fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"), url("../fonts/Oxygen-Regular.ttf") format("truetype"), url("../fonts/Oxygen-Regular.woff") format("woff");
+  font-style: style;
+  font-weight: weight;
+}
+/* line 11, css/main.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 15, css/main.scss */
+body {
+  width: 1280px;
+  margin: 0 auto;
+  font-family: Oxygen-Regular;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 23, css/main.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 27, css/main.scss */
+header {
+  width: 1260px;
+  margin: 10px;
+  border-bottom: 2px solid #934723;
+  overflow: hidden;
+}
+/* line 32, css/main.scss */
+header li {
+  float: right;
+  margin: 10px;
+}
+/* line 35, css/main.scss */
+header li a {
+  color: #934723;
+}
+/* line 37, css/main.scss */
+header li a:hover {
+  color: #c9a391;
+}
+/* line 41, css/main.scss */
+header li:first-of-type {
+  margin-right: 0;
+}
+
+/* line 47, css/main.scss */
+.logo-main {
+  width: 480px;
+  height: 165px;
+  margin: 10px auto;
+  font-size: 0;
+}
+
+/* line 54, css/main.scss */
+.post-link {
+  font-size: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 20;
+}
+
+/* line 62, css/main.scss */
+.destaque {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-bottom: 20px;
+  background-color: transparent;
+  position: relative;
+}
+/* line 69, css/main.scss */
+.destaque figure {
+  overflow: hidden;
+}
+/* line 72, css/main.scss */
+.destaque .img {
+  display: block;
+  width: 940px;
+  height: 530px;
+  float: left;
+  margin: 10px;
+  overflow: hidden;
+}
+/* line 80, css/main.scss */
+.destaque .info {
+  display: block;
+  width: 300px;
+  height: 530px;
+  float: left;
+  margin: 10px;
+  background-color: #c9a391;
+  padding: 20px;
+  padding-top: 5%;
+  position: relative;
+  text-align: right;
+}
+/* line 92, css/main.scss */
+.destaque .info p {
+  color: #595959;
+  line-height: 1.2;
+}
+/* line 96, css/main.scss */
+.destaque .info .data {
+  color: #934723 !important;
+  opacity: 0.5;
+  margin-top: 10px;
+}
+/* line 102, css/main.scss */
+.destaque .titulo {
+  color: #934723;
+  font-size: 42px;
+}
+/* line 106, css/main.scss */
+.destaque .info-preparo {
+  position: absolute;
+  bottom: 40px;
+  width: 260px;
+}
+
+/* line 119, css/main.scss */
+.post-list {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  float: left;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+/* line 127, css/main.scss */
+.post-list .img {
+  display: block;
+  width: 100%;
+  height: 170px;
+  border-bottom: 2px solid #934723;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+/* line 135, css/main.scss */
+.post-list .info {
+  padding: 20px;
+  display: block;
+  width: 300px;
+  height: 169px;
+  background-image: url(../img/layout/post-list-icon.png);
+  background-size: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(80, 50, 30, 0.5);
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  transition: all 0.3s ease-out;
+  color: #fff;
+  text-align: right;
+  line-height: 1.2;
+}
+/* line 152, css/main.scss */
+.post-list .info:hover {
+  color: #fff;
+}
+/* line 156, css/main.scss */
+.post-list:hover .info {
+  opacity: 1;
+}
+/* line 159, css/main.scss */
+.post-list .titulo {
+  display: none;
+}
+/* line 162, css/main.scss */
+.post-list .titulo-list {
+  color: #934723;
+  line-height: 20px;
+  position: absolute;
+  top: 180px;
+}
+/* line 167, css/main.scss */
+.post-list .titulo-list:hover {
+  color: #c9a391;
+}
+/* line 171, css/main.scss */
+.post-list .info-preparo {
+  position: absolute;
+  bottom: 20px;
+  width: 260px;
+}
+
+/* line 178, css/main.scss */
+footer {
+  width: 1260px;
+  height: 160px;
+  margin: 10px;
+  float: left;
+}
+
+/* line 185, css/main.scss */
+.paginacao {
+  color: #934723;
+  text-align: center;
+  margin-bottom: 10px;
+}
+/* line 189, css/main.scss */
+.paginacao li {
+  display: inline-block;
+}
+
+/* line 194, css/main.scss */
+.categorias {
+  border-top: 2px solid #934723;
+}
+
+/* line 1, css/_internas.scss */
+.logo-main--internas {
+  width: 300px;
+  height: 103px;
+  margin: 10px 0;
+  margin-bottom: -24px;
+}
+
+/* line 9, css/_internas.scss */
+.post .img {
+  margin-bottom: 30px;
+}
+/* line 12, css/_internas.scss */
+.post > p {
+  width: 950px;
+  padding: 10px;
+  padding-right: 20px;
+  border-right: 1px solid #c9a391;
+  line-height: 1.2;
+  color: #934723;
+  text-align: justify;
+}
+/* line 21, css/_internas.scss */
+.post > img {
+  width: 620px;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+/* line 29, css/_internas.scss */
+.g-ads-300 {
+  width: 300px;
+  margin: 10px;
+  position: absolute;
+  right: 0;
+  top: 570px;
+}
+
+/* line 37, css/_internas.scss */
+.g-ads-730 {
+  margin: 30px 10px;
+}
+
+/* line 41, css/_internas.scss */
+.fbshare {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 1400px) {
+  /* line 3, css/_media-queries.scss */
+  body {
+    width: 960px;
+  }
+
+  /* line 7, css/_media-queries.scss */
+  header {
+    width: 940px;
+  }
+
+  /* line 12, css/_media-queries.scss */
+  .destaque .img {
+    width: 620px;
+    height: 352px;
+  }
+
+  /* line 19, css/_media-queries.scss */
+  .destaque .info {
+    height: 352px;
+  }
+  /* line 22, css/_media-queries.scss */
+  .destaque .titulo {
+    margin-top: 0;
+  }
+
+  /* line 28, css/_media-queries.scss */
+  .post > p {
+    width: 630px;
+  }
+  /* line 31, css/_media-queries.scss */
+  .post > img {
+    width: 380px;
+  }
+
+  /* line 36, css/_media-queries.scss */
+  .g-ads-300 {
+    top: 392px;
+  }
+
+  /* line 40, css/_media-queries.scss */
+  footer {
+    width: 940px;
+  }
+}

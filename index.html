@@ -5,7 +5,7 @@ layout: home
 {% for post in site.posts limit: 1 %}
 
 <article class="destaque home">
-<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
+<a class="post-link" href="{{ post.url }}">ler post</a>
 {{ post.content | split:'<!-- informações do post -->' | first }}
 </article>
 
@@ -14,7 +14,7 @@ layout: home
 {% for post in site.posts limit:8 offset:1 %}
 	
 <article class="post-list">
-<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
+<a class="post-link" href="{{ post.url }}">ler post</a>
 <h2 class="titulo-list">{{ post.title }}</h2>
 {{ post.content | split:'<!-- informações do post -->' | first }}
 </article>
