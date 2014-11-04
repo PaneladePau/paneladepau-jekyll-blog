@@ -25,4 +25,3 @@ defaults:
 # Plugins
 gems:
 - jekyll-sitemap
-- jekyll-sass-converter

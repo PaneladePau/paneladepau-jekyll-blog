@@ -65,10 +65,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 @font-face {
   font-family: "Oxygen-Regular";
-  src: url("/fonts/Oxygen-Regular.eot");
-  src: url("/fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"), url("/fonts/Oxygen-Regular.ttf") format("truetype"), url("/fonts/Oxygen-Regular.woff") format("woff");
-  font-style: style;
-  font-weight: weight;
+  src: url("../fonts/Oxygen-Regular.eot");
+  src: url("../fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"), url("../fonts/Oxygen-Regular.ttf") format("truetype"), url("../fonts/Oxygen-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
 }
 /* line 12, ../_sass/main.scss */
 * {
