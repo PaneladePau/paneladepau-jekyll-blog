@@ -21,3 +21,7 @@ defaults:
     values:
       layout: "post"
       published: "true"
+
+# Plugins
+gems:
+- jekyll-sitemap
