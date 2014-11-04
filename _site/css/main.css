@@ -65,17 +65,17 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 @font-face {
   font-family: "Oxygen-Regular";
-  src: url("../fonts/Oxygen-Regular.eot");
-  src: url("../fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"), url("../fonts/Oxygen-Regular.ttf") format("truetype"), url("../fonts/Oxygen-Regular.woff") format("woff");
+  src: url("/fonts/Oxygen-Regular.eot");
+  src: url("/fonts/Oxygen-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/Oxygen-Regular.svg#Oxygen-Regular") format("svg"), url("/fonts/Oxygen-Regular.ttf") format("truetype"), url("/fonts/Oxygen-Regular.woff") format("woff");
   font-style: style;
   font-weight: weight;
 }
-/* line 11, css/main.scss */
+/* line 12, ../_sass/main.scss */
 * {
   box-sizing: border-box;
 }
 
-/* line 15, css/main.scss */
+/* line 16, ../_sass/main.scss */
 body {
   width: 1280px;
   margin: 0 auto;
@@ -84,37 +84,37 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* line 23, css/main.scss */
+/* line 24, ../_sass/main.scss */
 a {
   text-decoration: none;
 }
 
-/* line 27, css/main.scss */
+/* line 28, ../_sass/main.scss */
 header {
   width: 1260px;
   margin: 10px;
   border-bottom: 2px solid #934723;
   overflow: hidden;
 }
-/* line 32, css/main.scss */
+/* line 33, ../_sass/main.scss */
 header li {
   float: right;
   margin: 10px;
 }
-/* line 35, css/main.scss */
+/* line 36, ../_sass/main.scss */
 header li a {
   color: #934723;
 }
-/* line 37, css/main.scss */
+/* line 38, ../_sass/main.scss */
 header li a:hover {
   color: #c9a391;
 }
-/* line 41, css/main.scss */
+/* line 42, ../_sass/main.scss */
 header li:first-of-type {
   margin-right: 0;
 }
 
-/* line 47, css/main.scss */
+/* line 48, ../_sass/main.scss */
 .logo-main {
   width: 480px;
   height: 165px;
@@ -122,7 +122,7 @@ header li:first-of-type {
   font-size: 0;
 }
 
-/* line 54, css/main.scss */
+/* line 55, ../_sass/main.scss */
 .post-link {
   font-size: 0;
   position: absolute;
@@ -131,7 +131,7 @@ header li:first-of-type {
   z-index: 20;
 }
 
-/* line 62, css/main.scss */
+/* line 63, ../_sass/main.scss */
 .destaque {
   width: 100%;
   height: auto;
@@ -140,11 +140,11 @@ header li:first-of-type {
   background-color: transparent;
   position: relative;
 }
-/* line 69, css/main.scss */
+/* line 70, ../_sass/main.scss */
 .destaque figure {
   overflow: hidden;
 }
-/* line 72, css/main.scss */
+/* line 73, ../_sass/main.scss */
 .destaque .img {
   display: block;
   width: 940px;
@@ -153,7 +153,7 @@ header li:first-of-type {
   margin: 10px;
   overflow: hidden;
 }
-/* line 80, css/main.scss */
+/* line 81, ../_sass/main.scss */
 .destaque .info {
   display: block;
   width: 300px;
@@ -166,30 +166,30 @@ header li:first-of-type {
   position: relative;
   text-align: right;
 }
-/* line 92, css/main.scss */
+/* line 93, ../_sass/main.scss */
 .destaque .info p {
   color: #595959;
   line-height: 1.2;
 }
-/* line 96, css/main.scss */
+/* line 97, ../_sass/main.scss */
 .destaque .info .data {
   color: #934723 !important;
   opacity: 0.5;
   margin-top: 10px;
 }
-/* line 102, css/main.scss */
+/* line 103, ../_sass/main.scss */
 .destaque .titulo {
   color: #934723;
   font-size: 42px;
 }
-/* line 106, css/main.scss */
+/* line 107, ../_sass/main.scss */
 .destaque .info-preparo {
   position: absolute;
   bottom: 40px;
   width: 260px;
 }
 
-/* line 119, css/main.scss */
+/* line 120, ../_sass/main.scss */
 .post-list {
   width: 300px;
   height: 200px;
@@ -199,7 +199,7 @@ header li:first-of-type {
   overflow: hidden;
   cursor: pointer;
 }
-/* line 127, css/main.scss */
+/* line 128, ../_sass/main.scss */
 .post-list .img {
   display: block;
   width: 100%;
@@ -208,7 +208,7 @@ header li:first-of-type {
   overflow: hidden;
   margin-bottom: 10px;
 }
-/* line 135, css/main.scss */
+/* line 136, ../_sass/main.scss */
 .post-list .info {
   padding: 20px;
   display: block;
@@ -227,37 +227,37 @@ header li:first-of-type {
   text-align: right;
   line-height: 1.2;
 }
-/* line 152, css/main.scss */
+/* line 153, ../_sass/main.scss */
 .post-list .info:hover {
   color: #fff;
 }
-/* line 156, css/main.scss */
+/* line 157, ../_sass/main.scss */
 .post-list:hover .info {
   opacity: 1;
 }
-/* line 159, css/main.scss */
+/* line 160, ../_sass/main.scss */
 .post-list .titulo {
   display: none;
 }
-/* line 162, css/main.scss */
+/* line 163, ../_sass/main.scss */
 .post-list .titulo-list {
   color: #934723;
   line-height: 20px;
   position: absolute;
   top: 180px;
 }
-/* line 167, css/main.scss */
+/* line 168, ../_sass/main.scss */
 .post-list .titulo-list:hover {
   color: #c9a391;
 }
-/* line 171, css/main.scss */
+/* line 172, ../_sass/main.scss */
 .post-list .info-preparo {
   position: absolute;
   bottom: 20px;
   width: 260px;
 }
 
-/* line 178, css/main.scss */
+/* line 179, ../_sass/main.scss */
 footer {
   width: 1260px;
   height: 160px;
@@ -265,23 +265,23 @@ footer {
   float: left;
 }
 
-/* line 185, css/main.scss */
+/* line 186, ../_sass/main.scss */
 .paginacao {
   color: #934723;
   text-align: center;
   margin-bottom: 10px;
 }
-/* line 189, css/main.scss */
+/* line 190, ../_sass/main.scss */
 .paginacao li {
   display: inline-block;
 }
 
-/* line 194, css/main.scss */
+/* line 195, ../_sass/main.scss */
 .categorias {
   border-top: 2px solid #934723;
 }
 
-/* line 1, css/_internas.scss */
+/* line 1, ../_sass/_internas.scss */
 .logo-main--internas {
   width: 300px;
   height: 103px;
@@ -289,21 +289,21 @@ footer {
   margin-bottom: -24px;
 }
 
-/* line 9, css/_internas.scss */
+/* line 9, ../_sass/_internas.scss */
 .post .img {
   margin-bottom: 30px;
 }
-/* line 12, css/_internas.scss */
+/* line 12, ../_sass/_internas.scss */
 .post > p {
   width: 950px;
   padding: 10px;
   padding-right: 20px;
   border-right: 1px solid #c9a391;
   line-height: 1.2;
-  color: #934723;
+  color: #333;
   text-align: justify;
 }
-/* line 21, css/_internas.scss */
+/* line 21, ../_sass/_internas.scss */
 .post > img {
   width: 620px;
   float: right;
@@ -311,7 +311,7 @@ footer {
   margin-bottom: 20px;
 }
 
-/* line 29, css/_internas.scss */
+/* line 29, ../_sass/_internas.scss */
 .g-ads-300 {
   width: 300px;
   margin: 10px;
@@ -320,58 +320,58 @@ footer {
   top: 570px;
 }
 
-/* line 37, css/_internas.scss */
+/* line 37, ../_sass/_internas.scss */
 .g-ads-730 {
   margin: 30px 10px;
 }
 
-/* line 41, css/_internas.scss */
+/* line 41, ../_sass/_internas.scss */
 .fbshare {
   margin: 10px;
   margin-top: 20px;
 }
 
 @media only screen and (max-width: 1400px) {
-  /* line 3, css/_media-queries.scss */
+  /* line 3, ../_sass/_media-queries.scss */
   body {
     width: 960px;
   }
 
-  /* line 7, css/_media-queries.scss */
+  /* line 7, ../_sass/_media-queries.scss */
   header {
     width: 940px;
   }
 
-  /* line 12, css/_media-queries.scss */
+  /* line 12, ../_sass/_media-queries.scss */
   .destaque .img {
     width: 620px;
     height: 352px;
   }
 
-  /* line 19, css/_media-queries.scss */
+  /* line 19, ../_sass/_media-queries.scss */
   .destaque .info {
     height: 352px;
   }
-  /* line 22, css/_media-queries.scss */
+  /* line 22, ../_sass/_media-queries.scss */
   .destaque .titulo {
     margin-top: 0;
   }
 
-  /* line 28, css/_media-queries.scss */
+  /* line 28, ../_sass/_media-queries.scss */
   .post > p {
     width: 630px;
   }
-  /* line 31, css/_media-queries.scss */
+  /* line 31, ../_sass/_media-queries.scss */
   .post > img {
     width: 380px;
   }
 
-  /* line 36, css/_media-queries.scss */
+  /* line 36, ../_sass/_media-queries.scss */
   .g-ads-300 {
     top: 392px;
   }
 
-  /* line 40, css/_media-queries.scss */
+  /* line 40, ../_sass/_media-queries.scss */
   footer {
     width: 940px;
   }
