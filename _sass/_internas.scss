@@ -15,14 +15,28 @@
 		padding-right: 20px;
 		border-right: 1px solid $marromClaro;
 		line-height: 1.2;
-		color: $corTexto;
+		color: $cinza;
 		text-align: justify;
 	}
-	&>img {
+	.intern-img {
 		width: 620px;
-		float: right;
-		margin-left: 20px;
-		margin-bottom: 20px;
+		margin-top: 14px;
+		&.even {
+			float: right;
+			margin-left: 20px;
+			margin-right: 350px;
+		}
+		&.odd {
+			float: left;
+			margin-right: 20px;
+			margin-left: 10px;
+		}
+		figcaption {
+			text-align: center;
+			color: $marrom;
+			font-size: 14px;
+			line-height: 2;
+		}
 	}
 }
 
@@ -35,7 +49,8 @@
 }
 
 .g-ads-730 {
-	margin: 30px 10px;
+	margin: 80px 10px;
+	float: left;
 }
 
 .fbshare {

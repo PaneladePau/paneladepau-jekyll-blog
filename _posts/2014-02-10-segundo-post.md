@@ -1,6 +1,6 @@
 ---
-title: Segundo post
-coverimg: wrap.jpg
+titulo: Segundo post
+imgdestaque: wrap.jpg
 ---
 {% include post-info.html %}
 

@@ -1,6 +1,6 @@
 ---
-title: Primeiro post
-coverimg: molhovermelho.jpg
+titulo: Primeiro post
+imgdestaque: molhovermelho.jpg
 ---
 {% include post-info.html %}
 

@@ -1,6 +1,6 @@
 ---
-title: Terceiro post
-coverimg: brigadeirocapa.jpg
+titulo: Terceiro post
+imgdestaque: brigadeirocapa.jpg
 ---
 {% include post-info.html %}
 
