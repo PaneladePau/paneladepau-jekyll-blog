@@ -2,17 +2,17 @@
 title: Panela de Pau
 email: mariana.cs@live.com
 description: Blog de culinária feito à base de espontaneidade e descontração.
-baseurl: http://paneladepau.github.io/paneladepau_prod
-#baseurl: http://localhost
+#baseurl: http://paneladepau.github.io/paneladepau_prod
+baseurl: http://localhost
 github_username:  PaneladePau
 
 # Build settings
 markdown: rdiscount
 destination: ./_site
 permalink: /:title
-exclude: ['css/main.scss','css/_fonts.sass','css/_media-queries.scss','css/_side-menu.scss']
+exclude: ['css/main.scss','css/_fonts.sass','css/_media-queries.scss','css/_side-menu.scss','_posts/aaaa-mm-dd-titulo-do-post.md']
 paginate: 9
-paginate_path: "receitas?page=num"
+paginate_path: "pagina-:num"
 highlighter: rouge
 defaults:
   -

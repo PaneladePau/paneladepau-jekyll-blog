@@ -1,11 +1,9 @@
 ---
-titulo: Post com eventual título enorme
-tags: [Teste 1, cozinha saudavel]
-imgdestaque: brigadeirocapa.jpg
-imagem2: wrap.jpg
-legendaimg2: Wrap gostoso
-imagem3: molhovermelho.jpg
-legendaimg3: Molho vermelho sem tomate
+titulo: Título do post
+imgdestaque: nome-da-imagem.jpg
+tags: [Tag 1, Tag 2]
+imagem2: nome-da-imagem.jpg
+legendaimg2: Legenda da imagem
 ---
 {% comment %}
 Lista de tags: 

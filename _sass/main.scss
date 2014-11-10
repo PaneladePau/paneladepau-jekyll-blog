@@ -183,9 +183,12 @@ footer {
 }
 
 .paginacao {
-	color: $marrom;
+	color: $marromClaro;
 	text-align: center;
 	margin-bottom: 10px;
+	a {
+		color: $marrom;
+	}
 	li {
 		display: inline-block;
 	}

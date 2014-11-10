@@ -2,8 +2,7 @@
 layout: home
 ---
 
-{% for post in site.posts limit: 1 %}
-
+{% for post in paginator.posts limit: 1 %}
 <article class="destaque home">
 <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
 {{ post.content | split:'<!-- informações do post -->' | first }}
@@ -11,7 +10,7 @@ layout: home
 
 {% endfor %}
 
-{% for post in site.posts limit:8 offset:1 %}
+{% for post in paginator.posts offset: 1 %}
 	
 <article class="post-list">
 <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
