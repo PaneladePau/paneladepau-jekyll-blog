@@ -6,8 +6,8 @@ imagem2: nome-da-imagem.jpg
 legendaimg2: Legenda da imagem
 ---
 {% comment %}
-Lista de tags: 
-Tag 1, Tag 2, Tag 3, Tag 4
+#Lista de tags: 
+# Tag 1, Tag 2, Tag 3, Tag 4
 {% endcomment %}
 {% include post-info.html %}
 

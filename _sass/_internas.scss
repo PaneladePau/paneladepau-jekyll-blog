@@ -38,6 +38,12 @@
 			line-height: 2;
 		}
 	}
+	a {
+		color: $marrom;
+		&:hover {
+			color: $marromClaro;
+		}
+	}
 }
 
 .g-ads-300 {

@@ -1,8 +1,10 @@
 ---
 layout: home
 ---
+<h2 class="titulo-tag">tag: Cozinha Saudável</h2>
+
 {% for post in site.posts %}
-	{% if post.tags contains 'cozinha saudavel' limit: 20 %}
+	{% if post.tags contains 'cozinha saudavel' %}
 		<article class="post-list">
 			<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
 			<h2 class="titulo-list">{{ post.titulo }}</h2>

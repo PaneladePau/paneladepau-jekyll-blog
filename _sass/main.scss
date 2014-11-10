@@ -6,7 +6,8 @@
 
 $marrom: #934723;
 $marromClaro: #c9a391;
-$cinza: #595959;
+$cinza: #333300;
+$cinzaClaro: #64615A;
 
 * {
 	box-sizing: border-box;
@@ -42,6 +43,10 @@ header {
 			margin-right: 0;
 		}
 	}
+}
+
+.underline {
+	text-decoration: underline;
 }
 
 .logo-main {
@@ -90,8 +95,8 @@ header {
 		text-align: right;
 		//transition: all 0.3s ease-out;
 		p {
-			color: $cinza;
 			line-height: 1.2;
+			color: $cinzaClaro;
 		}
 		.data {
 			color: $marrom !important;
@@ -141,7 +146,7 @@ header {
 		background-size: 150px;
 		background-position: center;
 		background-repeat: no-repeat;
-		background-color: rgba(80, 50, 30, 0.5);
+		background-color: rgba(80, 50, 30, 0.8);
 		position: absolute;
 		top: 0;
 		opacity: 0;
@@ -194,8 +199,35 @@ footer {
 	}
 }
 
-.categorias {
+.tags {
 	border-top: 2px solid $marrom;
+	padding-top: 20px;
+	text-align: center;
+	p {
+		display: inline-block;
+	}
+	li {
+		display: inline-block;
+		margin: 10px;
+		a {
+			color: $cinza;
+			&:hover {
+				color: lighten($cinzaClaro, 20);
+			}
+		}
+	}
+}
+
+.rotulo-tags {
+	font-size: 32px;
+	color: $marrom;
+}
+
+h2.titulo-tag {
+	text-align: center;
+	font-size: 30px;
+	margin: 20px 0;
+	color: $marrom;
 }
 
 @import "internas";
