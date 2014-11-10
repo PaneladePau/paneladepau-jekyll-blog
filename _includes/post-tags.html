@@ -1,1 +1,1 @@
-<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
+<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
