@@ -7,7 +7,6 @@
 $marrom: #934723;
 $marromClaro: #c9a391;
 $cinza: #333300;
-$cinzaClaro: #64615A;
 
 * {
 	box-sizing: border-box;
@@ -81,6 +80,7 @@ header {
 		float: left;
 		margin: 10px;
 		overflow: hidden;
+		border-bottom: 2px solid $marrom;
 	}
 	.info {
 		display: block;
@@ -88,15 +88,15 @@ header {
 		height: 530px;
 		float: left;
 		margin: 10px;
-		background-color: $marromClaro;
 		padding: 20px;
 		padding-top: 5%;
 		position: relative;
 		text-align: right;
+		border-bottom: 2px solid $marrom;
 		//transition: all 0.3s ease-out;
 		p {
 			line-height: 1.2;
-			color: $cinzaClaro;
+			color: $cinza;
 		}
 		.data {
 			color: $marrom !important;
@@ -210,9 +210,9 @@ footer {
 		display: inline-block;
 		margin: 10px;
 		a {
-			color: $cinza;
+			color: $marrom;
 			&:hover {
-				color: lighten($cinzaClaro, 20);
+				color: $marromClaro;
 			}
 		}
 	}
