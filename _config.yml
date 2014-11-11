@@ -10,7 +10,7 @@ github_username:  PaneladePau
 markdown: rdiscount
 destination: ./_site
 permalink: /:title
-exclude: ['css/main.scss','css/_fonts.sass','css/_media-queries.scss','css/_side-menu.scss','_posts/aaaa-mm-dd-titulo-do-post.md']
+exclude: ['_posts/aaaa-mm-dd-titulo-do-post.md']
 paginate: 9
 paginate_path: "pagina-:num"
 highlighter: rouge

@@ -4,23 +4,23 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Panela de Pau {% if page.titulo }%}- {{page.titulo}}{% else %}| Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
+		<title>{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
 
 		<!-- Google tags -->
-		<meta name="description" content="">
+		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
 		<meta name="author" content="Mariana Soares">
 		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
 		<!-- Facebook tags -->          
-		<meta property="og:title" content="Panela de Pau{% if page.titulo }%} - {{page.titulo}}{% endif %}">
+		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
 		<meta property="og:type" content="Blog" />
 		<meta property="og:image" content="" />
-		<meta property="og:url" content="{{ site.url }}{% if post.url }%}{{ post.url }}{% endif %}">
+		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
 		<meta property="og:description" content="">
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content="Panela de Pau{% if page.url }%} - {{page.url}}{% endif %}">
+		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
 		<meta name="twitter:description" content="{{page.titulo}}">
 		<meta name="twitter:image" content="">
 
@@ -28,7 +28,7 @@
 		<meta name="viewport" content="width=device-width">
 
 		<!-- Github project page's custom domain Google robot fix -->
-		<link rel="canonical" href="http://paneladepau.com.br/{% if post.url }%}{{ post.url }}{% endif %}">
+		<link rel="canonical" href="http://paneladepau.com.br{% if page.url }%}{{ page.url }}{% endif %}">
 
 		<!-- CSS -->
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -38,5 +38,5 @@
 
 		<!--[if lte IE 8]>
 			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]--> <!-- Correção para as tags html5 -->
+		<![endif]-->
 	</head>
