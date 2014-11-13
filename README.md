@@ -1,9 +1,9 @@
 Blog Panela de Pau
 ================
 
-Ambiente de produção no repositório paneladepau_prod;
+1. Ambiente de produção no repositório paneladepau_prod
 
-Ambiente de homologação no repositório _site;
+2. Ambiente de homologação no repositório _site
 
 ##Projeto criado a partir de Jekyll e Github Pages.
 
