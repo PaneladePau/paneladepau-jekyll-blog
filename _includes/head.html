@@ -16,12 +16,12 @@
 		<meta property="og:type" content="Blog" />
 		<meta property="og:image" content="" />
 		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
-		<meta property="og:description" content="">
+		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
-		<meta name="twitter:description" content="{{page.titulo}}">
+		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
 		<meta name="twitter:image" content="">
 
 		<!-- Mobile viewport -->

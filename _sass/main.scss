@@ -15,7 +15,7 @@ $cinza: #333300;
 body {
 	width: 1280px;
 	margin: 0 auto;
-	font-family: Oxygen-Regular;
+	font-family: Oxygen-Regular, sans-serif;
 	font-size: 18px;
 	-webkit-font-smoothing: antialiased;
 }
@@ -92,7 +92,6 @@ header {
 		padding-top: 5%;
 		position: relative;
 		text-align: right;
-		//transition: all 0.3s ease-out;
 		p {
 			line-height: 1.2;
 			color: $cinza;
@@ -114,15 +113,9 @@ header {
 	}
 }
 
-.destaque.home {
-	&:hover .info {
-		//background-color: lighten($marromClaro,5);
-	}
-}
-
 .post-list {
 	width: 300px;
-	height: 200px;
+	height: 204px;
 	margin: 10px;
 	float: left;
 	position: relative;
@@ -227,6 +220,38 @@ h2.titulo-tag {
 	font-size: 30px;
 	margin: 20px 0;
 	color: $marrom;
+}
+
+.assinatura {
+	text-align: center;
+	color: $cinza;
+	font-size: 16px;
+	margin-top: 80px;
+	margin-bottom: 20px;
+	.jekyll {
+		width: 100px;
+		height: 44px;
+		background-image: url(../img/layout/logo-jekyll.png);
+		display: inline-block;
+		font-size: 0;
+		background-size: cover;
+		vertical-align: middle;
+	}
+	.github {
+		width: 100px;
+		height: 27px;
+		background-image: url(../img/layout/logo-github.png);
+		display: inline-block;
+		font-size: 0;
+		background-size: cover;
+		vertical-align: middle;
+	}
+	a {
+		color: $cinza;
+		&:hover {
+			color: #bababa;
+		}
+	}
 }
 
 @import "internas";
