@@ -4,10 +4,11 @@ layout: home
 
 {% for post in paginator.posts limit: 1 %}
 <article class="destaque home">
-<a class="post-link" href="{{ post.url | remove:'/' }}">ler post</a>
 {% if paginator.page == 1 %}
+<a class="post-link" href="{{ post.url | remove:'/' }}">ler post</a>
 	{% include post-info.html %}
 {% else %}
+<a class="post-link" href="..{{ post.url }}">ler post</a>
 	{% include post-info_pagination.html %}
 {% endif %}
 </article>
@@ -17,11 +18,13 @@ layout: home
 {% for post in paginator.posts offset: 1 %}
 	
 <article class="post-list">
+{% if paginator.page == 1 %}
 <a class="post-link" href="{{ post.url | remove:'/' }}">ler post</a>
 <h2 class="titulo-list">{{ post.titulo }}</h2>
-{% if paginator.page == 1 %}
 	{% include post-info.html %}
 {% else %}
+<a class="post-link" href="..{ post.url }}">ler post</a>
+<h2 class="titulo-list">{{ post.titulo }}</h2>
 	{% include post-info_pagination.html %}
 {% endif %}
 </article>
