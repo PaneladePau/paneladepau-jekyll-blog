@@ -23,7 +23,7 @@ layout: home
 <h2 class="titulo-list">{{ post.titulo }}</h2>
 	{% include post-info.html %}
 {% else %}
-<a class="post-link" href="..{ post.url }}">ler post</a>
+<a class="post-link" href="..{{ post.url }}">ler post</a>
 <h2 class="titulo-list">{{ post.titulo }}</h2>
 	{% include post-info_pagination.html %}
 {% endif %}
