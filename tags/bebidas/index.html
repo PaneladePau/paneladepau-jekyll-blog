@@ -11,7 +11,7 @@ permalink: /tags/bebidas/
 		<article class="post-list">
 			<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
 			<h2 class="titulo-list">{{ post.titulo }}</h2>
-			{{ post.content | split:'<!-- informações do post -->' | first }}
+			{% include post-info_tagpage.html %}
 		</article>
 	{% endif %}
 {% endfor %}

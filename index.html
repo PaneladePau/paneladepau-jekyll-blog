@@ -4,8 +4,12 @@ layout: home
 
 {% for post in paginator.posts limit: 1 %}
 <article class="destaque home">
-<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
-{{ post.content | split:'<!-- informações do post -->' | first }}
+<a class="post-link" href="{{ post.url }}">ler post</a>
+{% if paginator.page == 1 %}
+	{% include post-info.html %}
+{% else %}
+	{% include post-info_pagination.html %}
+{% endif %}
 </article>
 
 {% endfor %}
@@ -13,9 +17,13 @@ layout: home
 {% for post in paginator.posts offset: 1 %}
 	
 <article class="post-list">
-<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
+<a class="post-link" href="{{ post.url }}">ler post</a>
 <h2 class="titulo-list">{{ post.titulo }}</h2>
-{{ post.content | split:'<!-- informações do post -->' | first }}
+{% if paginator.page == 1 %}
+	{% include post-info.html %}
+{% else %}
+	{% include post-info_pagination.html %}
+{% endif %}
 </article>
 
 {% endfor %}

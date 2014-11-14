@@ -1,13 +1,105 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% include header_internas.html %}
+		<title>{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
 
-{{content}}
+		<!-- Google tags -->
+		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta name="author" content="Mariana Soares">
+		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
-{% include post-tags.html %}
+		<!-- Facebook tags -->          
+		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
+		<meta property="og:type" content="Blog" />
+		<meta property="og:image" content="" />
+		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
+		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
 
-{% include google_ads.html %}
+		<!-- Twitter tags -->          
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
+		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta name="twitter:image" content="">
 
-{% include facebook_comments.html %}
+		<!-- Mobile viewport -->
+		<meta name="viewport" content="width=device-width">
 
-{% include footer_internas.html %}
+		<!-- Github project page's custom domain Google robot fix -->
+		<link rel="canonical" href="http://paneladepau.com.br{% if page.url }%}{{ page.url | remove: 'index.html' }}{% endif %}">
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="../css/main.css">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="../favicon.ico">
+
+		<!--[if lte IE 8]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<header>
+			<h1 class="logo-main logo-main--internas">
+				<a href="../">
+					<img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
+				</a>
+				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
+			</h1>
+			
+			<nav class="menu">
+				<ul>
+					<li><a href="../#">Facebook</a></li>
+					<li><a href="../#">Contato</a></li>
+					<!-- <li><a href="#">Busca</a></li> -->
+					<li><a href="../#">About</a></li>	
+				</ul>
+			</nav>
+		</header>
+
+		<article class="destaque post">
+
+			<figure>
+				<span class="img">
+					<img src="../img/fotos-dos-posts/{{ page.imgdestaque }}" width="100%" height="100%" alt="{{ page.titulo }}">
+				</span>
+				<figcaption class="info">
+					<h2 class="titulo">{{ page.titulo }}</h2>
+					<p class="data">{{ page.date | date: "%-d/%m/%Y" }}</p>
+					<div class="info-preparo">
+						<p>Tempo de preparo: 20 min</p>
+						<p>Rendimento: 30 porções</p>
+						<p>Calorias: 300 kcal</p>
+					</div>
+				</figcaption>
+			</figure>
+
+			{{content}}
+
+			<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
+
+			{% include google_ads.html %}
+
+			{% include facebook_comments.html %}
+
+		</article>
+
+		<footer>
+			<section class="tags">
+				<p class="rotulo-tags">tags:</p>
+				{% for tag in site.tags %}
+				    <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
+				        <a href="../tags/{{ tag | first | slugify }}/">
+				            {{ tag | first }}
+				        </a>
+				    </li>
+				{% endfor %}
+			</section>
+			
+			{% include signature.html %}
+		</footer>
+	</body>
+</html>

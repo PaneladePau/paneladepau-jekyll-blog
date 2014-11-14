@@ -1,7 +1,119 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% include header.html %}
+		<title>{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
 
-{{content}}
+		<!-- Google tags -->
+		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta name="author" content="Mariana Soares">
+		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
-{% include footer.html %}
+		<!-- Facebook tags -->          
+		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
+		<meta property="og:type" content="Blog" />
+		<meta property="og:image" content="" />
+		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
+		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+
+		<!-- Twitter tags -->          
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
+		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta name="twitter:image" content="">
+
+		<!-- Mobile viewport -->
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Github project page's custom domain Google robot fix -->
+		<link rel="canonical" href="http://paneladepau.com.br{% if page.url }%}{{ page.url | remove: 'index.html' }}{% endif %}">
+
+		{% if paginator.page == 1 %}
+		<!-- CSS -->
+		<link rel="stylesheet" href="css/main.css">
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="favicon.ico">
+		{% else %}
+		<!-- CSS -->
+		<link rel="stylesheet" href="../css/main.css">
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="../favicon.ico">
+		{% endif %}
+
+		<!--[if lte IE 8]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<header>
+			<h1 class="logo-main">
+				{% if paginator.page == 1 %}
+				<a href="">
+					<img src="img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
+				</a>
+				{% else %}
+				<a href="../">
+					<img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
+				</a>
+				{% endif %}
+				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
+			</h1>
+			
+			<nav class="menu">
+				<ul>
+					{% if paginator.page == 1 %}
+					<li><a href="#">Facebook</a></li>
+					<li><a href="#">Contato</a></li>
+					<!-- <li><a href="#">Busca</a></li> -->
+					<li><a href="#">About</a></li>
+					{% else %}
+					<li><a href="../#">Facebook</a></li>
+					<li><a href="../#">Contato</a></li>
+					<!-- <li><a href="#">Busca</a></li> -->
+					<li><a href="../#">About</a></li>
+					{% endif %}
+				</ul>
+			</nav>
+		</header>
+
+		{{content}}
+
+		<footer>
+			{% if paginator.total_pages > 1 %}
+				<nav class="paginacao">
+					{% for page in (1..paginator.total_pages) %}
+						{% if page == paginator.page %}
+							<em>{{ page }}</em>
+						{% elsif page == 1 %}
+							<a href="{{ '../' | replace: '//', '/' }}">{{ page }}</a>
+						{% else %}
+							<a href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+						{% endif %}
+					{% endfor %}
+				</nav>
+			{% endif %}
+
+			<section class="tags">
+				<p class="rotulo-tags">tags:</p>
+				{% for tag in site.tags %}
+				    <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
+				    	{% if paginator.page == 1 %}
+				        <a href="tags/{{ tag | first | slugify }}/">
+				            {{ tag | first }}
+				        </a>
+				        {% else %}
+				        <a href="../tags/{{ tag | first | slugify }}/">
+				            {{ tag | first }}
+				        </a>
+				        {% endif %}
+				    </li>
+				{% endfor %}
+			</section>
+
+			{% include signature.html %}
+		</footer>
+	</body>
+</html>

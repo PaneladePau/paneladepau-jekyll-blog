@@ -2,8 +2,7 @@
 title: Panela de Pau
 email: mariana.cs@live.com
 description: Blog de culinária feito à base de espontaneidade e descontração.
-baseurl: http://paneladepau.github.io/paneladepau_prod
-#baseurl: http://localhost
+baseurl: http://paneladepau.com.br
 github_username:  PaneladePau
 
 # Build settings

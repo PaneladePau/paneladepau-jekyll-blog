@@ -9,9 +9,9 @@ permalink: /tags/cozinha-saudavel/
 {% for post in site.posts %}
 	{% if post.tags contains 'cozinha saudavel' %}
 		<article class="post-list">
-			<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
+			<a class="post-link" href="../..{{ post.url }}">ler post</a>
 			<h2 class="titulo-list">{{ post.titulo }}</h2>
-			{{ post.content | split:'<!-- informações do post -->' | first }}
+			{% include post-info_tagpage.html %}
 		</article>
 	{% endif %}
 {% endfor %}

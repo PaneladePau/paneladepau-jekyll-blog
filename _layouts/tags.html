@@ -1,7 +1,80 @@
-{% include head_tags.html %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% include header.html %}
+		<title>{{ page.titulotag }} - Panela de Pau</title>
 
-{{content}}
+		<!-- Google tags -->
+		<meta name="description" content="{{ page.descricaotag }}">
+		<meta name="author" content="Mariana Soares">
+		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
-{% include footer.html %}
+		<!-- Facebook tags -->          
+		<meta property="og:title" content="{{ page.titulotag }} - Panela de Pau">
+		<meta property="og:type" content="Blog">
+		<meta property="og:image" content="">
+		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="og:description" content="{{ page.descricaotag }}">
+
+		<!-- Twitter tags -->          
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="{{ page.titulotag }} - Panela de Pau">
+		<meta name="twitter:description" content="{{ page.descricaotag }}">
+		<meta name="twitter:image" content="">
+
+		<!-- Mobile viewport -->
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Github project page's custom domain Google robot fix -->
+		<link rel="canonical" href="http://paneladepau.com.br{{ page.url | remove: 'index.html' }}">
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="../../css/main.css">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="../../favicon.ico">
+
+		<!--[if lte IE 8]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<header>
+			<h1 class="logo-main logo-main--internas">
+				<a href="../../">
+					<img src="../../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
+				</a>
+				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
+			</h1>
+			
+			<nav class="menu">
+				<ul>
+					<li><a href="../../#">Facebook</a></li>
+					<li><a href="../../#">Contato</a></li>
+					<!-- <li><a href="#">Busca</a></li> -->
+					<li><a href="../../#">About</a></li>	
+				</ul>
+			</nav>
+		</header>
+
+		{{content}}
+
+		<footer>
+			<section class="tags">
+				<p class="rotulo-tags">tags:</p>
+				{% for tag in site.tags %}
+				    <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
+				        <a href="../../tags/{{ tag | first | slugify }}/">
+				            {{ tag | first }}
+				        </a>
+				    </li>
+				{% endfor %}
+			</section>
+			
+			{% include signature.html %}
+		</footer>
+	</body>
+</html>
