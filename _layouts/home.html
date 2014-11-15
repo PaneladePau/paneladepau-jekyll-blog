@@ -85,7 +85,11 @@
 			{% if paginator.total_pages > 1 %}
 				<nav class="paginacao">
 					{% if paginator.previous_page %}
-						<a href="{{ paginator.previous_page_path | replace: '//', '/' | remove: 'index.html' }}">&laquo; Voltar</a>
+						{% if paginator.page == 2 %}
+							<a href="../" class="voltar">&laquo; Voltar</a>
+						{% else %}
+							<a href="../pagina-{{ paginator.page | minus:1 }}" class="voltar">&laquo; Voltar</a>
+						{% endif %}
 					{% endif %}
 					{% for page in (1..paginator.total_pages) %}
 						{% if page == paginator.page %}
@@ -93,11 +97,19 @@
 						{% elsif page == 1 %}
 							<a href="{{ '../' | replace: '//', '/' }}">{{ page }}</a>
 						{% else %}
-							<a href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+							{% if paginator.page == 1 %}
+								<a href="pagina-{{ page }}">{{ page }}</a>
+							{% else %}
+								<a href="../pagina-{{ page }}">{{ page }}</a>
+							{% endif %}
 						{% endif %}
 					{% endfor %}
 					{% if paginator.next_page %}
-						<a href="{{ paginator.next_page_path | replace: '//', '/' | remove: 'index.html' }}">Mais &raquo;</a>
+						{% if paginator.page == 1 %}
+							<a href="pagina-{{ paginator.page | plus:1 }}" class="mais">Mais &raquo;</a>
+						{% else %}
+							<a href="../pagina-{{ paginator.page | plus:1 }}" class="mais">Mais &raquo;</a>
+						{% endif %}
 					{% endif%}
 				</nav>
 			{% endif %}

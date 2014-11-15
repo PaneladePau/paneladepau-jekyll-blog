@@ -184,16 +184,22 @@ footer {
 .paginacao {
 	color: $marromClaro;
 	text-align: center;
+	margin-top: 20px;
 	margin-bottom: 10px;
 	a {
 		color: $marrom;
-		font-size: 20px;
 		&:hover {
 			color: $marromClaro;
 		}
 	}
 	li {
 		display: inline-block;
+	}
+	.voltar {
+		margin-right: 10px;
+	}
+	.mais {
+		margin-left: 10px;
 	}
 }
 
