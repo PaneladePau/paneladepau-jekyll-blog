@@ -89,7 +89,7 @@ header {
 		float: left;
 		margin: 10px;
 		padding: 20px;
-		padding-top: 5%;
+		padding-top: 10%;
 		position: relative;
 		text-align: right;
 		p {
@@ -97,8 +97,7 @@ header {
 			color: $cinza;
 		}
 		.data {
-			color: $marrom !important;
-			opacity: 0.5;
+			color: $marromClaro !important;
 			margin-top: 10px;
 		}
 	}
@@ -115,7 +114,7 @@ header {
 
 .post-list {
 	width: 300px;
-	height: 204px;
+	height: 210px;
 	margin: 10px;
 	float: left;
 	position: relative;
@@ -130,18 +129,15 @@ header {
 		margin-bottom: 10px;
 	}
 	.info {
-		padding: 20px;
+		padding-top: 20px;
 		display: block;
 		width: 300px;
 		height: 169px;
-		background-image: url(../img/layout/post-list-icon.png);
-		background-size: 150px;
+		background-size: 240px;
 		background-position: center;
 		background-repeat: no-repeat;
-		background-color: rgba(80, 50, 30, 0.8);
 		position: absolute;
 		top: 0;
-		opacity: 0;
 		transition: all 0.3s ease-out;
 		color: #fff;
 		text-align: right;
@@ -149,9 +145,13 @@ header {
 		&:hover {
 			color: #fff;
 		}
-	}
-	&:hover .info {
-		opacity: 1;
+		.data {
+			font-size: 14px;
+			position: absolute;
+			right: 0;
+			bottom: -42px;
+			color: $marromClaro;
+		}
 	}
 	.titulo {
 		display: none;
@@ -160,7 +160,9 @@ header {
 		color: $marrom;
 		line-height: 20px;
 		position: absolute;
-		top: 180px;
+		bottom: 16px;
+		text-align: right;
+		width: 100%;
 		&:hover {
 			color: $marromClaro;
 		}
@@ -185,6 +187,10 @@ footer {
 	margin-bottom: 10px;
 	a {
 		color: $marrom;
+		font-size: 20px;
+		&:hover {
+			color: $marromClaro;
+		}
 	}
 	li {
 		display: inline-block;

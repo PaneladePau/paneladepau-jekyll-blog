@@ -84,6 +84,9 @@
 		<footer>
 			{% if paginator.total_pages > 1 %}
 				<nav class="paginacao">
+					{% if paginator.previous_page %}
+						<a href="{{ paginator.previous_page_path | replace: '//', '/' | remove: 'index.html' }}">&laquo; Voltar</a>
+					{% endif %}
 					{% for page in (1..paginator.total_pages) %}
 						{% if page == paginator.page %}
 							<em>{{ page }}</em>
@@ -93,6 +96,9 @@
 							<a href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
 						{% endif %}
 					{% endfor %}
+					{% if paginator.next_page %}
+						<a href="{{ paginator.next_page_path | replace: '//', '/' | remove: 'index.html' }}">Mais &raquo;</a>
+					{% endif%}
 				</nav>
 			{% endif %}
 
