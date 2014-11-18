@@ -7,22 +7,22 @@
 		<title>{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
 
 		<!-- Google tags -->
-		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
 		<meta name="author" content="Mariana Soares">
 		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
-		<meta property="og:type" content="Blog" />
-		<meta property="og:image" content="" />
+		<meta property="og:type" content="Blog">
+		<meta property="og:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
-		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
+		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
-		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}DESCRIÇÃO{% endif %}">
-		<meta name="twitter:image" content="">
+		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
+		<meta name="twitter:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 
 		<!-- Mobile viewport -->
 		<meta name="viewport" content="width=device-width">
