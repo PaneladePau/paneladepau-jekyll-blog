@@ -2,23 +2,18 @@
 titulo: Título do post
 imgdestaque: nome-da-imagem.jpg
 tags: [Tag 1, Tag 2]
-imagem2: nome-da-imagem.jpg
-legendaimg2: Legenda da imagem
+imagem2: nome-da-imagem-2.jpg
+legendaimg2: Legenda da imagem 2
 ---
 {% comment %}
-# Lista de tags: 
-# bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
+#tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
+**bold**
+*italico*
+* listagem com bullet
+1. listagem com numeração
+[este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
-{% include post-info.html %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendrerit quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, interdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius nibh eu diam tempor rhoncus.
 
 {% include imagem2.html %}
-
-Erat pellentesque ornare gravida, ipsum est luctus neque, eget condimentum urna arcu sit amet felis. Duis nisl augue, scelerisque quis iaculis non, commodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendrerit quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, interdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius nibh eu diam tempor rhoncus.
-
-{% include imagem3.html %}
-
-Erat pellentesque ornare gravida, ipsum est luctus neque, eget condimentum urna arcu sit amet felis. Duis nisl augue, scelerisque quis iaculis non, commodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper.
