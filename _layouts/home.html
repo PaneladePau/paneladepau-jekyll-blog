@@ -115,7 +115,7 @@
 			{% endif %}
 
 			<section class="tags">
-				<p class="rotulo-tags">tags:</p>
+				<span class="rotulo-tags">tags:</span>
 				{% for tag in site.tags %}
 				    <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
 				    	{% if paginator.page == 1 %}

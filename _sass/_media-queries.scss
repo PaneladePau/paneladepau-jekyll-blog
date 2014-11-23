@@ -1,4 +1,4 @@
-@media only screen and (max-width : 1400px) {
+@media only screen and (max-width : 1300px) {
 
 	body {
 		width: 960px;
@@ -40,5 +40,125 @@
 
 	footer {
 		width: 940px;
+	}
+}
+
+@media only screen and (max-width : 980px) {
+	body {
+		width: 640px;
+		font-size: 36px;
+	}
+
+	header {
+		width: 620px;
+		height: 130px;
+		//border-bottom: 4px solid $marrom;
+		ul {
+			display: none;
+		}
+	}
+
+	.logo-main {
+		width: 300px;
+		height: 103px;
+		margin: 10px 0;
+		margin-bottom: -24px;
+	}
+
+	.destaque {
+		.info {
+			height: auto;
+			width: auto;
+			padding: 0;
+			padding-left: 160px;
+			float: right;
+			.data {
+				font-size: 24px;
+			}
+		}
+		.titulo {
+			font-size: 48px;
+		}
+		.img {
+			border-bottom: 4px solid $marrom;
+		}
+	}
+
+	.post-list {
+		width: 620px;
+		height: auto;
+		margin-bottom: 20px;
+		.img {
+			height: 352px;
+			border-bottom: 4px solid $marrom;
+		}
+		.titulo-list {
+			display: none;
+		}
+		.titulo {
+			display: inline;
+			margin-top: 0;
+			font-size: 48px;
+			line-height: 1;
+			color: $marrom;
+		}
+		.info {
+			height: auto;
+			width: auto;
+			padding: 0;
+			padding-left: 100px;
+			display: block;
+			float: right;
+			margin: 10px;
+			position: relative;
+			text-align: right;
+			.data {
+				font-size: 24px;
+				position: relative;
+				bottom: 0;
+				margin-top: 10px;
+			}
+		}
+	}
+
+	footer {
+		width: 620px;
+	}
+
+	.paginacao {
+		font-size: 36px;
+	}
+
+	.tags {
+		font-size: 48px;
+	}
+
+	.post>p {
+		margin-right: 0;
+		border-right: none;
+		padding-left: 30px;
+		//text-align: left;
+	}
+
+	.post {
+		.intern-img {
+			margin-right: 60px;
+			margin-left: 50px;
+			figcaption {
+				font-size: 24px;
+			}
+		}
+		.info {
+			margin-bottom: 32px;
+		}
+	}
+
+	.g-ads-300, .g-ads-730 {
+		display: none;
+	}
+
+	h2.titulo-tag {
+		font-size: 48px;
+		margin: 40px 0;
 	}
 }

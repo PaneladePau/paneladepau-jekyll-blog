@@ -29,6 +29,9 @@ header {
 	margin: 10px;
 	border-bottom: 2px solid $marrom;
 	overflow: hidden;
+	ul {
+		display: inline;
+	}
 	li {
 		float: right;
 		margin: 10px;
@@ -207,6 +210,7 @@ footer {
 	border-top: 2px solid $marrom;
 	padding-top: 20px;
 	text-align: center;
+	font-size: inherit;
 	p {
 		display: inline-block;
 	}
