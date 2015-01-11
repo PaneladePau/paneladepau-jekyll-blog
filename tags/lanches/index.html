@@ -1,17 +1,13 @@
 ---
 layout: tags
 titulotag: Lanches
-descricaotag: Texto descritivo sobre esta tag
+descricaotag: Lanches, sanduíches, burgers... Receitas simples e rápidas para temperar a cozinha. Culinária caseira à base de espontaneidade e amor.
 permalink: /tags/lanches/
 ---
 <h2 class="titulo-tag">tag: Lanches</h2>
 
 {% for post in site.posts %}
 	{% if post.tags contains 'lanches' %}
-		<article class="post-list">
-			<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
-			<h2 class="titulo-list">{{ post.titulo }}</h2>
-			{% include post-info_tagpage.html %}
-		</article>
+		{% include post-info_tagpage_listing.html %}
 	{% endif %}
 {% endfor %}

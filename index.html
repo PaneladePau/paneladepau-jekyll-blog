@@ -20,11 +20,11 @@ layout: home
 <article class="post-list">
 {% if paginator.page == 1 %}
 <a class="post-link" href="{{ post.url | remove:'/' }}">ler post</a>
-<h2 class="titulo-list">{{ post.titulo }}</h2>
+<h2 class="titulo-list">{{ post.titulo | strip_html | truncatewords:5 }}</h2>
 	{% include post-info.html %}
 {% else %}
 <a class="post-link" href="..{{ post.url }}">ler post</a>
-<h2 class="titulo-list">{{ post.titulo }}</h2>
+<h2 class="titulo-list">{{ post.titulo | strip_html | truncatewords:5 }}</h2>
 	{% include post-info_pagination.html %}
 {% endif %}
 </article>

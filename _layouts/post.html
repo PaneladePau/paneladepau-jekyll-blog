@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>{{page.titulo}} - Panela de Pau</title>
+		<title>{{page.titulo}} | Panela de Pau</title>
 
 		<!-- Google tags -->
 		<meta name="description" content="{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}">
@@ -17,10 +17,11 @@
 		<meta property="og:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}" />
 		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}/">
 		<meta property="og:description" content="{{ content | strip_html | truncatewords:25 }}">
+		<meta property="fb:app_id" content="1539564076286352"/>
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content="{{page.titulo}} - Panela de Pau">
+		<meta name="twitter:title" content="{{page.titulo}} | Panela de Pau">
 		<meta name="twitter:description" content="{{ content | strip_html | truncatewords:25 }}">
 		<meta name="twitter:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
 
@@ -42,20 +43,40 @@
 	</head>
 
 	<body>
+		<!-- Barra Mundo Positivo -->
+		<script src="http://commons.mundopositivo.com.br/ancoragem/data.js"></script>
+
+		<!-- Google AdSense API
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+
+		<!-- Facebook API -->
+		<div id="fb-root"></div>
+		<script>
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=1539564076286352&version=v2.0";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+
 		<header>
+			<div class="menu-icon"></div>
+
 			<h1 class="logo-main logo-main--internas">
 				<a href="../">
 					<img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
 				</a>
-				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
+				<span>Culinária caseira à base de espontaneidade e amor</span>
 			</h1>
 			
 			<nav class="menu">
 				<ul>
-					<li><a href="../#">Facebook</a></li>
-					<li><a href="../#">Contato</a></li>
+					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
+					<li><a href="../contato">Contato</a></li>
 					<!-- <li><a href="#">Busca</a></li> -->
-					<li><a href="../#">About</a></li>	
+					<li><a href="../sobre">Sobre</a></li>	
 				</ul>
 			</nav>
 		</header>
@@ -76,7 +97,11 @@
 
 			<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
 
+			{% include facebook_share.html %}
+
 			{% include google_ads.html %}
+
+			{% include facebook_likebox.html %}
 
 			{% include facebook_comments.html %}
 
@@ -96,5 +121,15 @@
 			
 			{% include signature.html %}
 		</footer>
+
+		{% include google_analytics.html %}
+
+		<!-- Google AdSense
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script> -->
+
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="../js/menu.js"></script>
 	</body>
 </html>

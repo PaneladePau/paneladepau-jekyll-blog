@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>{{ page.titulotag }} - Panela de Pau</title>
+		<title>{{ page.titulotag }} | Panela de Pau</title>
 
 		<!-- Google tags -->
 		<meta name="description" content="{{ page.descricaotag }}">
@@ -20,7 +20,7 @@
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content="{{ page.titulotag }} - Panela de Pau">
+		<meta name="twitter:title" content="{{ page.titulotag }} | Panela de Pau">
 		<meta name="twitter:description" content="{{ page.descricaotag }}">
 		<meta name="twitter:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 
@@ -42,20 +42,25 @@
 	</head>
 
 	<body>
+		<!-- Barra Mundo Positivo -->
+		<script type="text/javascript" src="http://commons.mundopositivo.com.br/ancoragem/data.js"></script>
+
 		<header>
+			<div class="menu-icon"></div>
+
 			<h1 class="logo-main logo-main--internas">
 				<a href="../../">
 					<img src="../../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
 				</a>
-				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
-			</h1>
-			
+				<span>Culinária caseira à base de espontaneidade e amor</span>
+			</h1>			
+
 			<nav class="menu">
 				<ul>
-					<li><a href="../../#">Facebook</a></li>
-					<li><a href="../../#">Contato</a></li>
+					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
+					<li><a href="../../contato">Contato</a></li>
 					<!-- <li><a href="#">Busca</a></li> -->
-					<li><a href="../../#">About</a></li>	
+					<li><a href="../../sobre">Sobre</a></li>	
 				</ul>
 			</nav>
 		</header>
@@ -76,5 +81,10 @@
 			
 			{% include signature.html %}
 		</footer>
+
+		{% include google_analytics.html %}
+
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="../../js/menu.js"></script>
 	</body>
 </html>

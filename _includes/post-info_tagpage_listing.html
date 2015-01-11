@@ -1,0 +1,5 @@
+<article class="post-list">
+	<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">ler post</a>
+	<h2 class="titulo-list">{{ post.titulo | strip_html | truncatewords:5 }}</h2>
+	{% include post-info_tagpage.html %}
+</article>

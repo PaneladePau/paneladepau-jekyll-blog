@@ -38,6 +38,10 @@
 		top: 392px;
 	}
 
+	.fblikebox {
+		top: 680px;
+	}
+
 	footer {
 		width: 940px;
 	}
@@ -50,17 +54,35 @@
 	}
 
 	header {
-		width: 620px;
+		width: 600px;
 		height: 130px;
-		//border-bottom: 4px solid $marrom;
+		margin: 20px;
+		//transition: all 0.5s;
 		ul {
-			display: none;
+			margin-top: 80px;
+			margin-bottom: 40px;
+			display: block;
+			li {
+				display: block;
+				float: none;
+				text-align: right;
+				a {
+					font-size: 48px;
+					line-height: 1.5;
+				}
+			}
 		}
+		&.active {
+			height: auto;
+		}
+	}
+
+	.menu-icon {
+		display: block;
 	}
 
 	.logo-main {
 		width: 300px;
-		height: 103px;
 		margin: 10px 0;
 		margin-bottom: -24px;
 	}
@@ -69,6 +91,8 @@
 		.info {
 			height: auto;
 			width: auto;
+			margin: 20px;
+			margin-top: 0;
 			padding: 0;
 			padding-left: 160px;
 			float: right;
@@ -81,13 +105,15 @@
 		}
 		.img {
 			border-bottom: 4px solid $marrom;
+			width: 600px;
+			margin: 20px;
 		}
 	}
 
 	.post-list {
-		width: 620px;
+		width: 600px;
 		height: auto;
-		margin-bottom: 20px;
+		margin: 20px;
 		.img {
 			height: 352px;
 			border-bottom: 4px solid $marrom;
@@ -122,7 +148,8 @@
 	}
 
 	footer {
-		width: 620px;
+		width: 600px;
+		margin: 20px;
 	}
 
 	.paginacao {
@@ -130,14 +157,16 @@
 	}
 
 	.tags {
-		font-size: 48px;
+		font-size: 36px;
 	}
 
 	.post>p {
 		margin-right: 0;
 		border-right: none;
-		padding-left: 30px;
-		//text-align: left;
+		padding-left: 20px;
+		padding-right: 0;
+		width: 620px;
+		text-align: left;
 	}
 
 	.post {
@@ -153,12 +182,20 @@
 		}
 	}
 
-	.g-ads-300, .g-ads-730 {
-		display: none;
+	.g-ads-300, .g-ads-728, .fblikebox, .fbcomments {
+		display: none !important;
 	}
 
 	h2.titulo-tag {
 		font-size: 48px;
 		margin: 40px 0;
+	}
+
+	#AnchorBarMP {
+		display: none !important;
+	}
+
+	body {
+		padding-top: 0 !important;
 	}
 }

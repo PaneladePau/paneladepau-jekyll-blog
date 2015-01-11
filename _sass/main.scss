@@ -20,6 +20,11 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+strong {
+	color: $marrom;
+	font-weight: bold;
+}
+
 a {
 	text-decoration: none;
 }
@@ -47,13 +52,40 @@ header {
 	}
 }
 
+.menu-icon {
+	width: 70px;
+	height: 12px;
+	background-color: $marromClaro;
+	float: right;
+	margin-top: 60px;
+	display: none;
+	&:before {
+		content: '';
+		display: block;
+		width: 70px;
+		height: 12px;
+		background-color: $marromClaro;
+		position: relative;
+		top: -22px;
+	}
+	&:after {
+		content: '';
+		display: block;
+		width: 70px;
+		height: 12px;
+		background-color: $marromClaro;
+		position: relative;
+		top: 10px;
+	}
+}
+
 .underline {
 	text-decoration: underline;
 }
 
 .logo-main {
 	width: 480px;
-	height: 165px;
+	height: auto;
 	margin: 10px auto;
 	font-size: 0;
 }

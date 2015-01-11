@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}</title>
+		<title>{% if page.titulo }%}{{page.titulo}} | Panela de Pau{% else %}Culinária caseira à base de espontaneidade e amor | Panela de Pau{% endif %}</title>
 
 		<!-- Google tags -->
 		<meta name="description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
@@ -12,16 +12,16 @@
 		<meta name="dcterms.rightsHolder" content="Mariana Soares">
 
 		<!-- Facebook tags -->          
-		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
+		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} | Panela de Pau{% else %}Culinária caseira à base de espontaneidade e amor | Panela de Pau{% endif %}">
 		<meta property="og:type" content="Blog">
 		<meta property="og:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
-		<meta property="og:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
+		<meta property="og:description" content="{% if page.titulo }%}{{ content | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
 
 		<!-- Twitter tags -->          
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} - Panela de Pau{% else %}Panela de Pau | Culinária Caseira à Base de Espontaneidade e Descontração{% endif %}">
-		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
+		<meta name="twitter:title" content="{% if page.titulo }%}{{page.titulo}} | Panela de Pau{% else %}Culinária caseira à base de espontaneidade e amor | Panela de Pau{% endif %}">
+		<meta name="twitter:description" content="{% if page.titulo }%}{{ content | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
 		<meta name="twitter:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 
 		<!-- Mobile viewport -->
@@ -48,7 +48,12 @@
 	</head>
 
 	<body>
+		<!-- Barra Mundo Positivo -->
+		<script type="text/javascript" src="http://commons.mundopositivo.com.br/ancoragem/data.js"></script>
+
 		<header>
+			<div class="menu-icon"></div>
+
 			<h1 class="logo-main">
 				{% if paginator.page == 1 %}
 				<a href="">
@@ -59,21 +64,21 @@
 					<img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
 				</a>
 				{% endif %}
-				<span>Culinária Caseira à Base de Espontaneidade e Descontração</span>
+				<span>Culinária caseira à base de espontaneidade e amor</span>
 			</h1>
 			
 			<nav class="menu">
 				<ul>
 					{% if paginator.page == 1 %}
-					<li><a href="#">Facebook</a></li>
-					<li><a href="#">Contato</a></li>
+					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
+					<li><a href="contato">Contato</a></li>
 					<!-- <li><a href="#">Busca</a></li> -->
-					<li><a href="#">About</a></li>
+					<li><a href="sobre">Sobre</a></li>
 					{% else %}
-					<li><a href="../#">Facebook</a></li>
-					<li><a href="../#">Contato</a></li>
+					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
+					<li><a href="../contato">Contato</a></li>
 					<!-- <li><a href="#">Busca</a></li> -->
-					<li><a href="../#">About</a></li>
+					<li><a href="../sobre">Sobre</a></li>
 					{% endif %}
 				</ul>
 			</nav>
@@ -133,5 +138,14 @@
 
 			{% include signature.html %}
 		</footer>
+
+		{% include google_analytics.html %}
+
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		{% if paginator.page == 1 %}
+		<script src="js/menu.js"></script>
+		{% else %}
+		<script src="../js/menu.js"></script>
+		{% endif %}
 	</body>
 </html>
