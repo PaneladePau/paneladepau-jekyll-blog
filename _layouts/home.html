@@ -96,6 +96,7 @@
 							<a href="../pagina-{{ paginator.page | minus:1 }}" class="voltar">&laquo; Voltar</a>
 						{% endif %}
 					{% endif %}
+					{{ paginator.page }} / {{ paginator.total_pages }}
 					<!-- {% for page in (1..paginator.total_pages) %}
 						{% if page == paginator.page %}
 							<em>{{ page }}</em>

@@ -6,10 +6,18 @@
 }
 
 .post {
+	ul li {
+		list-style: disc;
+		list-style-position: inside;
+	}
+	ol li {
+		list-style: decimal;
+		list-style-position: inside;
+	}
 	.img {
 		margin-bottom: 30px;
 	}
-	&>p, h3 {
+	&>p, h3, ol li, ul li, &>iframe {
 		width: 950px;
 		padding: 10px 10px 30px 10px;
 		padding-right: 20px;
