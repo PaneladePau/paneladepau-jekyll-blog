@@ -96,7 +96,7 @@
 							<a href="../pagina-{{ paginator.page | minus:1 }}" class="voltar">&laquo; Voltar</a>
 						{% endif %}
 					{% endif %}
-					{% for page in (1..paginator.total_pages) %}
+					<!-- {% for page in (1..paginator.total_pages) %}
 						{% if page == paginator.page %}
 							<em>{{ page }}</em>
 						{% elsif page == 1 %}
@@ -108,7 +108,7 @@
 								<a href="../pagina-{{ page }}">{{ page }}</a>
 							{% endif %}
 						{% endif %}
-					{% endfor %}
+					{% endfor %} -->
 					{% if paginator.next_page %}
 						{% if paginator.page == 1 %}
 							<a href="pagina-{{ paginator.page | plus:1 }}" class="mais">Mais &raquo;</a>
@@ -122,7 +122,7 @@
 			<section class="tags">
 				<span class="rotulo-tags">tags:</span>
 				{% for tag in site.tags %}
-				    <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
+				    <li style="font-size: {{ tag | last | size | times: 20 | divided_by: site.tags.size | plus: 70 }}%">
 				    	{% if paginator.page == 1 %}
 				        <a href="tags/{{ tag | first | slugify }}/">
 				            {{ tag | first }}

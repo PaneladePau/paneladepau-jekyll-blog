@@ -9,7 +9,7 @@
 	.img {
 		margin-bottom: 30px;
 	}
-	&>p {
+	&>p, h3 {
 		width: 950px;
 		padding: 10px 10px 30px 10px;
 		padding-right: 20px;
@@ -37,6 +37,9 @@
 		&:hover {
 			color: $marromClaro;
 		}
+	}
+	h3 {
+		text-decoration: underline;
 	}
 }
 
