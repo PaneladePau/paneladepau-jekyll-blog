@@ -26,7 +26,7 @@
 	}
 
 	.post {
-		&>p, h3, ol li, ul li {
+		&>p, h3, li, &>iframe  {
 			width: 630px;
 		}
 		.intern-img {
@@ -162,7 +162,7 @@
 	}
 
 	.post {
-		&>p, h3, ol li, ul li, &>iframe {
+		&>p, h3, li, &>iframe {
 			margin-right: 0;
 			border-right: none;
 			padding-left: 20px;
@@ -289,12 +289,15 @@
 	}
 
 	.post {
-		&>p, h3, ol li, ul li, &>iframe {
+		&>p, h3, li, &>iframe {
 			margin-right: 0;
 			padding-left: 10px;
 			padding-right: 0;
 			padding-bottom: 10px;
 			width: 310px;
+		}
+		li {
+			padding-top: 10px !important;
 		}
 	}
 

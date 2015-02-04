@@ -17,7 +17,7 @@
 	.img {
 		margin-bottom: 30px;
 	}
-	&>p, h3, ol li, ul li, &>iframe {
+	&>p, h3, li, &>iframe {
 		width: 950px;
 		padding: 10px 10px 30px 10px;
 		padding-right: 20px;
@@ -25,6 +25,9 @@
 		line-height: 1.2;
 		color: $cinza;
 		text-align: justify;
+	}
+	li {
+		padding-top: 0 !important;
 	}
 	.intern-img {
 		width: 840px;
