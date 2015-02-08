@@ -3,9 +3,7 @@ titulo: Semana da Cozinha Gaúcha - Moranga (Mogango) Caramelada
 imgdestaque: moranga-caramelada.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: moranga-caramelada2.jpg
-legendaimg2: Imagem do mogango, fruto de semente crioula muito presente nas terras gaúchas.
-imagem3: moranga-caramelada3.jpg
-legendaimg3: Moranga borbulhando na calda de açúcar na panela de ferro. Coisa boa!
+legendaimg2: Moranga borbulhando na calda de açúcar na panela de ferro. Coisa boa!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -21,19 +19,17 @@ Bom dia!
 
 Hoje é dia de mais uma delícia da **Semana da Cozinha Gaúcha**: Moranga Caramelada, um prato bastante difundido em várias regiões do Brasil.
 
-Na verdade, nas terras do sul, o prato é mais conhecido como Mogango Caramelado. É feito com um fruto do gênero *Cucurbita*, que engloba os vários tipos de abóboras e faz parte da família das Curcubitáceas - formada, também, pela presença de outros alimentos bastante conhecidos, como melancia, pepino, abobrinha e melão. 
+Na verdade, nas terras do sul, o prato é mais conhecido como Mogango Caramelado. É feito com um fruto do gênero *Cucurbita*, que engloba os vários tipos de abóboras e faz parte da família das *Curcubitáceas* - formada, também, pela presença de outros alimentos bastante conhecidos, como melancia, pepino, abobrinha e melão. 
 
 O papel nutritivo das abóboras na alimentação brasileira tem importantes raízes históricas. Antes do período colonial, o povo indígena nativo já utilizava esse fruto, que era uma das culturas agrícolas essenciais à subsistência, ao lado da mandioca e do milho. Com a chega dos colonizadores portugueses, a abóbora brasileira foi exportada para as terras europeias, da mesma forma que as abóboras de outras regiões da América (principalmente da América Central) foram levadas ao outro lado do mundo pelos espanhóis. Logo, o fruto chegou a mais regiões da Europa, como Itália e Alemanha, países que, séculos mais tarde, trouxeram grandes levas de imigrantes para o Brasil. Os "gringos" que aqui chegaram trouxeram também as suas culturas, entre elas, os próprios tipos de abóboras cultivados em suas regiões de origem. Atualmente, o cenário brasileiro é composto por uma variedade muito rica de abóboras, que carregam diversos nomes e são utilizadas tanto em receitas salgadas quanto doces. Entre alguns tipos bastante conhecidos, estão: [moranga](http://not1.xpg.uol.com.br/wp-content/uploads/2011/06/abobora-moranga-not1.jpg), [abóbora de pescoço](http://www.sementesdetomate.com.br/produtos/g_menina-brasileira.jpg), [abóbora cabotiá (japonesa)](http://vivasaude.digisa.com.br/upload/imagens_upload/abbora_japonesa_2.jpg) e [abóbora do campo](http://mdemulher.abril.com.br/imagem/culinaria/destaque-secundario/abobora-do-campo.jpg).
 
 O mogango, produto bastante comum no Rio Grande do Sul, é mais um dos tipos de abóboras do Brasil. Sua produção tem origem em sementes crioulas (melhoramento realizado através da cruza de sementes, sem processos químicos, que se dá com adaptações ao solo e ao clima), com bastante influência da colonização portuguesa no Estado. Inclusive, a palavra Mogango é bastante utilizada na região do Alentejo, em Portugal. No Rio Grande do Sul, o mogango é bastante forte na região da campanha gaúcha, local onde há a tradição de servir o mogango doce acompanhado de leite. O mogango é um tipo de abóbora de cor verde (com listras claras e escuras), textura rajada, casca dura e interior fibroso. 
 
-{% include imagem2.html %}
-
 Como na última semana não consegui encontrar mogango - é mais comum em feiras -, a receita de hoje vai com a moranga, também bastante comum aqui no Rio Grande do Sul. Trata-se da abóbora achatadinha e mais alaranjada. Essa receita é um gostoso acompanhamento para uma boa carne assada ou um saboroso [carreteiro de charque](http://paneladepau.com.br/semana-da-cozinha-gaucha-carreteiro-de-charque). 
 
 **Moranga Caramelada**
 
-{% include imagem3.html %}
+{% include imagem2.html %}
 
 ### Ingredientes:
 
@@ -55,6 +51,6 @@ E é só comer! Se preferir, o cozimento pode ser menor, deixando a calda menos 
 
 Amanhã, o Panela de Pau volta com a quarta receita da **Semana da Cozinha Gaúcha**.
 
-A pedida da quarta-feira é um prato que tem gostinho de casa de vó: ### Galinhada! Não vai perder!
+A pedida da quarta-feira é um prato que tem gostinho de casa de vó: **Galinhada**! Não vai perder!
 
 Buenas, até a próxima!

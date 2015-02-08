@@ -2,7 +2,7 @@
 titulo: Bolo de banana e chocolate sem glúten
 imgdestaque: bolo-de-banana-com-chocolate.jpg
 tags: [paes e bolos, lanches, cozinha saudavel]
-imagem2: nbolo-de-banana-com-chocolate2.jpg
+imagem2: bolo-de-banana-com-chocolate2.jpg
 legendaimg2: Bolo macio e muito saboroso, pronto para ser devorado. 
 imagem3: bolo-de-banana-com-chocolate3.jpg
 legendaimg3: Uma ideia legal para o piquinique é já levar o bolo cortadinho para facilitar a comilança!

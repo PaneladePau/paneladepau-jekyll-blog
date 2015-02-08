@@ -8,34 +8,44 @@
 .post {
 	ul li {
 		list-style: disc;
-		list-style-position: inside;
+		
 	}
 	ol li {
 		list-style: decimal;
-		list-style-position: inside;
+	}
+	li {
+		list-style-position: inside !important;
+		padding: 10px 0 !important;
+	}
+	ul, ol {
+		padding-bottom: 20px;
 	}
 	.img {
 		margin-bottom: 30px;
 	}
-	&>p, h3, li, &>iframe {
+	.conteudo-post {
+		float: left;
 		width: 950px;
-		padding: 10px 10px 30px 10px;
-		padding-right: 20px;
 		border-right: 1px solid $marromClaro;
 		line-height: 1.2;
 		color: $cinza;
 		text-align: justify;
-	}
-	li {
-		padding-top: 0 !important;
+		padding-right: 20px;
+		padding-left: 10px;
+		p, h3, li, iframe {
+			padding-top: 10px;
+			padding-bottom: 30px;
+		}
+		iframe {
+			display: block;
+			width: 100% !important;
+		}
 	}
 	.intern-img {
 		width: 840px;
+		margin: auto;
 		margin-top: 14px;
 		margin-bottom: 34px;
-		float: right;
-		margin-right: 390px;
-		margin-left: 40px;
 		figcaption {
 			text-align: center;
 			color: $marrom;
@@ -56,6 +66,10 @@
 
 .fbshare {
 	text-align: right !important;
+	width: 100%;
+	iframe {
+		padding: 0 !important;
+	}
 }
 
 p.fb-share-button {
@@ -64,23 +78,21 @@ p.fb-share-button {
 
 .g-ads-300 {
 	width: 300px;
+	height: 250px;
 	margin: 10px;
-	position: absolute;
-	right: 0;
-	top: 570px;
+	float: right;
 }
 
 .g-ads-728 {
-	margin: 80px 10px;
+	margin: 40px 10px;
 	float: left;
-	width: 100%;
+	width: 728px;
+	height: 90px;
 }
 
 .fblikebox {
 	margin: 10px;
-	position: absolute !important;
-	right: 0;
-	top: 860px;
+	float: right;
 }
 
 .fbcomments {
@@ -104,4 +116,9 @@ p.fb-share-button {
 .info-autor {
 	margin-top: 60px;
 	display: block;
+}
+
+.assinatura-post {
+	font-size: 14px;
+	font-style: italic;
 }

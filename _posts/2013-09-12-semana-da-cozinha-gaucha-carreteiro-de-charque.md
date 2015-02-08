@@ -1,7 +1,7 @@
 ---
 titulo: Semana da Cozinha Gaúcha - Carreteiro de Charque
 imgdestaque: carreteiro-de-charque.jpg
-tags: [pratos quentes, espciais]
+tags: [pratos quentes, especiais]
 imagem2: carreteiro-de-charque2.jpg
 legendaimg2: Ilustração de uma antiga charqueada, local de produção do charque junto às propriedades dos fazendeiros.
 imagem3: carreteiro-de-charque3.jpg
@@ -25,7 +25,7 @@ A receita dessa quinta-feira leva um ingrediente muito importante para a histór
 
 {% include imagem2.html %}
 
-Por muito tempo, o charque foi o principal produto da economia do Rio Grande do Sul - um dos grandes produtores do gênero no país. A maior parte das riquezas que circulavam no Estado dependiam desse alimento, que articulava o setor agropecuário gaúcho com os de diversas outras regiões do país, em especial do Centro-Oeste e do Sudeste. A disputa pelo mercado do charque tornou-se, a partir do Primeiro Reinado e da Regência, bastante difícil para os produtores gaúchos. Devido a uma série de impostos que desacelerou o crescimento da produção no Estado, causando um aumento do valor do charque sul-riograndense, o produto começou a perder concorrência no âmbito nacional. Dentre vários fatores, a massiva insatisfação dos fazendeiros gaúchos com as medidas do governo deu origem a Revolução Farroupilha (Guerra dos Farrapos), liderada por Bento Gonçalves, que se estendeu por 10 anos, entre 1835 e 1845, encerrada através do Tratado de Paz de Ponche Verde. Em 2003, a minisérie A Casa das Sete Mulheres (em reprise atualmente no canal Viva) teve esse episódio histórico como seu pano de fundo, baseada no romace da autora gaúcha Letícia Wierzchowski.
+Por muito tempo, o charque foi o principal produto da economia do Rio Grande do Sul - um dos grandes produtores do gênero no país. A maior parte das riquezas que circulavam no Estado dependiam desse alimento, que articulava o setor agropecuário gaúcho com os de diversas outras regiões do país, em especial do Centro-Oeste e do Sudeste. A disputa pelo mercado do charque tornou-se, a partir do Primeiro Reinado e da Regência, bastante difícil para os produtores gaúchos. Devido a uma série de impostos que desacelerou o crescimento da produção no Estado, causando um aumento do valor do charque sul-riograndense, o produto começou a perder concorrência no âmbito nacional. Dentre vários fatores, a massiva insatisfação dos fazendeiros gaúchos com as medidas do governo deu origem a Revolução Farroupilha (Guerra dos Farrapos), liderada por Bento Gonçalves, que se estendeu por 10 anos, entre 1835 e 1845, encerrada através do Tratado de Paz de Ponche Verde. Em 2003, a minisérie A Casa das Sete Mulheres (em reprise atualmente no canal Viva) teve esse episódio histórico como seu pano de fundo, baseada no romance da autora gaúcha Letícia Wierzchowski.
 
 No meio desse conflito, o dia 20 de setembro tem um simbolismo marcante, pois é a data de início dos confrontos, quando o exército rebelde toma Porto Alegre (capital do Estado) e deflagra o começo das batalhas com as forças nacionais. Desde 1978, pela Lei Estadual 4.453/78, a data é regulamentada como feriado estadual, marcando o Dia do Gaúcho. 
 
@@ -55,10 +55,6 @@ E esta foi a nossa receita de hoje!
 
 Não deixe de seguir acompanhando nossa **Semana da Cozinha Gaúcha**, que está recém começando!
 
-Amanhã, é dia de sobremesa: ### Canjica Doce. 
-
-Não vai perder!
+Amanhã, é dia de sobremesa: **Canjica Doce**. Não vai perder!
 
 Até a próxima!
-
-

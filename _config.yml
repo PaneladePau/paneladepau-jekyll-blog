@@ -1,15 +1,17 @@
 # Site settings
 title: Panela de Pau
+name: Panela de Pau
 email: mariana.cs@live.com
 description: Blog de culinária caseira. Receitas simples e rápidas para temperar a cozinha com muito amor e sabor. Culinária caseira à base de espontaneidade e amor.
 baseurl: http://paneladepau.com.br
+url: http://paneladepau.com.br
 github_username:  PaneladePau
 
 # Build settings
 markdown: rdiscount
 destination: ./_site
 permalink: /:title
-exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md']
+exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md','CNAME']
 paginate: 5
 paginate_path: "pagina-:num"
 highlighter: pygments

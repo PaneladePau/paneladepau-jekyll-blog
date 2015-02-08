@@ -31,6 +31,9 @@
 		<!-- Github project page's custom domain Google robot fix -->
 		<link rel="canonical" href="http://paneladepau.com.br{{ page.url | remove: 'index.html' }}/">
 
+		<!-- RSS Reader -->
+		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+
 		<!-- CSS -->
 		<link rel="stylesheet" href="../css/main.css">
 
@@ -93,15 +96,22 @@
 				</figcaption>
 			</figure>
 
-			{{content}}
+			<section class="conteudo-post">
+				{{content}}
 
-			<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
+				<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
 
-			{% include facebook_share.html %}
+				<p class="assinatura-post">Por Mariana Cervi Soares</p>
 
-			{% include google_ads.html %}
+				{% include facebook_share.html %}
+
+			</section>
+
+			{% include google_ads_300x250.html %}
 
 			{% include facebook_likebox.html %}
+
+			{% include google_ads_728.html %}
 
 			{% include facebook_comments.html %}
 
