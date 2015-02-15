@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Carreteiro de Charque
+titulo: Carreteiro de Charque, Semana da Cozinha Gaúcha
 imgdestaque: carreteiro-de-charque.jpg
 tags: [pratos quentes, especiais]
 imagem2: carreteiro-de-charque2.jpg

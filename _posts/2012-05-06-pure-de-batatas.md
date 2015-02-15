@@ -1,7 +1,7 @@
 ---
 titulo: Purê de batatas vapt-vupt
 imgdestaque: pure-batatas.jpg
-tags: [cozinha rapida, pratos quentes]
+tags: [comida rapida, pratos quentes]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---

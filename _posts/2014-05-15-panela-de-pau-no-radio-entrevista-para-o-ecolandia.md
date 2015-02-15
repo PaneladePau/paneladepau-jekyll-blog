@@ -1,5 +1,5 @@
 ---
-titulo: Panela de Pau no rádio - entrevista para o Ecolândia
+titulo: Panela de Pau no rádio, entrevista para o Ecolândia
 imgdestaque: entrevista-ecolandia.jpg
 tags: [especiais, reutilizando sobras]
 ---

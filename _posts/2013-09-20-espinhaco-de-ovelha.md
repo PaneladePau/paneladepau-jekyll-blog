@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Espinhaço de ovelha com aipim
+titulo: Espinhaço de ovelha com aipim, Semana da Cozinha Gaúcha
 imgdestaque: espinhaco.jpg
 tags: [carnes, pratos quentes, especiais]
 imagem2: espinhaco2.jpg

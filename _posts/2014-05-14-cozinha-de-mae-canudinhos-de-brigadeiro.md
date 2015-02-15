@@ -1,5 +1,5 @@
 ---
-titulo: Cozinha de mãe - Canudinhos de Brigadeiro
+titulo: Cozinha de mãe, Canudinhos de Brigadeiro
 imgdestaque: canudinhos-de-brigadeiro1.jpg
 tags: [doces e sobremesas, comida rapida]
 imagem2: canudinhos-de-brigadeiro2.jpg

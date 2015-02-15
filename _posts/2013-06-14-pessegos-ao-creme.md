@@ -1,5 +1,5 @@
 ---
-titulo: Pêssegos ao creme - delícia para os namorados!
+titulo: Pêssegos ao creme, delícia para os namorados!
 imgdestaque: creme-de-pessegos.jpg
 tags: [doces e sobremesas, especiais, comida rapida]
 imagem2: creme-de-pessegos2.jpg

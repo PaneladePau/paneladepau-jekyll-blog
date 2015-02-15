@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Galinhada
+titulo: Galinhada, Semana da Cozinha Gaúcha
 imgdestaque: galinhada.jpg
 tags: [pratos quentes, especiais]
 imagem2: galinhada2.jpg

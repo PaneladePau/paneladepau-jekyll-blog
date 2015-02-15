@@ -277,12 +277,13 @@ h2.titulo-tag {
 .assinatura {
 	text-align: center;
 	color: $cinza;
-	font-size: 16px;
+	font-size: 14px;
+	line-height: 1.5;
 	margin-top: 80px;
 	margin-bottom: 20px;
 	.jekyll {
-		width: 100px;
-		height: 44px;
+		width: 80px;
+		height: 35px;
 		background-image: url(../img/layout/logo-jekyll.png);
 		display: inline-block;
 		font-size: 0;
@@ -290,8 +291,8 @@ h2.titulo-tag {
 		vertical-align: middle;
 	}
 	.github {
-		width: 100px;
-		height: 27px;
+		width: 90px;
+		height: 24px;
 		background-image: url(../img/layout/logo-github.png);
 		display: inline-block;
 		font-size: 0;

@@ -1,5 +1,5 @@
 ---
-titulo: Promoção de Páscoa - Resultado
+titulo: Promoção de Páscoa, Resultado
 imgdestaque: resultado-promocao.jpg
 tags: [especiais]
 imagem2: resultado-promocao2.jpg

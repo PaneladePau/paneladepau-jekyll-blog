@@ -1,7 +1,7 @@
 ---
 titulo: Torta de sardinha
 imgdestaque: torta-de-sardinha.jpg
-tags: [paes e bolos, lanches, cozinha rapida, cozinha saudavel]
+tags: [paes e bolos, lanches, comida rapida, cozinha saudavel]
 imagem2: torta-de-sardinha2.jpg
 legendaimg2: O resultado é uma tortinho super leve e macia, ótima para um final de tarde!
 ---

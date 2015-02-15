@@ -1,5 +1,5 @@
 ---
-titulo: Panela de Pau - 3 anos de cozinha!
+titulo: Panela de Pau, 3 anos de cozinha!
 imgdestaque: espaguete-com-sardinha.jpg
 tags: [massas, comida rapida, especiais]
 imagem2: nome-da-imagem-2.jpg

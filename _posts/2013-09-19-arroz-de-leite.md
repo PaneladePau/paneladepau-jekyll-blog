@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Arroz de leite
+titulo: Arroz de leite, Semana da Cozinha Gaúcha
 imgdestaque: arroz-de-leite.jpg
 tags: [doces e sobremesas, pratos quentes, especiais]
 imagem2: arroz-de-leite2.jpg

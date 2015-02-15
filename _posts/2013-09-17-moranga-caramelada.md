@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Moranga (Mogango) Caramelada
+titulo: Moranga (Mogango) Caramelada, Semana da Cozinha Gaúcha
 imgdestaque: moranga-caramelada.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: moranga-caramelada2.jpg

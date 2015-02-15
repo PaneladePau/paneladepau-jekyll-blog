@@ -12,7 +12,7 @@ markdown: rdiscount
 destination: ./_site
 permalink: /:title
 exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md','CNAME']
-paginate: 5
+paginate: 9
 paginate_path: "pagina-:num"
 highlighter: pygments
 defaults:

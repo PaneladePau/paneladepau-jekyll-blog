@@ -1,5 +1,5 @@
 ---
-titulo: Tutorial - Chocolate de Páscoa
+titulo: Tutorial, Chocolate de Páscoa
 imgdestaque: chocolate-pascoa.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: chocolate-pascoa2.jpg

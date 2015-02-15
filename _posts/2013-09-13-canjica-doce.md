@@ -1,5 +1,5 @@
 ---
-titulo: Semana da Cozinha Gaúcha - Canjica Doce
+titulo: Canjica Doce, Semana da Cozinha Gaúcha
 imgdestaque: canjica1.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: canjica2.jpg

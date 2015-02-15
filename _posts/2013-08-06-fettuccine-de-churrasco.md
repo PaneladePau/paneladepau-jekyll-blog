@@ -1,7 +1,7 @@
 ---
 titulo: Fettuccine de churrasco
 imgdestaque: fettuccine-de-churrasco.jpg
-tags: [massas, cozinha rapida, reutilizando sobras]
+tags: [massas, comida rapida, reutilizando sobras]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
