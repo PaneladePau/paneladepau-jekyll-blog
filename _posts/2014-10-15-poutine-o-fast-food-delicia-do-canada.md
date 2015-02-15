@@ -2,8 +2,8 @@
 titulo: Poutine, o fast food delícia do Canadá
 imgdestaque: poutine1.jpg
 tags: [lanches, especiais]
-imagem2: O suntuoso Poutine!
-legendaimg2: Poutine
+imagem2: poutine2.jpg
+legendaimg2: O suntuoso Poutine!
 imagem3: poutine3.jpg
 legendaimg3: O molho estará pronto quando chegar ao ponto napê. 
 imagem4: poutine4.jpg

@@ -4,7 +4,7 @@ imgdestaque: coxinha-brigadeiro1.jpg
 tags: [doces e sobremesas]
 imagem2: coxinha-brigadeiro2.jpg
 legendaimg2: A releitura de um clássico em forma de doce. Delícia!
-imagem3: coxinha-brigadeiro.jpg
+imagem3: coxinha-brigadeiro3.jpg
 legendaimg3: Por dentro, o morango tenrinho e suculento. Por fora, o brigadeiro super cremoso!
 ---
 {% comment %}
