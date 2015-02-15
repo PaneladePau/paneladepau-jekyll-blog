@@ -1,7 +1,7 @@
 ---
 titulo: Carne de panela rápida
 imgdestaque: carne-panela1.jpg
-tags: [pratos quentes, comida rapida]
+tags: [pratos quentes, comida rapida, carnes]
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -31,10 +31,11 @@ Carne é um alimento muito presente à mesa do brasileiro, especialmente a de or
 3. Quando a carne já estiver levemente dourada, adicione o açúcar. Deixe dourar mais um pouco.
 4. Adicione o óleo, o alho e o sal. Baixe um pouco o fogo e refogue bem a carne com os temperos. 
 
-E está feita a sua carne de panela. Se o corte for mais macio, como fraldinha, coxão mole, alcatra e patinho, pode ser que demore ainda menos para o prato ficar pronto, levando em conta a quantidade de 250g da receita, que serve bem para três porções (+/- 83g) com algum acompanhamento. Eu utilizei a carne de músculo que, apesar de mais durinha, é bem saborosa e de custo bastante acessível. 
+E está feita a sua carne de panela. Se o corte for mais macio, como fraldinha, coxão mole, alcatra e patinho, pode ser que demore ainda menos para o prato ficar pronto, levando em conta a quantidade de 250g da receita, que serve bem para três porções com algum acompanhamento. Eu utilizei a carne de músculo que, apesar de mais durinha, é bem saborosa e de custo bastante acessível. 
 
 O segredo para esta receita é selar a carne muito bem na panela quente antes de colocar os temperos, pois, assim, o corte vai segurar a umidade interna e ficar com uma crostinha por fora. O açúcar vai ajudar nesse processo, conferindo a coloração caramelada que deixa carne com um viço bonito. Se preferir, você também pode adicionar outros temperos - pimenta, curry e alecrim são pedidas bem legais. 
 
 Fácil, não é mesmo? 
 
-Espero que tenham gostado! Até a próxima!
+Espero que tenham gostado! 
+Até a próxima!

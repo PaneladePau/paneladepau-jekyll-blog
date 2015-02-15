@@ -3,7 +3,7 @@ titulo: Brigadeiro de goiabada com coco
 imgdestaque: brigadeiro-goiabada1.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: brigadeiro-goiabada2.jpg
-legendaimg2: Brigadeiro de goiabada com coco
+legendaimg2: O contraste de cores deste brigadeirinho é lindo demais!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -35,6 +35,9 @@ Riquíssima em vitamina C, além de nutritiva, a goiaba é uma frutinha muito sa
 3. Transfira o doce para um refratário e deixe esfriar completamente. 
 4. Para moldar as bolinhas, umedeça levemente as mãos. Para finalizar, passe os docinhos no coco ralado.
 
-Está pronto um brigadeiro bem bacana e diferente do tradicional! O tempo para fazer a massa é bem pequeno, no máximo 20 minutos. O que demora mais é para esfriar, exatamente como no brigadeiro tradicional. Dependendo da temperatura do dia, pode demorar mais ou menos. Então, três horas para tudo é uma média com tempo de sobra. Se você não gosta de goiabada, dá para testar a mesma receita com outros doces compactos, como marmelada ou bananada. Com os ingredientes acima, dá para fazer 30 brigadeiros de tamanho de festa (uma colher de chá para cada unidade). Uma ideia legal para dar um gostinho a mais é tostar o coco levemente em uma frigideira ou usar o coco queimado pronto. Quanto à moldagem, se você preferir, dá para untar as mãos com alguma gordura (manteiga/óleo/margarina). No entanto, com a água você faz bem menos sujeira e também deixa os docinhos mais saudáveis. Falando nisso, os brigadeiros de goiabada são bons para comer um doce gostoso "sem culpa", pois têm menos calorias e um pouco menos de gordura do que um brigadeiro comum. Por fim, mais um elogio para a receita é quanto ao preço, pois, considerando a média geral de mercado, sai mais em conta do que o brigadeiro tradicional. 
+Está pronto um brigadeiro bem bacana e diferente do tradicional! O tempo para fazer a massa é bem pequeno, no máximo 20 minutos. O que demora mais é para esfriar, exatamente como no brigadeiro tradicional. Dependendo da temperatura do dia, pode demorar mais ou menos. Então, três horas para tudo é uma média com tempo de sobra. Se você não gosta de goiabada, dá para testar a mesma receita com outros doces compactos, como marmelada ou bananada. Com os ingredientes acima, dá para fazer 30 brigadeiros de tamanho de festa (uma colher de chá para cada unidade). 
 
-Legal, né? Se eu fosse você, já anotava a pedida para o final de semana! :)
+Uma ideia legal para dar um gostinho a mais é tostar o coco levemente em uma frigideira ou usar o coco queimado pronto.Quanto à moldagem, se você preferir, dá para untar as mãos com alguma gordura (manteiga/óleo/margarina). No entanto, com a água você faz bem menos sujeira e também deixa os docinhos mais saudáveis. Falando nisso, os brigadeiros de goiabada são bons para comer um doce gostoso "sem culpa", pois têm menos calorias e um pouco menos de gordura do que um brigadeiro comum. Por fim, mais um elogio para a receita é quanto ao preço, pois, considerando a média geral de mercado, sai bem mais em conta do que o brigadeiro tradicional. 
+
+Legal, né? 
+Se eu fosse você, já anotava a pedida para o final de semana! :)

@@ -1,9 +1,9 @@
 ---
 titulo: Panqueca com farinha de arroz
 imgdestaque: panqueca-de-arroz1.jpg
-tags: [comida rapida, reutilizando sobras]
+tags: [comida rapida, reutilizando sobras, cozinha saudavel]
 imagem2: panqueca-de-arroz2.jpg
-legendaimg2: Panqueca com farinha de arroz
+legendaimg2: Sem medo de exagerar no recheio - quanto mais, melhor!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

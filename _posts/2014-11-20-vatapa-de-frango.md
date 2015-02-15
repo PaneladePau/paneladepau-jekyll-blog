@@ -3,9 +3,9 @@ titulo: Vatapá de frango
 imgdestaque: vatapa-de-frango1.jpg
 tags: [especiais, pratos quentes]
 imagem2: vatapa-de-frango2.jpg
-legendaimg2: Vatapá de frango
+legendaimg2: Uma salada levinha é um ótimo acompanhamento para balancear o prato. 
 imagem3: vatapa-de-frango3.jpg
-legendaimg3: Vatapá de frango
+legendaimg3: O vatapá tem uma textura super cremosa e sai borbulhando da panela.
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -59,4 +59,4 @@ A versão com frango, além de mais rápida, é muito mais econômica, então se
 Quanto à pimenta, se você preferir o prato bem picante, dá para deixar as sementes na dedo de moça (ou, então, usar a malagueta mesmo!). No entanto, eu aconselho que você tire as sementes, pois a pimenta fica mais suave (não sem sabor!) e harmoniosa com o prato, e sentimos todos os sabores.
 
 E aí, que tal você também testar na sua casa?
-É danaaado de bom!
+É *danaaado* de bom!

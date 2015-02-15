@@ -3,9 +3,9 @@ titulo: Brigadeiro de Ovomaltine®
 imgdestaque: brigadeiro-ovomaltine1.jpg
 tags: [doces e sobremesas]
 imagem2: brigadeiro-ovomaltine2.jpg
-legendaimg2: Brigadeiro de Ovomaltine®
+legendaimg2: Brigadeiro cremosinho com toque crocante. Huuum!
 imagem3: brigadeiro-ovomaltine3.jpg
-legendaimg3: Brigadeiro de Ovomaltine®
+legendaimg3: Um close no brigadeiro só para dar mais vontade!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -17,7 +17,9 @@ legendaimg3: Brigadeiro de Ovomaltine®
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Olá pessoal! Como não é comum eu fazer referência a marcas específicas aqui no blog, aviso a todos que não, este não é um post pago. Sabendo disso, preciso dizer que há muito tempo queria testar uma receita com o ingrediente principal de hoje, o Ovomaltine, para dividir com vocês. Para quem não conhece, Ovomaltine é uma marca centenária de achocolatado em pó, que surgiu na Suíça e tem produção em diversos locais do mundo. No Brasil, ele é bem famoso pelos flocos crocantes, característica própria da receita brasileira, que, curiosamente, surgiu devido a um erro de produção.
+Olá pessoal! 
+
+Como não é comum eu fazer referência a marcas específicas aqui no blog, aviso que este *não é um post pago*. Sabendo disso, preciso dizer que há muito tempo queria testar uma receita com o ingrediente principal de hoje, o Ovomaltine, para dividir com vocês. Para quem não conhece, Ovomaltine é uma marca centenária de achocolatado em pó, que surgiu na Suíça e tem produção em diversos locais do mundo. No Brasil, ele é bem famoso pelos flocos crocantes, característica própria da receita brasileira, que, curiosamente, surgiu devido a um erro de produção.
 
 Mesmo não usando sempre, gosto bastante de Ovomaltine. Para o leite do dia a dia eu acho muito forte e açucarado. No entanto, para docinhos e sobremesas, acho que esse achocolatado dá um toque muito interessante e encorpado. Além disso, a crocância do produto brasileiro traz uma textura muito legal, contrastando bem com a cremosidade de outros ingredientes. É justamente esse o motivo para a escolha de fazer um brigadeiro com o Ovomaltine. Se o docinho já é gostoso normalmente, imagina com o sabor de Ovomaltine? Só quem testar essa receita saberá como é difícil não beliscar a massa enquanto ela esfria para a moldagem dos brigadeirinhos :D
 
@@ -30,7 +32,7 @@ Mesmo não usando sempre, gosto bastante de Ovomaltine. Para o leite do dia a di
 * 6 colheres (sopa) de ovomaltine
 * 1 colher (sopa) de cacau em pó
 * 1 colher (sobremesa) de margarina 
-* 96g de chocolate granulado
+* Chocolate granulado a gosto
 * 1 lata/caixa de leite condensado 
 * Pitada de sal
 
@@ -45,7 +47,11 @@ Mesmo não usando sempre, gosto bastante de Ovomaltine. Para o leite do dia a di
 
 {% include imagem3.html %}
 
-A receita de hoje rende 16 brigadeiros de tamanho médio (forminhas de papel nº 4). Se você optar pelo tamanho menor, das tradicionais formas nº 5, usadas em festinhas de aniversário, a receita rende cerca de 30 unidades. O segredo para o ponto ideal do brigadeiro é nunca usar o fogo alto e mexer sempre, de modo que a massa cozinhe lentamente e de forma uniforme, ficando lisinha e bem encorpada. É interessante escolher um leite condensado de boa qualidade, que você confie, pois existem marcas com consistência pouco densa, o que dificulta no ponto. É muito importante também trabalhar com a massa totalmente fria. O tempo poderá ser menor que as duas horas previstas na receita, se o clima estiver mais gelado. No entanto, quanto mais tempo o brigadeiro ficar parado antes da moldagem, melhor. Se, após fria, a massa estiver grudenta (ponto de brigadeiro mole) é necessário retornar ao fogo para dar ponto. Se der muita preguiça ou não houver tempo, você pode usar a massa para outras coisas, como coberturas e recheios (veja os Canudinhos de Brigadeiro), ou até mesmo servir em copinhos ou na colher. Lembre-se de nunca colocar a massa na geladeira para resfriar, pois a umidade pode alterar o sabor do doce e manchar a massa, além de que, se você se enganar no ponto, o brigadeiro poderá facilmente desandar depois de enrolado. Por fim, se você tiver um paladar bem doce, pode não usar a colher de cacau (que serve para balancear um pouco os sabores) e trocar o chocolate granulado por uma camada de Ovomaltine na finalização das bolinhas de brigadeiro.
+A receita de hoje rende 16 brigadeiros de tamanho médio (forminhas de papel nº 4). Se você optar pelo tamanho menor, das tradicionais formas nº 5, usadas em festinhas de aniversário, a receita rende cerca de 30 unidades. O segredo para o ponto ideal do brigadeiro é nunca usar o fogo alto e mexer sempre. Assim, a massa cozinha lentamente e de forma uniforme, ficando lisinha e bem encorpada. 
+
+É interessante escolher um leite condensado de boa qualidade, pois existem marcas com consistência pouco densa, o que dificulta no ponto. É muito importante também trabalhar com a massa totalmente fria. O tempo poderá ser menor que as duas horas previstas na receita, se o clima estiver mais gelado. No entanto, quanto mais tempo o brigadeiro ficar parado antes da moldagem, melhor. Se, após fria, a massa estiver grudenta (ponto de brigadeiro mole), é necessário retornar ao fogo para dar ponto. Se der muita preguiça ou não houver tempo, você pode usar a massa para outras coisas, como coberturas e recheios (veja os ([Canudinhos de Brigadeiro](http://paneladepau.com.br/cozinha-de-mae-canudinhos-de-brigadeiro/)), ou até mesmo servir em copinhos ou na colher. 
+
+Lembre-se de não colocar a massa na geladeira para resfriar, pois a umidade pode alterar o sabor do doce e manchar a massa, além de que, se você se enganar no ponto, o brigadeiro poderá facilmente desandar depois de enrolado. Por fim, se você tiver um paladar bem doce, pode não usar a colher de cacau (que serve para balancear um pouco os sabores) e trocar o chocolate granulado por uma camada de Ovomaltine na finalização das bolinhas de brigadeiro.
 
 Espero que tenham curtido a dica de hoje :)
 

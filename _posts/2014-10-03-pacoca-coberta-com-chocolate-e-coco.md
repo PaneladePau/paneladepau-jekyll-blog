@@ -21,8 +21,6 @@ Paçoca já é deliciosa sem nenhum acompanhamento. Na primeira mordida, ela se 
 
 **Paçoca coberta com chocolate e coco**
 
-{% include imagem2.html %}
-
 ### Ingredientes:
 
 * 5 unidades pequenas de paçoca rolha 

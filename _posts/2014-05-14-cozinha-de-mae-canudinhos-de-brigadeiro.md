@@ -1,9 +1,9 @@
 ---
-titulo: Cozinha de mãe, Canudinhos de Brigadeiro
+titulo: Canudinhos de Brigadeiro
 imgdestaque: canudinhos-de-brigadeiro1.jpg
-tags: [doces e sobremesas, comida rapida]
+tags: [doces e sobremesas, comida rapida, especiais]
 imagem2: canudinhos-de-brigadeiro2.jpg
-legendaimg2: Canudinhos de Brigadeiro
+legendaimg2: Canudinho tão doce como um abraço apertado de mãe!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -17,7 +17,7 @@ legendaimg2: Canudinhos de Brigadeiro
 
 Olá leitores!
 
-Os últimos tempos foram corridos e, infelizmente, não consegui voltar às panelas depois da Páscoa. Não deu nem para postar um especial de Dia das Mães. Mas, não é porque a data já passou, que a deixarei em branco. Hoje, dividirei com vocês uma receita muito legal direto do caderninho da minha mãe, Ana Maria. Depois de algum tempo sem vê-la (inclusive no Dia das Mães!), ela, com todo o carinho, procurou um daqueles pratinhos especiais, que as mães preparam com gosto, para ver o sorriso de satisfação dos filhos quando voltam para casa. Até mesmo eu, que não sou muito dos doces, rendi-me à delícia que a minha mãe preparou no dia em que voltei para casa: os maravilhosos Canudinhos de Brigadeiro. Quer ver como é fácil de fazer? Essa é uma dica certa para todas as horas!
+Os últimos tempos foram corridos e, infelizmente, não consegui voltar às panelas depois da Páscoa. Não deu nem para postar um especial de Dia das Mães. Mas, não é porque a data já passou, que a deixarei em branco. Hoje, dividirei com vocês uma receita muito legal direto do caderninho da minha mãe, Ana Maria. Depois de algum tempo sem vê-la (inclusive no Dia das Mães!), ela, com todo o carinho, procurou um daqueles pratinhos especiais, que as mães preparam com gosto para ver o sorriso de satisfação dos filhos quando voltam para casa. Até mesmo eu, que não sou muito de doces, rendi-me à delícia que a minha mãe preparou no dia em que voltei para casa: os maravilhosos Canudinhos de Brigadeiro. Quer ver como é fácil de fazer? 
 
 **Canudinhos de Brigadeiro**
 

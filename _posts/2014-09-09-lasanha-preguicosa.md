@@ -3,7 +3,7 @@ titulo: Lasanha preguiçosa
 imgdestaque: lasanha-preguicosa1.jpg
 tags: [comida rapida, cozinha saudavel, reutilizando sobras, pratos quentes]
 imagem2: lasanha-preguicosa2.jpg
-legendaimg2: Lasanha preguiçosa
+legendaimg2: Na forma de pão, a lasanha rende cerca de 6 fatias bem servidas.
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

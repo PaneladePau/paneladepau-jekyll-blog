@@ -1,7 +1,7 @@
 ---
 titulo: Pão na chapa com requeijão
 imgdestaque: pao-requeijao-na-chapa.jpg
-tags: [lanches, comida rapida]
+tags: [lanches, paes e bolos, comida rapida]
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

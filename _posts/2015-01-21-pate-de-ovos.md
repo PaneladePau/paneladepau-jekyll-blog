@@ -13,7 +13,7 @@ tags: [lanches, comida rapida]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-No verão, uma cervejinha bem gelada é sempre uma boa escolha para curtir aqueles momentos de relax e jogar uma conversa fora com os amigos. E os lanchinhos tipo finger food estão entre as pedidas mais comuns para acompanhar a rodada do final do dia. Sem obrigação com decorações e receitas elaboradas, este tipo de prato permite uma variedade imensa de combinações e ingredientes. Para dar uma ideia de como aproveitar alimentos do dia a dia para fazer uma destas criações, a dica de hoje é um patê de ovos.
+No verão, uma cervejinha bem gelada é sempre uma boa escolha para curtir aqueles momentos de relax e jogar uma conversa fora com os amigos. E os lanchinhos tipo *finger food* estão entre as pedidas mais comuns para acompanhar a rodada do final do dia. Sem obrigação com decorações e receitas elaboradas, este tipo de prato permite uma variedade imensa de combinações e ingredientes. Para dar uma ideia de como aproveitar alimentos do dia a dia para fazer uma destas criações, a dica de hoje é um patê de ovos.
 
 O patê é, geralmente, feito à base de carnes. Mas, como a textura deste acompanhamento de hoje é bem pastosa e tem densinadade, achei mais justo chamá-lo de patê ao invés de creme. Além disso, o creme de ovos é uma tradicional receita doce, então chamar de creme poderia confundir muita gente que viesse procurar pela receita. Fora as questões técnicas, as vantagens desta receita são a simplicidade dos ingredientes e o método super fácil de fazer. E eu garanto: você não vai conseguir comer pouquinho!
 

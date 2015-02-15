@@ -21,7 +21,7 @@ Bastante famoso na internet, o prato de hoje também é conhecido como sanduích
 
 ### Ingredientes:
 
-* Biscoito doce de sua preferência (eu usei o tipo Maizena)
+* Biscoito doce de sua preferência 
 * Recheio doce de sua preferência
 
 ### Modo de fazer:

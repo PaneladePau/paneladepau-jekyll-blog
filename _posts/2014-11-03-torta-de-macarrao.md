@@ -2,8 +2,6 @@
 titulo: Torta de macarrão
 imgdestaque: torta-macarao1.jpg
 tags: [massas, reutilizando sobras]
-imagem2: torta-macarao2.jpg
-legendaimg2: Torta de macarrão
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -19,8 +17,6 @@ Final de semana é ótimo para a gente criar novas receitas e fazer uma comidinh
 
 **Torta de macarrão**
 
-{% include imagem2.html %}
-
 ### Ingredientes:
 
 * 3 xícaras (chá) de macarrão cozido
@@ -28,8 +24,7 @@ Final de semana é ótimo para a gente criar novas receitas e fazer uma comidinh
 * 1 xícara (chá) de farinha de trigo
 8 3 colheres (sopa) de óleo
 * 2 colheres (sopa) de fermento em pó
-
-Complementos a gosto (ex: temperos variados, legumes e verduras, presunto/calabresa, queijos)
+* Complementos a gosto (ex: temperos variados, legumes e verduras, presunto/calabresa, queijos)
 
 ### Modo de fazer:
 
@@ -37,12 +32,12 @@ Complementos a gosto (ex: temperos variados, legumes e verduras, presunto/calabr
 2. Transfira a mistura para uma tigela. Acrescente a farinha de trigo peneirada e complementos que você queira adicionar à massa. Misture bem.
 3. Por último, adicione o fermento em pó e misture apenas o suficiente para que ele seja incorporado à massa. 
 4. Coloque a massa em uma forma de bolo inglês untada com óleo (ou margarina/manteiga) e farinha. 
-5. Leve ao forno pré-aquecido (220ºC a 250ºC) por cerca de 30 a 35 minutos. 
+5. Leve ao forno pré-aquecido (220°C a 250°C) por cerca de 30 a 35 minutos. 
 6. Sirva quente. 
 
 O resultado desta receita é uma massa um pouco pesada, mas bastante cremosa. Ela fica perfeita para ser degustada ainda quente (a textura lembra um pouco a de empadão), mas também fica saborosa quando fria. Na hora de servir, espere uns minutinhos depois de tirar do forno para que a massa tome um pouco de ar e não quebre tão fácil. A receita rende cerca de 10 fatias finas. 
 
-Como complementos da minha torta (que foram a base do cálculo de calorias), escolhi presunto, queijo e um refogado de legumes. Mas, assim como a sobra das massas, se você tiver guardado outros alimentos, dá para incrementar com variados sabores. Acho essencial que a massa tenha algum queijo que derreta bem para dar cremosidade. No mais, a criatividade pode rolar solta.
+Como complementos da minha torta, escolhi presunto, queijo e um refogado de legumes. Mas, assim como a sobra das massas, se você tiver guardado outros alimentos, dá para incrementar com variados sabores. Acho essencial que a massa tenha algum queijo que derreta bem para dar cremosidade. No mais, a criatividade pode rolar solta.
 
 Espero que tenham gostado!
 

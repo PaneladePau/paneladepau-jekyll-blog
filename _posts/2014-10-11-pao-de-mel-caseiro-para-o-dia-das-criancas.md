@@ -1,9 +1,9 @@
 ---
-titulo: Pão de mel caseiro para o Dia das Crianças
+titulo: Pão de mel caseiro 
 imgdestaque: pao-de-mel1.jpg
-tags: [doces e sobremesas, paes e bolos]
+tags: [doces e sobremesas, paes e bolos, especiais]
 imagem2: pao-de-mel2.jpg
-legendaimg2: Pão de mel caseiro para o Dia das Crianças
+legendaimg2: A massinha do pão de mel é muito aerada e fofinha, se esfarela na boca!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -21,21 +21,21 @@ A criançada deve estar bem feliz com a chegada deste final de semana. Não é s
 
 {% include imagem2.html %}
 
-### Ingredientespara a massa:
+### Para a massa:
 
 * 50g de manteiga em temperatura ambiente
 * 1 xícara (chá) de açúcar mascavo
-* * 2 ovos
+* 2 ovos
 * 1 xícara (chá) de chocolate em pó
 * 180g de farinha de trigo
 * 1 pitada de sal
 * 100ml de leite 
 * 1 unidade de canela em pau
 * 1 colher (chá) de cravo
-* 1/2 xícara (chá) de mel
+* ½ xícara (chá) de mel
 * 1 colher (sopa) de fermento em pó
 
-### Ingredientespara a cobertura
+### Para a cobertura
 
 * 260g de chocolate meio amargo
 
@@ -52,11 +52,11 @@ A criançada deve estar bem feliz com a chegada deste final de semana. Não é s
 9. Leve à geladeira por cerca de 20 a 30 minutos (ou até que o chocolate esteja opaco e seco). 
 10. Sirva :)
 
-O passo a passo é grande, mas a receita é fácil de executar. Ela rende cerca de 16 bolinhos como os da foto de capa. Se achar muito difícil ou demorado para moldar os pães de mel individuais, uma dica é usar a receita para fazer um bolo normal servido em fatias. Os pedaços não ficarão totalmente cobertos de chocolate, mas serão deliciosos do mesmo jeito, pois a massa é muito deliciosa e fofinha. Isso dá para ver pela foto acima, na qual mostro um dos pãezinhos coberto apenas no topo com chocolate. Ainda, outra opção é assar em formas individuais, o que facilita bastante a mão de obra. 
+O passo a passo é grande, mas a receita é fácil de executar. Ela rende cerca de 16 bolinhos como os da foto de capa. Se achar muito difícil ou demorado para moldar os pães de mel individuais, uma dica é usar a receita para fazer um bolo normal servido em fatias. Os pedaços não ficarão totalmente cobertos de chocolate, mas serão deliciosos do mesmo jeito, pois a massa é muito gostosa e fofinha. Isso dá para ver pela foto acima, na qual mostro um dos pãezinhos coberto apenas no topo com chocolate. Ainda, outra opção é assar em formas individuais, o que facilita bastante a mão de obra. 
 
-A massa pode ser batida tanto na batedeira quanto à mão. A única diferença é que o primeiro jeito é mais rápido. A combinação de todos os ingredientes desta receita é maravilhosa, com destaque para o toque especial do açúcar mascavo, um dos ingredientes que mais marca o sabor do pão de mel. No entanto, como ele não é muito barato e nem sempre fácil de achar, você pode, sim, trocá-lo pelo açúcar cristal ou refinado. Se quiser ser ainda mais econômico, dá para trocar o chocolate em pó por achocolatado (só cuide que ele é um produto bem adoçado). Também dá para optar pelo óleo de cozinha ao invés da manteiga. Nesse caso, você deve usar apenas a metade da quantidade pedida na receita, pois o óleo é 100% gordura, ao contrário da manteiga. E, por fim, dá também para optar pelos chocolates branco ou ao leite para a cobertura. Além do preço bom, eles são opções gostosas que, com certeza, agradarão demais o paladar sedento por doce da criançada. Mas, assim como na troca do açúcar, cuide para que o seu pãozinho não fique adocicado demais ;).
+A massa pode ser batida tanto na batedeira quanto à mão. A combinação de todos os ingredientes desta receita é maravilhosa, com destaque para o toque especial do açúcar mascavo, um dos ingredientes que mais marca o sabor do pão de mel. No entanto, como ele não é muito barato e nem sempre fácil de achar, você pode, sim, trocá-lo pelo açúcar cristal ou refinado. Se quiser ser ainda mais econômico, dá para trocar o chocolate em pó por achocolatado (só cuide que ele é um produto bem adoçado). Também dá para optar pelo óleo de cozinha ao invés da manteiga. Nesse caso, você deve usar apenas a metade da quantidade pedida na receita, pois o óleo é 100% gordura, ao contrário da manteiga. E, por fim, dá também para optar pelos chocolates branco ou ao leite para a cobertura. Além do preço bom, eles são opções gostosas que, com certeza, agradarão demais o paladar sedento por doce da criançada. Mas, assim como na troca do açúcar, cuide para que o seu pãozinho não fique adocicado demais.
 
-E aí, que tal tirar a preguiça e passar um tempinho na cozinha fazendo uma coisa super gostosa?
+E aí, que tal tirar a preguiça e passar um tempinho na cozinha fazendo um docinho super gostoso?
 Além de deliciosa para o paladar, vai deixar a sua casa com um cheirinho maravilhoso!
 
 Até a próxima e bom domingo a todos :D

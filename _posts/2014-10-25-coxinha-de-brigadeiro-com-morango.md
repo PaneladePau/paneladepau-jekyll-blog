@@ -3,9 +3,9 @@ titulo: Coxinha de brigadeiro com morango
 imgdestaque: coxinha-brigadeiro1.jpg
 tags: [doces e sobremesas]
 imagem2: coxinha-brigadeiro2.jpg
-legendaimg2: Coxinha de brigadeiro com morango
+legendaimg2: A releitura de um clássico em forma de doce. Delícia!
 imagem3: coxinha-brigadeiro.jpg
-legendaimg3: Coxinha de brigadeiro com morango
+legendaimg3: Por dentro, o morango tenrinho e suculento. Por fora, o brigadeiro super cremoso!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -19,7 +19,7 @@ legendaimg3: Coxinha de brigadeiro com morango
 
 Coxinha é uma delícia. E brigadeiro com morango também é. Então, imagina juntar as duas receitas em uma sobremesa sensacional? É, amigos, como sempre digo, cozinha é o lugar perfeito para brincar com os sabores, e as inovações podem ser surpreendentes.  
 
-Há alguns dias houve um boom nas redes sociais com a receita do chefe Kadu Barros, da confeitaria Sonhos de Paris (SP). Antes disso, ele já havia sido tema de reportagens, como [essa](http://mulher.terra.com.br/comportamento/chef-cria-coxinha-de-brigadeiro-e-mostra-mais-4-receitas,20d5f4c105e18410VgnVCM20000099cceb0aRCRD.html), mostrando as suas criações gostosas e diferenciadas para oferecer brigadeiros. Com o sucesso da receita, muita gente fez o teste e criou outras versões, gerando bastante movimentação. Então, depois de uma bela indicação da [Thuthy](https://www.facebook.com/nataliacdoprado?fref=ts&ref=br_tf), para entrar na brincadeira - e parar de resistir à tentação com tantas fotos deliciosas que circularam nos últimos dias (haha) -, o Panela de Pau também resolveu provar. Então, hoje trago para vocês a minha releitura, com um toque pessoal. A receita original do chefe pode ser acessada pelo facebook [Sonhos de Paris](https://www.facebook.com/SonhosDeParis/info). 
+Há alguns dias houve um boom nas redes sociais com a receita do chefe Kadu Barros, da confeitaria Sonhos de Paris (SP). Antes disso, ele já havia sido tema de reportagens, como [essa](http://mulher.terra.com.br/comportamento/chef-cria-coxinha-de-brigadeiro-e-mostra-mais-4-receitas,20d5f4c105e18410VgnVCM20000099cceb0aRCRD.html), mostrando as suas criações gostosas e diferenciadas para oferecer brigadeiros. Com o sucesso da receita, muita gente fez o teste e criou outras versões, gerando bastante movimentação. Então, depois de uma bela indicação da [Thuthy](https://www.facebook.com/nataliacdoprado?fref=ts&ref=br_tf), para entrar na brincadeira - e parar de resistir à tentação com tantas fotos deliciosas que circularam nos últimos dias (haha) -, o Panela de Pau também resolveu provar. Então, hoje trago para vocês a minha releitura. A receita original do chefe pode ser acessada pelo facebook [Sonhos de Paris](https://www.facebook.com/SonhosDeParis/info). 
 
 **Coxinha de brigadeiro com morango**
 
@@ -29,7 +29,7 @@ Há alguns dias houve um boom nas redes sociais com a receita do chefe Kadu Barr
 
 * 395g (1 lata) lata de leite condensado
 * 200g (1 caixa) de creme de leite (sem soro)
-* 2 colheres de sopa de chocolate em pó
+* 2 colheres (sopa) de chocolate em pó
 * 1 colher (sopa) de açúcar mascavo
 * 5 colheres (sopa) de leite em pó
 * 14 morangos médios lavados e bem secos 

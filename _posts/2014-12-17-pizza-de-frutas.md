@@ -3,7 +3,7 @@ titulo: Pizza de Frutas
 imgdestaque: pizza-de-frutas1.jpg
 tags: [doces e sobremesas, reutilizando sobras, comida rapida]
 imagem2: pizza-de-frutas2.jpg
-legendaimg2: Pizza de Frutas
+legendaimg2: A mistura de cores e sabores é o segredo de uma saborosa pizza de frutas.
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

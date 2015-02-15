@@ -1,7 +1,7 @@
 ---
 titulo: Salada colorida
 imgdestaque: salada-colorida1.jpg
-tags: [especiais, saladas]
+tags: [especiais, saladas, cozinha saudavel]
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

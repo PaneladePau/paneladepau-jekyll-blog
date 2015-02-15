@@ -1,10 +1,10 @@
 ---
 titulo: Bolo de cenoura
 imgdestaque: bolo-cenoura1.jpg
-tags: [doces e sobremesas, paes e bolos]
+tags: [paes e bolos, lanches]
 imagem2: bolo-cenoura1.jpg
-legendaimg2: Bolo de cenoura
-imagem3: gif-bolo-cenoura1.gif
+legendaimg2: A cobertura finaliza o bolo, deixando-o muito bonito e convidativo.
+imagem3: bolo-cenoura-gif.gif
 legendaimg3: Bolo de cenoura
 ---
 {% comment %}
@@ -25,20 +25,20 @@ Bolo é o tipo de receita que tem cara de domingo. Nada mais saboroso do que o a
 
 ### Ingredientes para o bolo:
 
-2 xícaras (chá) de farinha de trigo
-2 xícaras (chá) de açúcar mascavo
-1 pitada de sal
-3 ovos
-2 cenouras
-1/2 xícara (chá) de óleo vegetal
-1 colher (sopa) de fermento químico
+* 2 xícaras (chá) de farinha de trigo
+* 2 xícaras (chá) de açúcar mascavo
+* 1 pitada de sal
+* 3 ovos
+* 2 cenouras
+* ½ xícara (chá) de óleo vegetal
+* 1 colher (sopa) de fermento químico
 
 ### Ingredientes para a cobertura:
 
 * 1 xícara (chá) de açúcar cristal ou refinado
-* 1/2 xícara (chá) de chocolate em pó
+* ½ xícara (chá) de chocolate em pó
 * 1 colher (sopa) de manteiga sem sal
-* 1/4 xícara (chá) de água em temperatura ambiente
+* ¼ xícara (chá) de água em temperatura ambiente
 
 ### Modo de fazer:
 

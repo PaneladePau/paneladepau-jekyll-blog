@@ -3,7 +3,7 @@ titulo: Bolo de chocolate coberto com brigadeiro
 imgdestaque: bolo-chocolate-brigadeiro1.jpg
 tags: [doces e sobremesas, paes e bolos, lanches]
 imagem2: bolo-chocolate-brigadeiro2.jpg
-legendaimg2: Bolo de chocolate coberto com brigadeiro
+legendaimg2: Bolo de chocolate com brigadeiro é bom demais!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

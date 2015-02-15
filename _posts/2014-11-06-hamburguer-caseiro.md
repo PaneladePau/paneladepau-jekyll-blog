@@ -1,7 +1,7 @@
 ---
-titulo: Hambúrguer Caseiro
+titulo: Hambúrguer caseiro
 imgdestaque: hamburguer-caseiro1.jpg
-tags: [carnes]
+tags: [carnes, comida rapida]
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -15,7 +15,7 @@ tags: [carnes]
 
 Carne moída é um espetáculo na praticidade. Com apenas um ingrediente principal, alguns temperos e mil ideias você pode criar diversas receitas gostosas para o dia a dia. Lasanha, panqueca, bolo de carne, quibe, almôndega, escondidinho e pastel são apenas alguns deliciosos exemplos que combinam muito bem com carne moída. Mas eu acho que a rainha das receitas com este modo de preparo da carne é o popular hambúrguer. Tradicionalmente servido com pão, o bife de hambúrguer já há algum tempo é opção de carne nos restaurantes de buffet, e os cozinheiros não poupam para deixá-los saborosos. Tem um restaurante que eu almoço que serve o hambúrguer com molho de tomate e queijo. Há alguma dúvida de que eu sempre pego quando tem? 
 
-Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E se alguém ainda tem dúvida da popularidade, basta dar um click no Google e ver que tem muito material (muito mesmo!) contanto segredinhos e dicas para fazer um hambúrguer espetacular. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro super simples, com base tirada de uma receita que você já viu aqui no blog: [Almôndegas de Forno](http://paneladepau.com.br/almondegas-de-forno). 
+Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E se alguém ainda tem dúvida da popularidade, basta dar um click no Google e ver que tem muito material (muito mesmo!) contanto segredinhos e dicas para fazer um hambúrguer espetacular. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro super simples, com base tirada de uma receita que você já viu aqui no blog: [Almôndegas de forno](http://paneladepau.com.br/almondegas-de-forno). 
 
 **Hambúrguer caseiro**
 

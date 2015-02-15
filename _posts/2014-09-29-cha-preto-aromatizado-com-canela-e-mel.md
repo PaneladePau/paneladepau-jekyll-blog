@@ -32,7 +32,7 @@ Vou começar a semana aqui no blog com das minhas receitas favoritas, o chá pre
 2. Baixe o fogo e deixe a mistura ferver por mais 15 minutos.
 3. Sirva quente ou frio. 
 
-Aos pouquinhos o aroma do chá se espalha pelo ar, intensificando-se quando o processo de fervura começa. As calorias desta bebida estão concentradas no mel. Apesar de um pouco mais calórico do que o açúcar, o mel sempre é a escolha mais saudável (pessoalmente, acho mais saborosa também). No entanto, se você preferir um chá mais leve, dá para tirar o mel. A diferença é que a bebida não ficará doce. Também dá para adicionar outras especiarias, como cravo e gengibre, os quais, assim assim como a canela, são ótimos antioxidantes. 
+Aos pouquinhos o aroma do chá se espalha pelo ar, intensificando-se quando o processo de fervura começa. Apesar de um pouco mais calórico do que o açúcar, o mel sempre é a escolha mais saudável (pessoalmente, acho mais saborosa também). Se você preferir um chá mais leve, dá para tirar o mel. A diferença é que a bebida não ficará doce. Também dá para adicionar outras especiarias, como cravo e gengibre, os quais, assim assim como a canela, são ótimos antioxidantes. 
 
 A receita de hoje rende cerca de 600ml. Se você preferir beber o chá frio, dá para mantê-lo por até uns dois dias na geladeira. Se for guardado com os pauzinhos de canela, o sabor ficará ainda mais intenso. Este chá é uma escolha bastante saborosa para vários momentos, mas fica perfeito em um lanche de final de tarde. 
 

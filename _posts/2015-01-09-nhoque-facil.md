@@ -3,7 +3,7 @@ titulo: Nhoque fácil
 imgdestaque: nhoque-facil1.jpg
 tags: [comida rapida, massas, pratos quentes]
 imagem2: nhoque-facil2.jpg
-legendaimg2: Nhoque fácil
+legendaimg2: O molho vermelho é um acompanhamento tradicional muito gostoso para o nhoque.
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais

@@ -2,8 +2,6 @@
 titulo: Lasanha de espaguete à carbonara
 imgdestaque: lasanha-carbonara1.jpg
 tags: [pratos quentes, comida rapida, massas]
-imagem2: lasanha-carbonara2.jpg
-legendaimg2: Lasanha de espaguete à carbonara
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -16,8 +14,6 @@ legendaimg2: Lasanha de espaguete à carbonara
 {% endcomment %}
 
 No ano passado, postei aqui no blog uma [releitura de massa à carbonara](http://paneladepau.com.br/carbonara) com ingredientes acessíveis para o dia a dia. Como disse naquela época, esta é uma das combinações de macarrão que mais gosto. Então, para inovar na apresentação, resolvi testar a receita em um formato diferente: fiz uma lasanha. No mundo das lasanhas, a combinação à carbonara já existe. No entanto, o diferente da minha receita é que a base não é a massa tradicional de lasanha, mas sim um espaguete normal. O resultado ficou uma delícia - uma mistura de macarrão com uma cremosa e fofinha espuma de ovos. Olha só como é fácil de fazer:
-
-{% include imagem2.html %}
 
 **Lasanha de espaguete à carbonara**
 

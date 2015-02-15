@@ -22,7 +22,7 @@ Dentre os doces caseiros, acho que o de leite é um dos melhores. Ele é o tipo 
 ### Ingredientes: 
 
 * 500ml de leite integral
-* 1/2 xícara (chá) de açúcar 
+* ½ xícara (chá) de açúcar 
 * 1 pitada de bicarbonato de sódio
 
 ### Modo de fazer:
