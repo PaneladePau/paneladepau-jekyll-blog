@@ -11,7 +11,7 @@ github_username:  PaneladePau
 markdown: rdiscount
 destination: ./_site
 permalink: /:title
-exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md','js/remove-barra-url.js']
+exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md']
 paginate: 9
 paginate_path: "pagina-:num"
 highlighter: pygments
