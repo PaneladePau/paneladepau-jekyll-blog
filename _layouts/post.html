@@ -13,7 +13,7 @@
 
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{{page.titulo}} | Panela de Pau">
-		<meta property="og:image" content="http://paneladepau.github.io/paneladepau_prod/{{ page.imgdestaque }}" />
+		<meta property="og:image" content="http://paneladepau.github.io/paneladepau_prod/img/fotos-dos-posts/{{ page.imgdestaque }}" />
 		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}/">
 		<meta property="og:description" content="{{ content | strip_html | truncatewords:25 }}">
 
@@ -21,7 +21,7 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:title" content="{{page.titulo}} | Panela de Pau">
 		<meta name="twitter:description" content="{{ content | strip_html | truncatewords:25 }}">
-		<meta name="twitter:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
+		<meta name="twitter:image" content="http://paneladepau.github.io/paneladepau_prod/img/fotos-dos-posts/{{ page.imgdestaque }}">
 
 		<!-- Mobile viewport -->
 		<meta name="viewport" content="width=device-width">
@@ -44,6 +44,8 @@
 	</head>
 
 	<body>
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		
 		<!-- Barra Mundo Positivo -->
 		<script src="http://commons.mundopositivo.com.br/ancoragem/data.js"></script>
 
@@ -140,12 +142,6 @@
 
 		{% include google_analytics.html %}
 
-		<!-- Google AdSense
-		<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script> -->
-
-		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="../js/menu.js"></script>
 	</body>
 </html>
