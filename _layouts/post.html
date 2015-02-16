@@ -9,7 +9,7 @@
 		<!-- Google tags -->
 		<meta name="description" content="{{ content | split:'kcal' | last | strip_html | truncatewords:25 }}">
 		<meta name="author" content="Mariana Soares">
-		<meta name="dcterms.rightsHolder" content="Mariana Soares">
+		<meta name="dcterms.rightsHolder" content="Mariana Cervi Soares">
 
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{{page.titulo}} | Panela de Pau">
@@ -44,8 +44,6 @@
 	</head>
 
 	<body>
-		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-		
 		<!-- Barra Mundo Positivo -->
 		<script src="http://commons.mundopositivo.com.br/ancoragem/data.js"></script>
 
@@ -142,7 +140,8 @@
 
 		{% include google_analytics.html %}
 
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="../js/menu.js"></script>
-		<script src="../js/remove-barra-url.js"></script>
+		<script src="../js/remove-barra-url-posts.js"></script>
 	</body>
 </html>
