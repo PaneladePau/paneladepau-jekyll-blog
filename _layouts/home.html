@@ -13,7 +13,6 @@
 
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{% if page.titulo }%}{{page.titulo}} | Panela de Pau{% else %}Culinária caseira à base de espontaneidade e amor | Panela de Pau{% endif %}">
-		<meta property="og:type" content="Blog">
 		<meta property="og:image" content="http://paneladepau.com.br/img/logo-social.jpg">
 		<meta property="og:url" content="{{ site.baseurl }}{% if page.url }%}{{ page.url }}{% endif %}">
 		<meta property="og:description" content="{% if page.titulo }%}{{ content | strip_html | truncatewords:25 }}{% else %}{{site.description}}{% endif %}">
