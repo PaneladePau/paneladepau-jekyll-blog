@@ -23,11 +23,11 @@ E que tal aproveitar o final de semana para sair da mesmice do dia a dia e fazer
 
 ### Ingredientes:
 
-1 xícara (chá) de farinha integral
-1 colher (sopa) de azeite de oliva ou óleo vegetal
-1 ovo
-Água (o quanto baste)
-Sal e temperos a gosto
+* 1 xícara (chá) de farinha integral
+* 1 colher (sopa) de azeite de oliva ou óleo vegetal
+* 1 ovo
+* Água (o quanto baste)
+* Sal e temperos a gosto
 
 ### Modo de fazer:
 
