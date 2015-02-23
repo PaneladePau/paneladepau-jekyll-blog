@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Pão é aquele tipo de comida base. Historicamente ligada aos modos de vida da nossa sociedade e parte insubstituível de muitas refeições, principalmente o sagrado café da manhã, o pão é um alimento bem nutritivo e também saboroso. Os modos de fazer e as receitas são extremamente variados, e as padarias nos deixam loucos com tanta variedade diferente e deliciosa!
+Pão é aquele tipo de comida básica. Historicamente ligado aos modos de vida da nossa sociedade e parte insubstituível de muitas refeições, principalmente o sagrado café da manhã, o pão é um alimento bem nutritivo e também saboroso. Os modos de fazer e as receitas são extremamente variados, e as padarias nos deixam loucos com tanta variedade diferente e deliciosa!
 
 E hoje a gente vai de pão aqui no blog. A pedida é bem parecida com o [Pão de Calabresa](http://paneladepau.com.br/pao-de-calabresa). No entanto, a receita de hoje é menorzinha, perfeita para poucas pessoas e para comer na hora, sem o perigo de sobras para a semana :)
 
@@ -23,15 +23,15 @@ E hoje a gente vai de pão aqui no blog. A pedida é bem parecida com o [Pão de
 
 ### Ingredientes: 
 
-2 xícaras (chá) de farinha de trigo
-1/2 xícara (chá) de leite
-1 colher (sopa) de azeite de oliva
-10g de fermento biológico seco
-1 colher (chá) de sal
-1 colher (chá) de açúcar
-Água (o quanto baste)
-Tempero de alho e salsa
-Recheio a gosto
+* 2 xícaras (chá) de farinha de trigo
+* 1/2 xícara (chá) de leite
+* 1 colher (sopa) de azeite de oliva
+* 10g de fermento biológico seco
+* 1 colher (chá) de sal
+* 1 colher (chá) de açúcar
+* Água (o quanto baste)
+* Tempero de alho e salsa
+* Recheio a gosto
 
 ### Modo de fazer:
 
