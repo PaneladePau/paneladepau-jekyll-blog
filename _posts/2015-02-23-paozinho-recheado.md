@@ -45,7 +45,7 @@ E hoje a gente vai de pão aqui no blog. A pedida é bem parecida com o [Pão de
 
 E está pronto o seu pão recheado. A massa é bem simples de fazer, e o resultado é um pãozinho salgado com um toque levemente doce e com textura bem macia. O importante para que a massa fique saborosa é sovar bem e ter paciência para deixar o pão crescer direitinho. O rendimento é de cerca de 10 fatias como a que você pode ver na foto do post. 
 
-Quanto ao recheio, dá para perceber que usei de novo a calabresa, pois é a pedida favoritas da minha casa. Mas você pode variar nos recheios. Imagina só que delícia rechear um pãozinho com ricota, espinafre e tomate seco? Huum! Uma dica legal também é polvilhar queijo ralado ou orégano por cima do pão antes de levar ao forno. Fica uma delícia! 
+Quanto ao recheio, dá para perceber que usei de novo a calabresa, pois é a pedida favorita da minha casa. Mas você pode variar nos recheios. Imagina só que delícia rechear um pãozinho com ricota, espinafre e tomate seco? Huum! Uma dica legal também é polvilhar queijo ralado ou orégano por cima do pão antes de levar ao forno. Fica uma delícia! 
 
 E aí, gostaram?
 Até a próxima!
