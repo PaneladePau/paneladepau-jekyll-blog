@@ -36,7 +36,7 @@ E hoje a gente vai de pão aqui no blog. A pedida é bem parecida com o [Pão de
 ### Modo de fazer:
 
 1. Em uma tigela, misture a farinha, o sal, o açúcar e o fermento.
-2. Adicione o leite e o azeite, misture com as mãos e comece a amassar. Aos poucos, adicione a água e incorpore-a bem aos demais ingredientes, trabalhando bem a massa.
+2. Adicione o leite e o azeite, misture com as mãos e comece a amassar. Aos poucos, adicione a água e incorpore-a aos demais ingredientes, trabalhando a massa até que ela ganhe estrutura e encorpada, sem grudar nas mãos. Não adicione mais água. 
 3. Transfira a massa para um balcão levemente enfarinhado e sove bem a massa (10 a 15 minutos). A massa deverá ficar bem homogênea e lisinha. Para saber se a massa está bem sovada, afunde o dedo indicador em uma parte dela. Se a massa baixar e voltar a subir rapidamente, é sinal de que ela absorveu bastante ar e já está no ponto para descansar. 
 4. Deixe a massa descansar em um local quente, longe de correntes de vento (ex: forno, micro-ondas) por cerca de 40 minutos. A massa irá dobrar de tamanho. 
 5. Depois deste tempo, abra a massa em uma superfície lisa com auxílio de um rolo. Passe o tempero de alho e salsa (ou outro de sua preferência) em toda a parte interna da massa. Recheie agosto e, depois, feche a massa como se fosse um rocambole, envelopando os lados e apertando bem no centro para que o recheio não escape durante o cozimento. 
