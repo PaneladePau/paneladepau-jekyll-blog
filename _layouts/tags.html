@@ -26,8 +26,8 @@
 		<!-- Mobile viewport -->
 		<meta name="viewport" content="width=device-width">
 
-		<!-- Github project page's custom domain Google robot fix -->
-		<link rel="canonical" href="http://paneladepau.com.br{{ page.url }}">
+		<!-- Canonical -->
+		<link rel="canonical" href="http://paneladepau.com.br{{ page.url | remove_last:'/' }}">
 
 		<!-- RSS Reader -->
 		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
