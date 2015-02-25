@@ -28,7 +28,8 @@ Como um pouquinho de experiência e sorte (haha) andam me ajudando no preparo de
 * 1 ovo inteiro
 * 4 xícaras (chá) de farinha de trigo
 * 1 colher (chá) de sal
-* 2 colheres (sopa) de óleo =
+* 1 colher de sopa de açucar
+* 2 colheres (sopa) de óleo
 * 1 colher (sopa) de fermento biológico seco
 * Calabresa picada a gosto
 * Queijo muçarela picado a gosto

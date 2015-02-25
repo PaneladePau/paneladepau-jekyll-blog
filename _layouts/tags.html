@@ -14,7 +14,7 @@
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{{ page.titulotag }} | Panela de Pau">
 		<meta property="og:image" content="{{ site.baseurl }}/img/logo-social.jpg">
-		<meta property="og:url" content="{{ site.baseurl }}{{ page.url | remove: '/index.html' }}">
+		<meta property="og:url" content="http://paneladepau.com.br/tags/{{ page.url | remove_first:'/tags/' | remove:'/' }}">
 		<meta property="og:description" content="{{ page.descricaotag }}">
 
 		<!-- Twitter tags -->          
@@ -26,8 +26,8 @@
 		<!-- Mobile viewport -->
 		<meta name="viewport" content="width=device-width">
 
-		<!-- Github project page's custom domain Google robot fix -->
-		<link rel="canonical" href="http://paneladepau.com.br{{ page.url | remove: '/index.html' }}">
+		<!-- Canonical -->
+		<link rel="canonical" href="http://paneladepau.com.br/tags/{{ page.url | remove_first:'/tags/' | remove:'/' }}">
 
 		<!-- RSS Reader -->
 		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
