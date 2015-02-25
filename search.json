@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[
+    {% for post in site.posts %}
+    {
+      "titulo" : "{{ post.titulo }}",
+      "link" : "http://paneladepau.com.br{{ post.url }}",
+      "data" : "{{ post.date | date: "%-d/%m/%Y" }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

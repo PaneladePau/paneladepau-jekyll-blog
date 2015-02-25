@@ -307,6 +307,65 @@ h2.titulo-tag {
 	}
 }
 
+.campo-busca {
+	display: none;
+	width: 600px;
+	padding: 10px 60px;
+	position: absolute;
+	background-color: lighten($marrom,90);
+	border-radius: 8px;
+	border: 1px solid#ddd;
+	left: 50%;
+	margin-left: -300px;
+	top: 230px;
+	z-index: 9999;
+	box-shadow: 0 10px 30px 0 rgba(0,0,0,0.3);
+	&:before {
+		position: absolute;
+		content: '';
+		display: block;
+		width: 30px;
+		height: 30px;
+		background-image: url(../img/layout/icone-busca.png);
+		background-size: 100%;
+		left: 15px;
+		top: 15px;
+	}
+	form {
+		margin-bottom: 6px;
+	}
+	input {
+		background-color: transparent;
+		color: $cinza;
+		border: none;
+		outline: none;
+		font-size: 28px;
+		width: 100%;
+	}
+	button {
+		display: none;
+	}
+	.fecha-busca {
+		position: absolute;
+		top: 15px;
+		right: 15px;
+		font-size: 30px;
+		color: #a9a9a9;
+		cursor: pointer;
+	}
+	a.resultado {
+		margin: 20px 0;
+		display: block;
+		color: $marrom;
+		&:hover {
+			color: $marromClaro;
+		}
+		.data {
+			float: right;
+		}
+	}
+}
+
 @import "internas";
 
 @import "media-queries";

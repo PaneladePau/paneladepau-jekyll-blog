@@ -159,7 +159,7 @@
 	}
 
 	.tags {
-		font-size: 36px;
+		font-size: 22px;
 	}
 
 	.post {
@@ -194,6 +194,10 @@
 	h2.titulo-tag {
 		font-size: 48px;
 		margin: 40px 0;
+	}
+
+	.campo-busca {
+		top: 150px;
 	}
 
 	#AnchorBarMP {
@@ -325,5 +329,17 @@
 	}
 	.info-autor {
 		padding: 0 10px;
+	}
+	.campo-busca {
+		width: 300px;
+		margin-left: -150px;
+		top: 80px;
+		a.resultado .data {
+			float: none;
+			display: block;
+			margin: 10px 0;
+			margin-bottom: 30px;
+			font-size: 14px;
+		}
 	}
 }
