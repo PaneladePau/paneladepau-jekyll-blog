@@ -21,12 +21,12 @@ Saladas são pedidas leves e bem variadas para acomapanhar as refeições. E par
 
 ### Ingredientes:
 
-2 xícaras (chá) de repolho picado
-1 maçã fuji com casca em cubos
-6 tomates cereja em rodelas
-Suco de meio limão tahiti
-Azeite de oliva a gosto
-Sal a gosto (opcional)
+* 2 xícaras (chá) de repolho picado
+* 1 maçã fuji com casca em cubos
+* 6 tomates cereja em rodelas
+* Suco de meio limão tahiti
+* Azeite de oliva a gosto
+* Sal a gosto (opcional)
 
 ### Modo de fazer:
 
