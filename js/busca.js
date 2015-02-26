@@ -78,7 +78,6 @@ function trocaAcentos(string) {
 }
 
 function limpaAcentosParam(array) {
-	console.log(array);
 	for (var i = 0; i < array.length; i++) {
 		array[i] = trocaAcentos(array[i]);
 						
