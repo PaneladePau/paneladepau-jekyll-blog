@@ -27,7 +27,7 @@ function fechaBusca() {
 }
 
 function iniciaBusca() {
-	$.get('search.json', function(data) {
+	$.get('/search.json', function(data) {
 		json = data;
 		limpaAcentosParam(paramBusca);
 		buscaInit = true;
