@@ -61,10 +61,17 @@
 				<ul>
 					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
 					<li><a href="../../contato">Contato</a></li>
-					<!-- <li><a href="#">Busca</a></li> -->
-					<li><a href="../../sobre">Sobre</a></li>	
+					<li><a href="../../sobre">Sobre</a></li>
+					<li><a href="javascript:void(0)" class="botao-busca">Busca</a></li>
 				</ul>
 			</nav>
+			<div class="campo-busca">
+				<form action="javascript:void(0)">
+					<input type="text" class="input-busca" placeholder="Buscar no blog...">
+					<button>Buscar</button>
+				</form>
+				<span class="fecha-busca">X</span>
+			</div>
 		</header>
 
 		{{content}}
@@ -88,5 +95,6 @@
 
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="../../js/menu.js"></script>
+		<script src="../../js/busca.js"></script>
 	</body>
 </html>
