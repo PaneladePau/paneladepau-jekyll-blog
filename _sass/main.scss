@@ -320,6 +320,9 @@ h2.titulo-tag {
 	top: 230px;
 	z-index: 9999;
 	box-shadow: 0 10px 30px 0 rgba(0,0,0,0.4);
+	&.internas {
+		top: 134px;
+	}
 	&:before {
 		position: absolute;
 		content: '';

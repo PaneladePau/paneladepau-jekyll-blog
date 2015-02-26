@@ -198,6 +198,9 @@
 
 	.campo-busca {
 		top: 150px;
+		&.internas {
+			top: 150px;
+		}
 	}
 
 	#AnchorBarMP {
@@ -334,6 +337,9 @@
 		width: 300px;
 		margin-left: -150px;
 		top: 80px;
+		&.internas {
+			top: 80px;
+		}
 		a.resultado .data {
 			float: none;
 			display: block;
