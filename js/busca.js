@@ -37,7 +37,8 @@ function iniciaBusca() {
 function fazBusca(busca) {
 	var html = '';
 
-	console.log(busca);
+	limpaResultados();
+
 	for (var ia = 0; ia < busca.length; ia++) {
 		if (busca[ia].length > 2 && busca[ia] !== 'com') {
 			limpaResultados();
@@ -51,7 +52,11 @@ function fazBusca(busca) {
 							+ '</span></a>'
 				}
 				if (ij === json.length - 1) {
-					$divBusca.append(html);
+					if (html === '') {
+						$divBusca.append('<span class="resultado">Não há receitas para esta busca</span>')
+					} else {
+						$divBusca.append(html);
+					}
 				}
 			}	
 		}
