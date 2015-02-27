@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Chegou sexta-feira, o melhor dia da semana para dar uma pausa na rotina, fazer um encontro com os amigos, jogar conversa fora e, claro, comer alguma coisinha muito saborosa! Para entrar no clima do dia, a pedida do Panela de Pau para fechar a semana é uma maionese de alho super fácil e feita em casa, mas digna de um sabor de boteco. Muito saborosa, ela leva poucos ingredientes. E para quem não come ovos, esta receita é perfeita, pois eles ficam fora da jogada. Quer ver só como é fácil? Vamos para a cozinha!
+Chegou sexta-feira, o melhor dia da semana para dar uma pausa na rotina, fazer um encontro com os amigos, jogar conversa fora e, claro, comer alguma coisinha gostosa! Para entrar no clima do dia, a pedida do Panela de Pau para fechar a semana é uma maionese de alho super fácil e feita em casa, mas digna de um sabor de boteco. Muito saborosa, ela leva poucos ingredientes. E para quem não come ovos, esta receita é perfeita, pois eles ficam fora da jogada. Quer ver só como é fácil? Vamos para a cozinha!
 
 **Maionese de alho**
 
