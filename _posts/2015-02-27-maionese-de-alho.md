@@ -31,15 +31,13 @@ Chegou sexta-feira, o melhor dia da semana para dar uma pausa na rotina, fazer u
 ### Modo de fazer:
 
 1. Pique bem os dentes de alho. Transfira-os para o liquidificador para bater junto com o leite e o requeijão.
-2. Aos poucos, comece a adicionar o óleo em fio, sempre batendo. Faça este processo até que a mistura ganhe a textura densa como de maionese.
+2. Aos poucos, comece a adicionar o óleo em fio, sempre batendo. Faça este processo até que a mistura ganhe a textura densa de maionese.
 3. Acerte o sal e os temperos.
 4. Transfira para um recipiente e sirva. 
 
-Não poderia ser mais fácil, né? O passo a passo é super rápido e não tem mistério. Esta maionese combina super bem com petiscos, mas também fica ótima com pães e pratos com carne. Você pode servi-la maionese logo que estiver pronta. Mas, se puder aguardar, um tempinho de geladeira é ótimo, pois ajuda a deixar a mistura ainda mais densa, além de que a temperatura gelada intensifica os sabores do sal, do alho e dos temperos. Refrigerada e em pote bem fechado, esta maionese pode ser armazenada para alguns dias, sem problema nenhum, ainda mais que não leva ingredientes crus. No entanto, sugiro que você sempre faça na hora, pois é a garantia de um sabor mais fresquinho e também de evitar qualquer contaminação. 
+Não poderia ser mais fácil, né? O passo a passo é super rápido e não tem mistério. Esta maionese combina super bem com petiscos, mas também fica ótima com pães e pratos com carne. Você pode servi-la logo que estiver pronta. Mas, se puder aguardar, um tempinho de geladeira é ótimo, pois ajuda a deixar a mistura ainda mais densa, além de que a temperatura gelada intensifica os sabores do sal, do alho e dos temperos. Refrigerada e em pote bem fechado, esta maionese pode ser armazenada para alguns dias, sem problema nenhum, ainda mais que não leva ingredientes crus. No entanto, sugiro que você sempre faça na hora, pois é a garantia de um sabor mais fresquinho e também de evitar qualquer contaminação. 
 
-Para a mistura de temperos, além dos dentes de alho, optei por usar um pouco de alho seco, um temperinho caseiro de ervas secas e um pouquinho de alecrim. Acho que a ficou sensacional! E para acompanhar todo este sabor, nada como uma cervejinha bem gelada para curtir bem o happy hour :)
+Para a mistura de temperos, além dos dentes de alho, optei por usar um pouco de alho seco, um temperinho caseiro de ervas secas e um pouquinho de alecrim. Ficou sensacional! E nada como uma cervejinha bem gelada para acompanhar e curtir bem o happy hour :)
 
 Gostaram? :)
 Até a próxima!
-
-{% include imagem2.html %}
