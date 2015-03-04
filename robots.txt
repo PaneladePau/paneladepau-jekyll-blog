@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-Disallow: /tags/comida-rápida
-Disallow: /tags/comida-rápida/
