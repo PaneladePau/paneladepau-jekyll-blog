@@ -39,7 +39,7 @@ E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fá
 3. Aos poucos, adicione as colheres de farinha uma a uma, sempre mexendo. 
 4. Esse processo deve ser rápido. Logo, a farinha vai dar ponto para a massa, deixando-a compacta e com aspecto lisinho, como massa de salgado. 
 5. Deixe a massa esfriar levemente e, assim que conseguir pegá-la sem se queimar, molde as bolinhas (1 colher de chá para cada unidade).
-6. Leve ao forno (pré-aquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Para os minutos finais, retire a folha e deixe os bolinhos cozinharem na forma aberta. 
+6. Leve ao forno (pré-aquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Nos minutos finais de cozimento, retire o papel para que os bolinhos fiquem douradinhos.
 7. Retire do forno e aguarde alguns minutos antes de servir.
 
 E estão feitos bolinhos super saborosos para o seu dia a dia! O passo a passo é um pouquinho longo, mas as etapas são todas muito simples. Se você preferir, dá para fazer uma limpeza de sobras na geladeira, encorpando a massa com mais sabores. O único cuidado deve ser com o ponto da farinha, que pode mudar dependendo da umidade dos ingredientes. 
@@ -50,4 +50,3 @@ Por fim, é ideal deixar os bolinhos darem uma leve esfriada antes de servir. Lo
 
 É isso por hoje! Espero que tenham gostado!
 Até a próxima!
-{% include imagem2.html %}
