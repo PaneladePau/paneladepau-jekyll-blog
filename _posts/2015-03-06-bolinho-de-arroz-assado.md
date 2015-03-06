@@ -38,7 +38,7 @@ E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fá
 2. Adicione ao arroz a páprica, o mel, o molho de soja, o leite em pó, a pimenta (opcional) o sal e o alho. Apure a mistura por cerca de cinco minutos, sem deixar secar totalmente. 
 3. Aos poucos, adicione as colheres de farinha uma a uma, sempre mexendo. 
 4. Esse processo deve ser rápido. Logo, a farinha vai dar ponto para a massa, deixando-a compacta e com aspecto lisinho, como massa de salgado. 
-5. Deixe a massa esfriar levemente e, assim que conseguir pegá-la sem se queimar, transforme-a em bolinhas (1 colher de chá para cada unidade).
+5. Deixe a massa esfriar levemente e, assim que conseguir pegá-la sem se queimar, molde as bolinhas (1 colher de chá para cada unidade).
 6. Leve ao forno (pré-aquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Para os minutos finais, retire a folha e deixe os bolinhos cozinharem na forma aberta. 
 7. Retire do forno e aguarde alguns minutos antes de servir.
 
