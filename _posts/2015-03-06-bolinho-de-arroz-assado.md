@@ -15,11 +15,11 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Da comidinha do dia a dia às gostosas porções de boteco, o bolinho de arroz é um símbolo da comida caseira que sempre é sucesso. Além de um ingrediente básico como arroz para sustentar o prato, o bolinho é mega prático, pois permite que a gente brinque com diversos ingredientes e temperos. É do tipo de comida que a gente pode deixar exatamente com o gostinho que a gente quer. 
+Da comidinha do dia a dia às gostosas porções de boteco, o bolinho de arroz é um símbolo da comida caseira que sempre é sucesso. Além de um ingrediente básico como arroz para sustentar o prato, o bolinho é mega prático, pois permite que a gente brinque com diversos ingredientes e temperos. É do tipo de comida que dá para deixar exatamente com o gostinho que a gente quer. 
 
-E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fácil de bolinho de arroz que, além de rápida e prática, tem o benefício de não ter frituras. O benefício da receita é triplo: sem sujeiras, mais saudável saúde e, claro, com sabor de quero mais :)
+E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fácil de bolinho de arroz que, além de rápida e prática, tem o benefício de não ser livre das frituras. O benefício da receita é triplo: sem sujeiras, mais saudável saúde e, claro, com sabor de quero mais :)
 
-*Bolinho de arroz assado*
+**Bolinho de arroz assado**
 
 ### Ingredientes (para 10 unidades):
 
