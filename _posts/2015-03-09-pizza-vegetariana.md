@@ -37,12 +37,12 @@ Para dar mais uma boa dica de como usar as verduras a favor de uma comidinha del
 2. Trabalhe a mistura com as mãos, sempre misturando e intercalando o restante da farinha com o leite até que a massa fique lisinha e comece a desgrudar das mãos. Se necessário, adicione mais farinha.
 3. Sove por alguns minutos em uma bancada enfarinhada. 
 4. Deixe a massa descansar enquanto prepara o molho e os legumes. 
-5. Abra a massa com ajuda de um rolo e pegando com as mãos, dando o formato arredondado da forma. 
+5. Abra a massa com ajuda de um rolo e, com as mãos, vá dando o formato arredondado da massa. 
 6. Unte e enfarinhe levemente a forma em que a pizza será assada.
-7. Transfira a massas para a forma e monte a pizza. Primeiro, faça furinhos na massa e lambuze-a levemente com azeite de oliva. Faça uma camada generosa de molho e, na sequência uma camada de queijo. Para finalizar, adicione os legumes cortados em lâminas fininhas. 
-8. Leve ao forno pré-aquecido (220 C) por cerca de 30 minutos.
+7. Transfira a massa para a forma e monte a pizza. Primeiro, faça furinhos na massa e lambuze-a levemente com azeite de oliva. Faça uma camada generosa de molho e, na sequência, uma camada de queijo. Para finalizar, adicione os legumes cortados em lâminas fininhas. 
+8. Leve ao forno pré-aquecido (220 °C) por cerca de 30 minutos.
 
-E está pronta a sua pizza vegetariana! Eu escolhi trabalhar com chuchu e cenoura, pois acho que se complementam em um contraponto entre adocicado e um sabor suave. Para dar o toque final, antes de levar ao forno, salpiquei um pouquinho de alecrim. Você também pode usar orégano ou manjericão, que ficam uma delícia, ou acertar em cheio com uma camadinha de parmesão. 
+E está pronta a sua pizza vegetariana! Eu escolhi trabalhar com chuchu e cenoura, pois acho que se complementam, um suave e o outro mais adocicado. Para dar o toque final, antes de levar ao forno, salpiquei um pouquinho de alecrim. Você também pode usar orégano ou manjericão, que ficam uma delícia, ou acertar em cheio com uma camadinha de parmesão. 
 
 A receita rende uma massa de cerca de 30 cm (8 pedaços) com a espessura média (nem muito grossa nem muito fina). Caso você esteja na corrida, até dá para usar uma massa pronta, no entanto, o sabor vai ser bem diferente. Então, sugiro que faça o teste em um dia que você não precise se preocupar tanto com o relógio. 
 
