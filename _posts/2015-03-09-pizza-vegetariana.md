@@ -26,7 +26,7 @@ Para dar mais uma boa dica de como usar as verduras a favor de uma comidinha del
 * 1½  xícara (chá) farinha de trigo
 * 1 colher (sopa) de azeite de oliva
 * 1 colheres (sobremesa) de mel
-* 1/2 xícara (chá) de leite desnatado
+* ½ xícara (chá) de leite desnatado
 * Molho de sua preferência (branco, vermelho, rosé, queijo)
 * Legumes variados
 * Queijo muçarela (ou brie, camembert, gorgonzola, colonial) a gosto 
