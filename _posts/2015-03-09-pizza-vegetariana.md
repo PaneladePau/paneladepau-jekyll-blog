@@ -34,7 +34,7 @@ Para dar mais uma boa dica de como usar as verduras a favor de uma comidinha del
 ###Modo de fazer:
 
 1. Leve o mel e o azeite de oliva a uma tigela junto com 1 xícara da farinha. Comece a misturar e, aos poucos, adicione o leite. 
-2. Trabalhe a mistura com as mãos, sempre misturando e intercalando o restante da farinha com o leite até que a massa fique lisinha e comece a desgrudar das mãos. 
+2. Trabalhe a mistura com as mãos, sempre misturando e intercalando o restante da farinha com o leite até que a massa fique lisinha e comece a desgrudar das mãos. Se necessário, adicione mais farinha.
 3. Sove por alguns minutos em uma bancada enfarinhada. 
 4. Deixe a massa descansar enquanto prepara o molho e os legumes. 
 5. Abra a massa com ajuda de um rolo e pegando com as mãos, dando o formato arredondado da forma. 
