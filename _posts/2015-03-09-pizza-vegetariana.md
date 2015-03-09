@@ -23,7 +23,7 @@ Para dar mais uma boa dica de como usar as verduras a favor de uma comidinha del
 
 ###Ingredientes:
 
-* 1 1/2 xícara (chá) farinha de trigo
+* 1½  xícara (chá) farinha de trigo
 * 1 colher (sopa) de azeite de oliva
 * 1 colheres (sobremesa) de mel
 * 1/2 xícara (chá) de leite desnatado
