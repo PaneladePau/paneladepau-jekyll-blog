@@ -30,7 +30,7 @@ Para terminar a semana com o gostinho de coisa boa que ela merece, a nossa dica 
 * 120g de chocolate branco
 * 4 colheres (sopa) de creme de leite sem soro
 
-** Creme 2 (brigadeiro de café):
+** Creme 2 (brigadeiro de café):**
 
 * ½ caixa de leite condensado
 * ½ xícara (chá) de leite
