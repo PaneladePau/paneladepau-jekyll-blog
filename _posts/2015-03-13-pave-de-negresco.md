@@ -40,7 +40,7 @@ Para terminar a semana com o gostinho de coisa boa que ela merece, a nossa dica 
 
 1. Quebre as bolachinhas grosseiramente, deixando-as no tamanho que preferir. Reserve duas inteiras. 
 2. Creme 1: derreta o chocolate branco em banho-maria (ou no micro-ondas). Espere esfriar levemente e adicione o creme de leite aos poucos, misturando bem. As duas primeiras colheres vão deixar a mistura um pouco pesada e pode parecer que estragou o ponto do chocolate. Mas, fique tranquilo: basta ir adicionando o restante do creme de leite e mexendo bem. O resultado vai ser um creme brilhoso, lisinho e homogêneo. Reserve.
-3 Creme 2: misture todos os ingredientes ao fogo e misture bem até que chegue ao ponto de brigadeiro (desgrudando do fundo da panela). Reserve.
+3. Creme 2: misture todos os ingredientes ao fogo e misture bem até que chegue ao ponto de brigadeiro (desgrudando do fundo da panela). Reserve.
 4. Com os cremes em temperatura morna ou fria, siga para a montagem. A sequência é simples: uma camada de ganache, uma camada de biscoito, uma camada de brigadeiro, uma camada de biscoito, mais uma camada de brigadeiro, outra camada de biscoito, a camada final de ganache e, para finalizar, as duas bolachinhas inteiras vão por cima para decorar.
 5. Leve à geladeira (em pote vedado) por, no mínimo, 4 horas. Se puder deixar de um dia para o outro, melhor. 
 
