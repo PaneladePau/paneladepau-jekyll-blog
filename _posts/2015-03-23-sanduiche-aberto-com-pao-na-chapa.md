@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Tem dias que a gente só quer chegar em casa e comer algo rápido e ao mesmo tempo delicioso para salvar o dia. Para ajudar nessa missão, a dica de hoje é um lanche bem fácil e econômico. Visualmente, é parecido com uma bruschetta. Porém, como o jeito de fazer e os ingredientes mudam, acho melhor chamá-lo de sanduíche aberto. Tudo o que você vai precisar são as tradicionais sobrinhas de geladeira e gostosa receita de pão na chapa com requeijão que faz sucesso aqui no blog. E eu garanto: serão minutos de preparo que garantirão muitas mordidas gostosas.
+Tem dias que a gente só quer chegar em casa e comer algo rápido e ao mesmo tempo delicioso para salvar o dia. Para ajudar nessa missão, a dica de hoje é um lanche bem fácil e econômico. Visualmente, é parecido com uma bruschetta. Porém, como o jeito de fazer e os ingredientes mudam, acho melhor chamá-lo de sanduíche aberto. Tudo o que você vai precisar são as tradicionais sobrinhas de geladeira e a gostosa receita de pão na chapa com requeijão que faz sucesso aqui no blog. E eu garanto: serão minutos de preparo que garantirão muitas mordidas gostosas.
 
 **Sanduíche aberto com pão na chapa**
 
