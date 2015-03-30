@@ -24,7 +24,7 @@ Cupcake é sucesso em tudo que é lugar. Fácil de comer em poucas mordidas, um 
 
 * 1½ xícara (chá) de farinha de trigo
 * 1 xícara (chá) de açúcar 
-* 1 colher (sopa) de manteiga ou 1/4 xícara (chá) de óleo vegetal
+* 1 colher (sopa) de manteiga ou ¼ xícara (chá) de óleo vegetal
 * 1 ovo grande
 * 2 bananas nanicas maduras
 * 1 colher (sopa) de fermento em pó
@@ -41,7 +41,7 @@ Cupcake é sucesso em tudo que é lugar. Fácil de comer em poucas mordidas, um 
 
 E aí está um cupcake de deixar qualquer um com água na boca! Se você quiser decorar um pouquinho, uma dica legal é salpicar amêndoas ou castanhas para finalizar. Fica muito bonito (e gostoso)!
 
-O ideal é deixar o bolo paradinho depois de confeitá-lo com a Nutella, pois, ao ficar em contato com o ar, a Nutella começa a ganhar uma textura mais sólida por causa da gordura do creme. Assim, depois de um tempo, a Nutella fica mais sequinha e bem coladinha no bolo, quase como uma cobertura já no ponto, sem ficar colando nas mãos.  
+O ideal é deixar o bolo paradinho depois de confeitá-lo com a Nutella, pois, ao ficar em contato com o ar, a Nutella começa a ganhar uma textura mais sólida por causa da gordura do creme. Assim, depois de um tempo, a Nutella fica mais sequinha e bem coladinha no bolo, quase como uma cobertura já no ponto.
 
 Espero que tenham gostado! :)
 
