@@ -1,6 +1,6 @@
 ---
 titulo: Bacalhau à Gomes de Sá com leite de coco
-imgdestaque: bacalahu-a-gomes-de-sa.jpg
+imgdestaque: bacalhau-a-gomes-de-sa.jpg
 tags: [carnes, especiais]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Receita tradicional portuguesa, o Bacalhau à Gomes de Sá é uma pedida bem comum à mesa dos brasileiros, ainda mais no final de semana de Páscoa. A receita traz um equilíbrio entre o marcante sabor do bacalhau e ingredientes simples, mas muito saborosos - azeite de oliva, batata, ovos, cebola e azeitonas. 
 
-E hoje, ainda em tempo para preparar o especial de Páscoa de amanhã, a nossa pedida é uma releitura da receita clássica com um toquezinho a mais, com um sabor bem brasileiro: leite de coco. É uma delícia!
+E hoje a nossa pedida para o almoço especial de domingo é uma releitura da receita clássica com um toquezinho a mais, com um sabor bem brasileiro: leite de coco. É uma delícia!
 
 **Bacalhau à Gomes de Sá com leite de coco**
 
@@ -45,6 +45,6 @@ Este prato é uma delícia! O leite de coco completa super bem, dá um gostinho 
 
 Para finalizar, você adicionar salsa, que é um tempero bem tradicional no prato português. E para servir, arroz branco e um mix de folhas verdes são ótimcas pedidas, pois não roubam o sabor do prato, apenas complementam. A quantidade de hoje serve bem de 2 a 3 pessoas. 
 
-E aí, que tal testar esta maravilha no seu almoço especial? Ainda dá tempo :D
+E aí, que tal testar esta maravilha no seu almoço de domingo? Ainda dá tempo :D
 
-Até a próxima e bom domingo de Páscoa!
+Até a próxima e boa Páscoa!
