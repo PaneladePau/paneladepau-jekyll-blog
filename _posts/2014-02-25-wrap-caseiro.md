@@ -21,7 +21,7 @@ Bom dia leitores!
 
 Para começar uma semana cheia de energia, hoje vamos testar uma receita muito famosa ultimamente: o Wrap. Traduzido literalmente do inglês, o nome desse prato quer dizer "enrolar". Ele é um tipo de sanduíche frio, com base em uma massa leve, tipo a de panqueca, com recheios variados, geralmente carnes, saladas e temperos. É uma ótima pedida para reaproveitar as sobras da geladeira. Além de que é uma receita interessante para uma refeição bem balanceada, com carboidratos, proteínas, verduras e legumes. 
 
-**Wrap caseiro*
+**Wrap caseiro**
 
 {% include imagem2.html %}
 
