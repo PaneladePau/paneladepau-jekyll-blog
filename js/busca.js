@@ -67,10 +67,13 @@ function trocaAcentos(string) {
 	return string
 			.replace(/á/g, 'a')
 			.replace(/à/g, 'a')
+			.replace(/â/g, 'a')
 			.replace(/ã/g, 'a')
 			.replace(/é/g, 'e')
+			.replace(/ê/g, 'e')
 			.replace(/í/g, 'i')
 			.replace(/ó/g, 'o')
+			.replace(/ô/g, 'o')
 			.replace(/õ/g, 'o')
 			.replace(/ú/g, 'u')
 			.replace(/ç/g, 'c')
