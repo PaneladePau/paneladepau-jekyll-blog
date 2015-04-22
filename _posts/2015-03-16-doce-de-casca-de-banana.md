@@ -1,7 +1,7 @@
 ---
 titulo: Doce de casca de banana
 imgdestaque: doce-de-banana.jpg
-tags: [doces e sobremesas, reutilizando sobras, cozinha saudável]
+tags: [doces e sobremesas, reutilizando sobras, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
