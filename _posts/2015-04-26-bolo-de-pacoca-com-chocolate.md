@@ -57,7 +57,7 @@ Paçoca com chocolate é uma mistura que sempre faz sucesso. O contraste docinho
 
 E está pronto um bolo maravilhoso! O passo a passo é um pouco grande, mas tudo é bem fácil de fazer. Se você achar muito complicado rechear, dá para assar o bolo em uma forma só (tanto redonda como retangular) e apenas cobrir com o creme de paçoca e o chocolate. Ainda, se você quiser rechear, mas não tiver duas formas iguais, dá para assar o bolo em uma forma e, depois, cortá-lo ao meio. 
 
-Na hora de cobrir o bolo, a calda deve ser colocada quente, aos poucos, sempre com a ajuda da espátula para moldar. Assim, dá para puxar a calda que vazar para os lados para cima do bolo, cobrindo todos os espaços. Depois que o bolo estiver todo coberto, espere um tempinho para servir. O contato com o ar faz com que a cobertura cristalize, criando uma camadinha de chocolate crocante e úmida em volta do bolo.
+Na hora de cobrir o bolo, a calda deve ser colocada quente, aos poucos, sempre com a ajuda da espátula para moldar. Assim, dá para puxar a calda que vazar para os lados para cima do bolo, cobrindo todos os espaços. Depois que o bolo estiver todo coberto, espere um tempinho para servir. O contato com o ar faz com que a cobertura cristalize, criando uma camadinha de chocolate crocante e úmida.
 
 E aí, muito gostoso, né?
 
