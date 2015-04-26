@@ -21,7 +21,7 @@ Paçoca com chocolate é uma mistura que sempre faz sucesso. O contraste docinho
 
 ### Ingredientes:
 
-- Para o bolo:
+### Para o bolo:
 
 * 3 ovos
 * 3 xícaras (chá) de farinha de trigo
@@ -30,13 +30,13 @@ Paçoca com chocolate é uma mistura que sempre faz sucesso. O contraste docinho
 * 1 colher (sopa) de fermento
 * ½ xícara (chá) de água morna
 
-- Para o recheio:
+### Para o recheio:
 
 * Paçoquita (creme de paçoca) a gosto
 * Chocolate (amargo ou meio amargo) picado a gosto
 * Leite a gosto
 
-- Para a cobertura:
+### Para a cobertura:
 
 * 1 xícara (chá) de açúcar cristal 
 * ½ xícara (chá) de chocolate em pó
