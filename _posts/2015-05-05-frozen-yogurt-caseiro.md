@@ -28,7 +28,7 @@ Frozen yougurt (ou iogurte congelado) é um receita que tem a cara do verão, ma
 
 ### Modo de fazer:
 
-1. Misture o creme de leite e o iogurte liquidificador. 
+1. Misture o creme de leite e o iogurte no liquidificador. 
 2. Adicione o açúcar e o suco de limão e bata mais uma vez.
 3. Leve a mistura ao congelador (em um pote fechado) por cerca de 5 horas. 
 4. Bata a mistura no liquidificador até que ganhe a consistência de creme.
