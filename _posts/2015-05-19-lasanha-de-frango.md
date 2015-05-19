@@ -1,6 +1,6 @@
 ---
 titulo: Lasanha de frango
-imgdestaque: lasanha-de-f.jpg
+imgdestaque: lasanha-de-frango.jpg
 tags: [massas, pratos quentes, especiais]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
