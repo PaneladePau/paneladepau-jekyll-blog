@@ -1,11 +1,11 @@
 ---
 titulo: Bolo de cenoura
-imgdestaque: bolo-cenoura1.jpg
-tags: [paes e bolos, doces e sobremsas, lanches]
-imagem2: bolo-cenoura2.jpg
+imgdestaque: bolo-de-cenoura1.jpg
+tags: [paes e bolos, doces e sobremesas, lanches]
+imagem2: bolo-de-cenoura2.jpg
 legendaimg2: A cobertura finaliza o bolo, deixando-o muito bonito e convidativo.
-imagem3: bolo-cenoura-gif.gif
-legendaimg3: Bolo de cenoura
+imagem3: bolo-de-cenoura.gif
+legendaimg3: 
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
