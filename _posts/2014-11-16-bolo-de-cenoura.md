@@ -1,6 +1,6 @@
 ---
 titulo: Bolo de cenoura
-imgdestaque: bolo-de-cenoura1.jpg
+imgdestaque: bolo-de-cenoura-capa.jpg
 tags: [paes e bolos, doces e sobremesas, lanches]
 imagem2: bolo-de-cenoura2.jpg
 legendaimg2: A cobertura finaliza o bolo, deixando-o muito bonito e convidativo.
