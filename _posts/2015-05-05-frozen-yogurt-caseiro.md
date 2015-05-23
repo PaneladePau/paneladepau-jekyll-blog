@@ -1,7 +1,7 @@
 ---
 titulo: Frozen yogurt caseiro
 imgdestaque: frozen-caseiro.jpg
-tags: [doces e sobremesas, lanches, comida rapida, cozinha saudável]
+tags: [doces e sobremesas, lanches, comida rapida, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
