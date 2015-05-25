@@ -26,7 +26,7 @@ Lasanha é uma comida que todo mundo gosta. Afinal, quem não vai amar um prato 
 * 200g de presunto magro
 * 250g de frango desfiado (qualquer corte)
 * Molho vermelho a gosto (veja ideias [aqui](http://paneladepau.com.br/molho-de-cachorro-quente) e [aqui](http://paneladepau.com.br/molho-vermelho-sem-tomate))
-* Molho branco a gosto (veja uma ideia [aqui](http://paneladepau.com.br/espaguete-cheddar))
+* Molho branco a gosto (veja ideias [aqui](http://paneladepau.com.br/espaguete-cheddar) e [aqui](http://paneladepau.com.br/lasanha-de-legumes))
 
 ### Modo de fazer:
 
