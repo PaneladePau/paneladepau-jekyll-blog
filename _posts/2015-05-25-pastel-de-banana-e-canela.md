@@ -30,10 +30,10 @@ Sobremesas caseiras com frutas são boas ideias para o dia a dia, pois, além de
 
 1. Pique as bananas a gosto.
 2. Leve as bananas ao fogo baixo com a canela e o mel e deixe apurar por alguns minutos até que a mistura ganhe um tom caramelado. Reserve. 
-3. Preaqueça levemente as duas folhas da lasanha (uma de cada vez) em uma sanduicheira apenas para que fiquem morninhas.
+3. Preaqueça levemente as duas folhas de massa (uma de cada vez) em uma sanduicheira apenas para que fiquem morninhas.
 4. Coloque o recheio sobre uma das folhas da massa, deixando as extremidades livres. Umedeça as bordas levemente com água e feche o pastel com a outra folha, colando bem as beiradas. 
 5. Feche a sanduicheira e deixe o pastel assar por alguns minutos até que a massa ganhe um tom douradinho e fique um pouco mais seca.  
 
-Se você preferir o método tradicional, uma ideia é dividir a massa em porções menores e fazer os pasteis assados no forno ou fritos. No entanto, a sanduicheira faz menos sujeira e demora bem menos para cozinhar a massa. E fique tranquilo, a massa não irá queimar. O recheio ficará úmido, portanto, não deixará a massa totalmente seca, o que evitará que ela queime facilmente. Uma coisa que pode acontecer é o recheio vazar um pouquinho durante o cozimento, mas nem dá para dizer que isso é um problema. Ao contrário, é uma delícia, afinal, quem não gosta de uma rapinha de banana bem caramelada? 
+Se você preferir o método tradicional, uma ideia é dividir a massa em porções menores e fazer os pastéis assados no forno ou fritos. No entanto, a sanduicheira faz menos sujeira e demora bem menos para cozinhar a massa. E fique tranquilo, a massa não irá queimar. O recheio ficará úmido, portanto, não deixará a massa totalmente seca, o que evitará que ela queime facilmente. Uma coisa que pode acontecer é o recheio vazar um pouquinho durante o cozimento, mas nem dá para dizer que isso é um problema. Ao contrário, é uma delícia, afinal, quem não gosta de uma rapinha de banana caramelizada? 
 
 Até a próxima!
