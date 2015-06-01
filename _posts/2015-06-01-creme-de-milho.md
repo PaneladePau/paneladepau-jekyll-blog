@@ -24,10 +24,10 @@ Milho é um alimento versátil. Bolo, tortilha, pão e pamonha são apenas algum
 * 3 espigas de milho
 * 1 colher (sopa) de azeite de oliva
 * 1 cebola picada
-* 2 dentes de alho
+* 2 dentes de alho picados
 * Suco de meio limão tahiti 
 * Sal a gosto
-* Água (o quanto baste
+* Água (o quanto baste)
 * Orégano para finalizar
 
 ### Modo de fazer:
@@ -41,8 +41,3 @@ Milho é um alimento versátil. Bolo, tortilha, pão e pamonha são apenas algum
 A receita de hoje é uma forma mais nutritiva de se fazer o creme de milho. A maioria das receitas leva milho em conserva e alguma gordura para dar cremosidade, como requeijão e creme de leite. Esses ingredientes camuflam bastante o sabor do milho e contêm mais conservantes e sal. A opção de fazer com a espiga demora um pouquinho mais para ficar pronta, mas a saúde agradece o esforço. E o sabor também, pois fica bem mais suave e natural. Para finalizar, o limão dá um toque de acidez, quebrando um pouco o sabor adocicado do milho. Se você sentir que precisa mais cremosidade ou um pouco de gordura no prato, sugiro colocar um pouquinho de manteiga sem sal (até uma colher de sopa), que dá um sabor bem gostoso e ainda deixa um brilho bonito no creme. 
 
 Até a próxima!
-
-
-
-
-{% include imagem2.html %}
