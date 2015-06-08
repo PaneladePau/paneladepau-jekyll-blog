@@ -24,7 +24,7 @@ Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no 
 **Para a massa**
 
 * 2 xícaras (chá) de farinha de trigo branca
-* 1 xícara (chá) de açúcar cristal 
+* 1½ xícara (chá) de açúcar cristal 
 * 2 colheres (sopa) de manteiga sem sal em temperatura ambiente
 * 1 colher (sopa) de fermento químico 
 * 1 ovo grande 
@@ -41,7 +41,7 @@ Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no 
 1. Bater o ovo, o açúcar e a manteiga até que a mistura crie um pouco de volume. 
 2. Adicione a farinha e a água (ou leite) sempre intercalando um com o outro. Faça movimentos leves para não trabalhar demais a farinha. 
 3. Por último, adicione o fermento e misture bem.
-4. Transfira a massa para as forminhas de cupcake (se forem de silicone, não precisa untar e enfarinhar). Leve ao forno pré-aquecido (200) por cerca de 30 minutos. 
+4. Transfira a massa para as forminhas de cupcake (se forem de silicone, não precisa untar e enfarinhar). A massa deve preencher um pouco mais da metade de cada forma (sobra cerca de 1 dedo livre de área para os bolinhos crescerem). Leve ao forno pré-aquecido (200 °C) por cerca de 30 minutos. 
 5. Desenforme os cupcakes quando estiverem de mornos para frios. Para a cobertura, misture o leite condensado e a manteiga em uma panela. Leve ao fogo médio-baixo e cozinhe mexendo sempre até atingir o ponto de brigadeiro (denso e desgrudando do fundo da panela). 
 6. Cubra os bolinhos com a cobertura e finalize com os confeitos de sua preferência.
 
