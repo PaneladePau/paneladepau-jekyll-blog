@@ -15,13 +15,14 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no blog, já tivemos vários testes de cupcake: [de banana com Nutella](http://paneladepau.com.br/cupcake-banana-com-nutella), [de milho](http://paneladepau.com.br/cupcake-de-milho), [de baunilha com brigadeiro](http://paneladepau.com.br/cupcake). Todos são saborosos e também muito fáceis de se fazer. E hoje a gente vai aprender um cupcake mais fácil ainda, uma receita coringa para o livrinho de receitas. 
+Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no blog, já tivemos vários testes de cupcake: [de banana com Nutella](http://paneladepau.com.br/cupcake-banana-com-nutella), [de milho](http://paneladepau.com.br/cupcake-de-milho), [de baunilha com brigadeiro](http://paneladepau.com.br/cupcake). Todos são saborosos e também muito fáceis de se fazer. E hoje a gente vai aprender um cupcake mais fácil ainda, um passo a passo coringa para o livrinho de receitas. 
 
 **Cupcake simples**
 
 ### Ingredientes:
 
-**Para a massa:**
+**Para a massa**
+
 * 2 xícaras (chá) de farinha de trigo branca
 * 1 xícara (chá) de açúcar cristal 
 * 2 colheres (sopa) de manteiga sem sal em temperatura ambiente
@@ -29,7 +30,8 @@ Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no 
 * 1 ovo grande 
 * 1 xícara (chá) de água ou leite morno
 
-**Para a cobertura:**
+**Para a cobertura**
+
 * 200g de leite condensado
 * 1 colher (sopa) de manteiga sem sal
 * Confeito a gosto
