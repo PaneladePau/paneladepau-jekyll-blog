@@ -43,7 +43,7 @@ E hoje a nossa pedida para o almoço especial de domingo é uma releitura da rec
 
 Este prato é uma delícia! O leite de coco completa super bem, dá um gostinho parecido com o de uma moqueca, com bastante cremosidade. Como você deve ter reparado, em nenhum momento falei de sal. O motivo disso é que o bacalhau é bastante salgado, é ele que confere sal ao prato. No entanto, para conferir se o sabor está ao seu gosto ou se a dessalga não tirou muito sal do bacalhau, prove um pedaço da carne na metade do tempo de forno (o calor intensifica o sabor do sal). Se achar que falta sal, basta corrigir o tempero ao seu gosto e dar sequência ao cozimento. 
 
-Para finalizar, você adicionar salsa, que é um tempero bem tradicional no prato português. E para servir, arroz branco e um mix de folhas verdes são ótimas pedidas, pois não roubam o sabor do prato, apenas complementam. A quantidade de hoje serve bem de 2 a 3 pessoas. 
+Para finalizar, você pode adicionar salsa, que é um tempero bem tradicional no prato português. E para servir, arroz branco e um mix de folhas verdes são ótimas pedidas, pois não roubam o sabor do prato, apenas complementam. A quantidade de hoje serve bem de 2 a 3 pessoas. 
 
 E aí, que tal testar esta maravilha no seu almoço de domingo? Ainda dá tempo :D
 
