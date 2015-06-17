@@ -35,7 +35,7 @@ Essas breves lembranças são a introdução para o delicioso risoto de bacalhau
 * ½ xícara (chá) de azeite de oliva
  
 ### Modo de fazer:
-1. Dessalgue as postas de bacalhau. Primeiramente, lave-as em água corrente (para tirar a crosta de sal) e, depois, deixe-as de molho em um refratário com água fresca, a qual deve ser trocada, em média, a cada 4h. Quanto mais tempo durar esse processo e mais vezes for repetido, mais eficaz será a retirada do excesso de sal. Para você ter uma ideia, o bacalhau de hoje ficou de molho por cerca de 13h. Ao fim, é só retirar a água, desfiar o bacalhau e reservar.
+1. Dessalgue as postas de bacalhau. Lave-as em água corrente (para tirar a crosta de sal) e, depois, deixe-as de molho em um refratário com água fresca, a qual deve ser trocada, em média, a cada 4h. Quanto mais tempo durar esse processo e mais vezes for repetido, mais eficaz será a retirada do excesso de sal. Para você ter uma ideia, o bacalhau de hoje ficou de molho por cerca de 13h. Ao fim, é só retirar a água, desfiar o bacalhau e reservar.
 2. Pique o tomate, o alho e as azeitonas. Em uma panela, dissolva os cubos de caldo em água quente. Reserve.
 3. Já na panela, comece refogando o alho levemente no azeite. Na sequência, adicione o arroz e refogue por mais 2 minutos.
 4. Adicione o vinho branco e mexa até o líquido evaporar completamente.
