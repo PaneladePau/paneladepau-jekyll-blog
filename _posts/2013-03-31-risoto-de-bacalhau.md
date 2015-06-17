@@ -23,16 +23,16 @@ Essas breves lembranças são a introdução para o delicioso risoto de bacalhau
 
 ### Ingredientes:
 
-1½ xícara (chá) de arroz arbóreo
-1 litro de água
-2 cubos de caldo de galinha
-2 tomates (sem pele e sem sementes)
-½ xícara (chá) de vinho branco
-560g de bacalhau dessalgado e desfiado
-12 azeitonas (pretas ou verdes)
-1 talho de alho poró 
-1 colher (sopa) de manteiga
-½ xícara (chá) de azeite de oliva
+* 1½ xícara (chá) de arroz arbóreo
+* 1 litro de água
+* 2 cubos de caldo de galinha
+* 2 tomates (sem pele e sem sementes)
+* ½ xícara (chá) de vinho branco
+* 560g de bacalhau dessalgado e desfiado
+* 12 azeitonas (pretas ou verdes)
+* 1 talho de alho poró 
+* 1 colher (sopa) de manteiga
+* ½ xícara (chá) de azeite de oliva
  
 ### Modo de fazer:
 1. Dessalgue as postas de bacalhau. Primeiramente, lave-as em água corrente (para tirar a crosta de sal) e, depois, deixe-as de molho em um refratário com água fresca, a qual deve ser trocada, em média, a cada 4h. Quanto mais tempo durar esse processo e mais vezes for repetido, mais eficaz será a retirada do excesso de sal. Para você ter uma ideia, o bacalhau de hoje ficou de molho por cerca de 13h. Ao fim, é só retirar a água, desfiar o bacalhau e reservar.
