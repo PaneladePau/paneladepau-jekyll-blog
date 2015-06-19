@@ -1,7 +1,7 @@
 ---
 titulo: Crepe doce
 imgdestaque: crepe-doce.jpg
-tags: [, doces e sobremesas, lanches, comida rapida]
+tags: [doces e sobremesas, lanches, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
