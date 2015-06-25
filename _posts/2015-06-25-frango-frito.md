@@ -25,19 +25,19 @@ Uma crosta sequinha e crocante e uma carne macia, suculenta e bem temperada. Ess
 * 3 ovos batidos
 * 1 xícara (chá) de leite
 * 2 ½  xícaras (chá) de farinha de trigo
-* 3 ½ xícaras (chá) de óleo vegetal (canola, milho, soja)
 * 1 colher (sopa) de composto de alho, salsa e cebola desidratados
 * 1 colher (sopa) de páprica picante
 * 1 colher (sopa) de pimenta preta em pó
 * 1 colher (sopa) de orégano
 * Sal a gosto
+* Óleo vegetal (canola, milho, soja) para fritar
 
 ### Modo de fazer:
 
 1. Em uma tigela, tempere o leite com o composto de alho, salsa e cebola, a páprica, a pimenta e o orégano. Adicione os pedaços de frango nessa mistura. Deixe marinar por cerca de 20 minutos.
 2. Em outro refratário, tempere a farinha com sal e pimenta a gosto. Reserve.
 3. Para empanar, passe cada pedaço de frango temperado pela farinha, fazendo uma primeira camada. Na sequência, passe os pedaços no ovos batidos e, por último, faça mais uma camada de farinha. Repita o processo até que todos os pedaços estejam empanados.
-4. Frite em óleo quente de 10 a 15 minutos (2 ou 3 pedaços por vez). Use uma panela pequena e vire os pedaços durante a fritura para dourar em todos os lados.
+4. Frite o frango imerso no óleo quente de 10 a 15 minutos (2 ou 3 pedaços por vez) em uma panela pequena. Vire os pedaços durante a fritura para dourar em todos os lados.
 5. Escorra o excesso de óleo dos pedaços passando-os para um recipiente forrado com papel-toalha.
 6. Sirva quente!
 
