@@ -19,7 +19,7 @@ Uma crosta sequinha e crocante e uma carne macia, suculenta e bem temperada. Ess
 
 **Frango frito**
 
-### Igredientes:
+### Ingredientes:
 
 * 12 pedaços de frango (6 coxas e 6 sobrecoxas) com pele
 * 3 ovos batidos
@@ -38,12 +38,13 @@ Uma crosta sequinha e crocante e uma carne macia, suculenta e bem temperada. Ess
 2. Em outro refratário, tempere a farinha com sal e pimenta a gosto. Reserve.
 3. Para empanar, passe cada pedaço de frango temperado pela farinha, fazendo uma primeira camada. Na sequência, passe os pedaços no ovos batidos e, por último, faça mais uma camada de farinha. Repita o processo até que todos os pedaços estejam empanados.
 4. Frite em óleo quente de 10 a 15 minutos (2 ou 3 pedaços por vez). Use uma panela média e vire os pedaços durante a fritura para dourar em todos os lados.
-5. Sirva quente!
+5. Escorra o excesso de óleo dos pedaços passando-os para um recipiente forrado com papel-toalha.
+6. Sirva quente!
 
-A receita de hoje, bastante inspirada na cozinha norte-americana, foi um resultado uma pesquisa grande que eu fiz para chegar em um frango frito fácil e rápido que lembrasse um pouquinho os lanches das redes de fast food. Nesse processo, descobri uma coisa interessante: a maioria das receitas norte-americanas usa buttermilk (um leite produzido a partir do líquido que sobra na produção de manteiga) na marinada. Como ele é um produto pouco comum no Brasil, dá para substituir bem com o leite normal, sem problemas.
+A receita de hoje, bastante inspirada na cozinha norte-americana, foi um resultado de uma pesquisa grande que eu fiz para chegar em um frango frito fácil que lembrasse um pouquinho os lanches das redes de fast food. Nesse processo, descobri uma coisa interessante: a maioria das receitas norte-americanas usa *buttermilk* (um leite produzido a partir do líquido que sobra na produção de manteiga) para a marinada. Como ele é um produto pouco comum no Brasil, dá para substituir bem com o leite normal, sem problemas.
 
 Legal, né?
 Até a próxima! 
 
 
-*A receita de hoje foi baseada em um dos posts da Coluna de Gastronomia do [Teleséries](http://teleseries.com.br, que eu assino desde 2013. Para conhecer o post original, clique [aqui](http://teleseries.com.br/a-alquimia-do-frango-frito-em-breaking-bad/)*. 
+*A receita de hoje foi baseada em um dos posts da Coluna de Gastronomia do [Teleséries](http://teleseries.com.br), que eu assino desde 2013. Para conhecer o post original, clique [aqui](http://teleseries.com.br/a-alquimia-do-frango-frito-em-breaking-bad/)*. 
