@@ -1,6 +1,6 @@
 ---
 titulo: Brownie de Nutella
-imgdestaque: brownie-de-nutella.jpg
+imgdestaque: brownie-de-nutell.jpg
 tags: [doces e sobremesas, paes e bolos, lanches, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
