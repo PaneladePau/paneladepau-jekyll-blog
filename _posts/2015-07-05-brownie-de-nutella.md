@@ -1,7 +1,7 @@
 ---
-titulo: Título do post
-imgdestaque: nome-da-imagem.jpg
-tags: [Tag 1, Tag 2]
+titulo: Brownie de Nutella
+imgdestaque: brownie-de-nutella.jpg
+tags: [doces e sobremesas, paes e bolos, lanches, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
