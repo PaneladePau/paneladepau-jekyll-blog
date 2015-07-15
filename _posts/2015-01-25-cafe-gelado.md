@@ -13,7 +13,7 @@ tags: [bebidas, lanches]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-O café é uma pedida excelente para começar a rotina. Com sabor intenso, é uma bebida clássica entre os brasileiros que, além de ser consumida com frequência no início do dia, também vai bem em vários outros momentos, como o final do almoço e o lanchinho da tarde. Além de sua forma pura, o café também é ótimo para dar graça a receitas variadas e gostosas. Um exemplo disso é a dica desta segunda do Panela de Pau. Para refrescar os dias de calor sem perder a tradição do cafezinho, nada como um gostoso café gelado. 
+O café é uma pedida excelente para começar a rotina. Com sabor intenso, é uma bebida clássica entre os brasileiros que, além de ser consumida com frequência no início do dia, também vai bem em vários outros momentos, como o final do almoço e o lanchinho da tarde. Além de sua forma pura, o café também é ótimo para dar graça a receitas variadas e gostosas. Um exemplo disso é a dica de hoje do Panela de Pau. Para refrescar os dias de calor sem perder a tradição do cafezinho, nada como um gostoso café gelado. 
 
 **Café gelado**
 
