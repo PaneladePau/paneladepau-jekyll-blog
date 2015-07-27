@@ -21,11 +21,11 @@ A chipa é um tradicional salgado da cozinha paraguaia. Feita à base de polvilh
 
 ###Ingredientes:
 
-100 ml de leite
-6 colher (sopa) de azeite de oliva
-Ervas secas a gosto (ex: alecrim, orégano, manjerona, salsa)
-2 xícaras (chá) de polvilho doce
-Sal a gosto
+* 100 ml de leite
+* 6 colher (sopa) de azeite de oliva
+* Ervas secas a gosto (ex: alecrim, orégano, manjerona, salsa)
+* 2 xícaras (chá) de polvilho doce
+* Sal a gosto
 
 ### Modo de fazer:
 
