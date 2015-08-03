@@ -1,7 +1,7 @@
 ---
 titulo: Risoto de presunto cru e parmesão
 imgdestaque: risoto-de-presuntocru-parmesao.jpg
-tags: [Tag 1, Tag 2]
+tags: [pratos quentes, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
@@ -44,7 +44,7 @@ A receita de hoje, um risoto bem saboroso de presunto cru e parmesão, é uma di
 
 Esta receita é muito simples de fazer, e o que brilha realmente são os ingredientes especiais. Se você preferir um queijo mais suave, opções boas são o queijo branco ou a ricota fresca, que são menos salgados e também mantêm a textura, uma vez que não são do tipo que derrete. 
 
-Para acompanhar, um mix de folhas verdes com toque de acidez (suco de limão, vinagre balsâmico, molho de iogurte fresco) e um vinho tinto suave caem super bem - além de conquistar pelo visual, juntos, eles fazem uma bela harmonia de sabores. 
+Para acompanhar, um mix de folhas verdes com toque de acidez (ex: suco de limão, vinagre balsâmico ou molho de iogurte fresco) e um vinho tinto suave caem super bem - além de conquistar pelo visual, juntos, eles fazem uma bela harmonia de sabores. 
 
 Até a próxima!
 
