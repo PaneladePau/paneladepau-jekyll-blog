@@ -33,10 +33,10 @@ O beijinho é um dos docinhos que mais faz a alegria nas festas brasileiras. Uma
 2. Tire a panela do fogo. Se for usar o coco, essa é a hora de adicionar a quantidade desejada e misturar bem. 
 3. Transfira o beijinho para um refratário untado com manteiga. Deixe esfriar completamente. 
 4. Com o beijinho já frio, é hora de enrolar. Para isso, pegue uma porção generosa da massa e abra-a na na mão, até que cubra todo o gordinho da palma. Adicione uma colher (sobremesa) do recheio escolhido bem no centro. 
-5. Na sequência, vá fechando a massa pelas bordas e dê o formato redondinho de beijinho, cuidando para não escapar o recheio. 
+5. Na sequência, feche a massa pelas bordas e dê o formato redondinho de beijinho, cuidando para não escapar o recheio. 
 6. Finalize os beijinhos com confeito a gosto. 
 
-E rapidinho assim está pronto um doce maravilhoso! A parte mais demorada é esperar o beijinho esfriar. Eu não gosto de resfriar na geladeira, pois deixa massa mais ressecada, além de que é mais fácil perder o ponto do doce devido à troca de temperatura. 
+E rapidinho assim está pronto um doce maravilhoso! A parte mais demorada é esperar o beijinho esfriar. Eu não gosto de resfriar na geladeira, pois a massa tende a ressecar, além de que é mais fácil de se perder o ponto do doce devido à troca de temperatura. 
 
 Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de chocolates branco e preto. É importante usar um recheio que seja cremoso, mas consistente. O recheio mole é difícil de moldar e também de comer. 
 
