@@ -41,4 +41,4 @@ E rapidinho assim está pronto um doce maravilhoso! A parte mais demorada é esp
 Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de chocolates branco e preto. É importante usar um recheio que seja cremoso, mas consistente. O recheio mole é difícil de moldar e também de comer. 
 
 Fácil, né?
-Então aproveite a dice e já inove na sua próxima comemoração sem sofrimento :)
+Então aproveite a dica e já inove na sua próxima comemoração sem sofrimento :)
