@@ -22,12 +22,12 @@ Batata é um dos meus alimentos preferidos. Nos últimos tempos, ela se tornou a
 ### Ingredientes:
 
 * 2 batatas médias com casca
-* Temperos a gosto (eu usei: alecrim, louro, páprica, pimenta calabresa e sal)
+* Temperos a gosto (eu usei: alecrim, louro, páprica doce, pimenta calabresa e sal)
 * Azeite 
 * 3 dentes de alho com casca
 * 50g de bacon em tiras fininhas 
 
-## Modo de fazer:
+### Modo de fazer:
 
 1. Divida a batata em gomos, cortando-as em metades e depois dividindo cada metade em 3 ou 4 filetes (dependerá do tamanho da batata). 
 2. Transfira as batatas para uma panela e cubra-as com água. Tempere com uma colher (sopa) de sal e leve ao fogo. Quando a água começar a ferver, conte cinco minutos e, logo, desligue a chama.
