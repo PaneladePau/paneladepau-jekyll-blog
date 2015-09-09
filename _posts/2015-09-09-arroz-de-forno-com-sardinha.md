@@ -1,7 +1,7 @@
 ---
 titulo: Arroz de forno com sardinha
 imgdestaque: arroz-de-forno-com-sardinha.jpg
-tags: [reutilizando sobras, pratos quentes, comida rapuda]
+tags: [reutilizando sobras, pratos quentes, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
