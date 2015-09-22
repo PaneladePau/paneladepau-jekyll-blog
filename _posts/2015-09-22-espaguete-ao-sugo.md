@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-*Al sugo* significa literalmente "ao molho". No Brasil, a expressão italiana se popularizou com um breve aportuguesamento, e, atualmente, muitos restaurantes têm, em seus cardápios, o macarrão "ao sugo", o que, por aqui, significa que é servido ao molho de tomate. A receita, originada na Itália, já é um clássico na nossa cozinha. E a gente vai ver, no post de hoje, uma versão de molho bem fácil para acompanhar o macarrão do dia a dia. 
+*Al sugo* significa literalmente 'ao molho'. No Brasil, a expressão italiana se popularizou com um breve aportguesamento, e, atualmente, muitos restaurantes têm, em seus cardápios, o macarrão 'ao sugo', o que, por aqui, significa que é servido ao molho de tomate. A receita, originada na Itália, já é um clássico na nossa cozinha. E a gente vai ver, no post de hoje, uma versão de molho bem fácil para acompanhar o macarrão do dia a dia. 
 
 **Espaguete ao sugo**
 
