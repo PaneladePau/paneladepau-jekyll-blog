@@ -44,7 +44,7 @@ O chili com carne, ou simplesmente chili, é uma das receitas mais tradicionais 
 5. Deixe cozinhar por cerca de 25 a 30 minutos em fogo médio-alto, mexendo algumas vezes e adicionando água quente sempre que necessário para a mistura não grudar no fundo da panela e manter o caldo sempre cozinhando e engrossando. 
 6. Quando a mistura estiver bem encorpada, desligue o fogo. 
 
-O chili é ótimo e tem um aroma muito delicioso. O cheirinho simplesmente ganha o ar de um jeito maravilhoso. Para servir, a dica é esperar alguns minutinhos após a mistura sair do fogo. A troca de temperatura ajudará na textura do chili que, ao amornar, ficará ainda mais encorpado e com o sabor ainda mais saboroso.
+O chili é ótimo e tem um aroma muito delicioso. O cheirinho simplesmente ganha o ar de um jeito maravilhoso. Para servir, a dica é esperar alguns minutinhos após a mistura sair do fogo. A troca de temperatura ajudará na textura do chili que, ao amornar, também ficará ainda mais saboroso.
 
 Fácil, né?
 Até a próxima :)
