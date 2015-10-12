@@ -1,7 +1,7 @@
 ---
 titulo: Coxinha fácil
 imgdestaque: coxinha-facil.jpg
-tags: [lanches, massas, reutilizando as sobras, comida rapida]
+tags: [lanches, massas, reutilizando sobras, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
