@@ -30,7 +30,7 @@ No final de outubro, o Panela de Pau recebeu mais um presentinho da equipe do Re
 ### Modo de fazer:
 
 1. Em uma tigela, misture a farinha, a maizena e o fermento. Adicione os ovos, o leite, a erva-doce e o açúcar. Reserve.
-2. Aqueça o óleo em fogo médio. Frite a massa às colheredas (um colher de sopa cada bolinho +/-). Frite de a 3 a 4 por vez.
+2. Aqueça o óleo em fogo médio. Frite a massa às colheredas (um colher de sopa para cada bolinho +/-). Frite de 3 a 4 por vez.
 3. Quando os bolinhos estiverem douradinhos, escorra-os sobre papel toalha e logo passe no açúcar com canela. Repita o processo até que todos os bolinhos estejam prontos.
 
 Fácil, né? Os ingredientes listados acima são iguais ao da receita enviada pelo pessoal da Recepedia. Eu adicionei um pouco mais de Maizena porque achei que a textura estava muito mole para formar as colheradas de cada bolinho. Então, vai um pouco de você sentir a massa :)
