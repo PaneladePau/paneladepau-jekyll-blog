@@ -1,9 +1,7 @@
 ---
 titulo: Bolinho de chuva com Maizena
-imgdestaque: bolinho-de-chuva2.jpg
+imgdestaque: bolinho-de-chuva-com-maizena.jpg
 tags: [paes e bolos, lanches, especiais]
-imagem2: nome-da-imagem-2.jpg
-legendaimg2: Legenda da imagem 2
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
