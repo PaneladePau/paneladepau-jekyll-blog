@@ -44,7 +44,7 @@ Chantilly, leite condensado e coco ralado a gosto
 ### Modo de fazer: 
 
 1. Em uma batedeira, combine os ovos e o açúcar até que a mistura ganhe volume e uma coloração esbranquiçada.
-2. Adicione o óleo, a baunilha, o coco e, aos poucos, insira a farinha, intercalando com o leite.
+2. Adicione o óleo, a baunilha, o coco e a pitada de sal. Aos poucos, insira a farinha, intercalando com o leite.
 3. Quando a mistura estiver homogênea, desligue a batedeira, adicione o fermento e misture com uma colher.
 4. Asse em uma forma retangular por cerca de 30 minutos, em forno médio pré-aquecido (180°C a 200°C).
 5. Se preferir, quando o bolo estiver frio, você pode desenformá-lo (não é necessário). 
