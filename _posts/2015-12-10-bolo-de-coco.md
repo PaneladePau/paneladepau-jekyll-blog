@@ -1,7 +1,7 @@
 ---
 titulo: Bolo de coco
-imgdestaque: bolo-de-coco2.jpg
-tags: [Tag 1, Tag 2]
+imgdestaque: bolo-de-coco1.jpg
+tags: [doces e sobremesas, paes e bolos, lanches, especiais]
 imagem2: bolo-de-coco.jpg
 legendaimg2: Orange Is The New Black
 ---
