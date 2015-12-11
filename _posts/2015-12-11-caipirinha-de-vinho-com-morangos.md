@@ -39,6 +39,7 @@ Na cozinha, para fazer juz à sede da personagem, preparamos uma caipirinha à b
 5. Use o morango que sobrou para a decoração. Faça um pequeno corte no meio da fruta para encaixá-la na borda do copo.
 6. Sirva bem gelado!
 
-Bem rápido, né? A dica para um sabor mais leve é escolher um vinho tinto suave, como os simples de mesa, que apesar de menor qualidade, harmonizam bem com os morangos e açúcar, ou tipos como o pinot noir. Vinhos mais encorpados, como cabernet sauvignon e o merlot, por exemplo, tendem a deixar o drink muito pesado e esconderão o morango. Já o rosé deixará o drink muito doce. E os tipos brancos são uma ideia legal também. 
+Bem rápido, né? A dica para um sabor mais leve é escolher um vinho tinto suave, como os simples de mesa, que apesar de menor qualidade, harmonizam bem com os morangos e açúcar, ou tipos como o pinot noir. Vinhos mais encorpados, como cabernet sauvignon e o merlot, por exemplo, tendem a deixar o drink muito pesado e esconderão o morango. 
 
-Voltamos na segunda-feira com mais uma receita especial. Não vai perder :)
+Voltamos na segunda-feira com mais uma receita especial. 
+Não vai perder :)
