@@ -21,7 +21,7 @@ A receita que vem por aí foi ao ar no TeleSéries em 2014, em [uma coluna dedic
 
 {% include imagem2.html %}
 
-Na cozinha, para fazer juz à sede da personagem, preparamos uma caipirinha de vinhos com morangos saborosa e bem fácil de preparar. Até quem não gosta de vinho vai abrir uma exceção!
+Na cozinha, para fazer juz à sede da personagem, preparamos uma caipirinha à base de vinho bem fácil de preparar. Até quem não gosta de vinho vai abrir uma exceção!
 
 **Caipirinha de vinho com morangos**
 
@@ -39,6 +39,6 @@ Na cozinha, para fazer juz à sede da personagem, preparamos uma caipirinha de v
 5. Use o morango que sobrou para a decoração. Faça um pequeno corte no meio da fruta para encaixá-la na borda do copo.
 6. Sirva bem gelado!
 
-Bem rápido, né? A dica para um sabor mais leve é escolher um vinho tinto suave, como os simples de mesa, que apesar de menor qualidade, harmonizam bem com os morangos e vinho, ou tipos como o pinot noir. Vinhos mais encorpados, como cabernet sauvignon e o merlot, por exemplo, tendem a deixar o drink muito pesado e esconderão o morango. Já o rosé deixará o drink muito doce. E os tipos brancos são uma ideia legal também. 
+Bem rápido, né? A dica para um sabor mais leve é escolher um vinho tinto suave, como os simples de mesa, que apesar de menor qualidade, harmonizam bem com os morangos e açúcar, ou tipos como o pinot noir. Vinhos mais encorpados, como cabernet sauvignon e o merlot, por exemplo, tendem a deixar o drink muito pesado e esconderão o morango. Já o rosé deixará o drink muito doce. E os tipos brancos são uma ideia legal também. 
 
 Voltamos na segunda-feira com mais uma receita especial. Não vai perder :)
