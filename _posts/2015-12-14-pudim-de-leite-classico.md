@@ -3,9 +3,9 @@ titulo: Pudim de leite clássico
 imgdestaque: pudim-de-leite1.jpg
 tags: [doces e sobremesas, especiais]
 imagem2: pudim-de-leite2.jpg
-legendaimg2: Legenda da imagem 2
+legendaimg2: Gilmore Girls
 imagem3: pudim-de-leite3.jpg
-legendaimg3: Legenda da imagem 2
+legendaimg3: Passo a passo da parte da calda
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -38,26 +38,28 @@ Clássica do meu pai, a receita de hoje é daquelas cheias de sabor e que tem o 
 *medir pela lata do leite condensado
 
 ### Para a calda:
-1 xícara (chá) de açúcar
+* 1 xícara (chá) de açúcar
 
 ### Modo de fazer:
+
 1. Com auxílio de uma luva ou de um pano, leve a assadeira de pudim ao fogão (forno baixo), com o açúcar para a calda cobrindo o fundo. Deixe caramelizar e, aos poucos, com auxílio de uma colher, espalhe o caramelo pela forma.
 2. Em um liquidificador, bata todos os ingredientes do pudim até que a mistura fique homogênea.
 3. Com cuidado, adicione a mistura do pudim à forma (se você ouvir algum barulho, não se assuste: é o caramelo se solidificando!).
-
-{% include imagem3.html %}
-
 4. Cubra a forma com papel alumínio (ou com a tampa da forma, se ela tiver) e leve-a ao forno médio-baixo (180 ºC), preaquecido, em banho-maria, por cerca de uma hora e meia.
 5. Tire o pudim do forno e, sem descobrir, leve-o à geladeira por no mínimo seis horas, até que firme bem.
 6. Após o tempo de geladeira, com delicadeza, solte os lados e o centro do pudim com auxílio de uma espátula. Vire o pudim com cuidado no prato em que você irá servir.
 7. Sirva bem gelado.
 
-Para fazer o pudim é necessário um pouco de cuidado e paciência, mas a receita e o passo a passo são bem simples. Lá na coluna do TeleSéries (veja o link acima) ainda tem mais algumas dicas sobre o pudim, inclusive para você saber mais sobre as diferentes texturas. 
+{% include imagem3.html %}
 
-E se você tá chegando agora ou ainda não viu as receitas do especial que saíram na passada, não deixe de conferir:
+Para fazer o pudim é necessário um pouco de cuidado e paciência, mas a receita e o passo a passo são bem simples. Lá na coluna do **TeleSéries** (veja o link acima) ainda tem mais algumas dicas sobre o pudim, inclusive para você saber mais sobre as diferentes texturas. 
 
-09/12 - [Chow Mein](https://www.enderecodolink.com)http://paneladepau.com.br/chow-mein)
-10/12 - [Bolo de coco](https://www.enderecodolink.com)http://paneladepau.com.br/bolo-de-coco)
+E se você tá chegando agora e ainda não viu as receitas do especial que saíram na passada, não deixe de conferir:
+
+09/12 - [Chow Mein](http://paneladepau.com.br/chow-mein)
+
+10/12 - [Bolo de coco](http://paneladepau.com.br/bolo-de-coco)
+
 11/12 - [Caipirinha de vinho com morangos](http://paneladepau.com.br/caipirinha-de-vinho-com-morangos)
 
 Amanhã voltamos com mais receita :)
