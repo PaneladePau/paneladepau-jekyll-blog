@@ -19,7 +19,7 @@ legendaimg3: Passo a passo da parte da calda
 
 Hoje o **Panela de Pau** segue para a segunda semana de especiais de [gastronomia do TeleSéries](https://www.enderecodolink.com). A pedida para começar a semana com muito sabor é uma sobremesa bem tradicional na cozinha brasileira: pudim de leite. 
 
-A série que ganhou essa delícia de receita foi Gilmore Girls, uma das minhas favoritas. Em junho de 2014, a série foi o background de [uma coluna especial sobre o "Dia da Vovó"](http://teleseries.com.br/um-doce-classico-com-o-toque-da-vovo-de-gilmore-girls/).
+A série que ganhou essa delícia de receita foi *Gilmore Girls*, uma das minhas favoritas. Em junho de 2014, a série foi o background de [uma coluna especial sobre o "Dia da Vovó"](http://teleseries.com.br/um-doce-classico-com-o-toque-da-vovo-de-gilmore-girls/).
 
 {% include imagem2.html %}
 

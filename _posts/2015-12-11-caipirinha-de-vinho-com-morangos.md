@@ -17,7 +17,7 @@ legendaimg2: Scandal
 
 Para fechar a primeira semana de homenagem às [comidinhas do TeleSéries](http://teleseries.com.br/category/colunas/gastronomia/), a nossa pedida de hoje é um drink bem vibrante. 
 
-A receita que vem por aí foi ao ar no TeleSéries em 2014, em [uma coluna dedicada à protagonista de Scandal, Olivia Pope](http://teleseries.com.br/na-cozinha-com-vinho-o-elegante-sabor-de-scandal-em-uma-receita-incrivel/), interpretada por Kerry Washington.
+A receita que vem por aí foi ao ar no TeleSéries em 2014, em [uma coluna dedicada à protagonista de *Scandal*, Olivia Pope](http://teleseries.com.br/na-cozinha-com-vinho-o-elegante-sabor-de-scandal-em-uma-receita-incrivel/), interpretada por Kerry Washington.
 
 {% include imagem2.html %}
 

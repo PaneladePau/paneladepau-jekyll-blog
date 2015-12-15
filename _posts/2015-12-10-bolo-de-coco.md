@@ -17,7 +17,7 @@ legendaimg2: Orange Is The New Black
 
 Seguindo com a nossa homenagem gastronômica ao [TeleSéries](https://www.enderecodolink.com), hoje é dia de uma sobremesa bem resfrescante, geladinha e deliciosa, o bolo de coco.
 
-A receita foi inspirada [em uma coluna de 2013](http://teleseries.com.br/ei-pare-ja-ai-a-cozinha-de-orange-is-the-new-black-vai-te-prender/), que falava sobre a então recente primeira temporada de Orange Is The New Black, uma das séries originais do Netflix. 
+A receita foi inspirada [em uma coluna de 2013](http://teleseries.com.br/ei-pare-ja-ai-a-cozinha-de-orange-is-the-new-black-vai-te-prender/), que falava sobre a então recente primeira temporada de *Orange Is The New Black*, uma das séries originais do Netflix. 
 
 {% include imagem2.html %}
 
