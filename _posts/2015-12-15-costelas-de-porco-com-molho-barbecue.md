@@ -31,7 +31,7 @@ A receita das costelinhas é uma ótima dica para inovar na forma de servir a tr
 * Sal e temperos a gosto
 * Suco de um limão
 * Óleo vegetal ou manteiga
-* Molho barbecue (veja a receita aqui](http://paneladepau.com.br/molho-barbecue)) 
+* Molho barbecue (veja a receita [aqui](http://paneladepau.com.br/molho-barbecue)) 
 
 ### Modo de fazer:
 
