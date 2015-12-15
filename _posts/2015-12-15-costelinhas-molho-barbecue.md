@@ -1,9 +1,9 @@
 ---
 titulo: Costelinhas de porco com molho barbecue
 imgdestaque: costela-de-porco-barbecue1.jpg
-tags: [carnes, pratos quentes, especiais] 
+tags: [carnes, pratos quentes, especiais]
 imagem2: costela-de-porco-barbecue2.jpg
-legendaimg2: House of Cards
+legendaimg2: Legenda da imagem 2
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
