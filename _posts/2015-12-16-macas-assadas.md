@@ -40,7 +40,7 @@ O doce de hoje pode ser uma pedida bem interessante para a mesa de final de ano,
 4. Divida o recheio entre as metades da maçã, espalhando bem.
 5. Cubra a assadeira com uma folha de papel alumínio e deixe as maçãs assarem por cerca de 1h, em forno médio (180°C a 200°C).
 
-Bem simples, né? A maçã derrete na boca de tão molhinha. O melhor é comer com uma colher, pois assim dá para aproveitar bem todo o recheio, que fica bem suculento. 
+Bem simples, né? O resultado é uma maçã bem molinha que derrete na boca. O melhor é comer com uma colher, pois assim dá para aproveitar bem todo o recheio, que fica bem suculento. 
 
 Lá no **TeleSéries**, a coluna fala um pouco mais sobre a receita e os seus ingredientes. 
 
