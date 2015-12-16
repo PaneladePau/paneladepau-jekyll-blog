@@ -15,9 +15,9 @@ legendaimg2: Game of Thrones
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Hoje o nosso especial do [TeleSéries](https://teleseries.com.br/) voltou a ficar açucarado. A receita de hoje é um doce que usa uma das frutas mais populares do mundo: maçãs.
+Hoje o nosso especial do [TeleSéries](https://teleseries.com.br/) voltou a ficar açucarado. A receita de hoje é um doce que usa uma das frutas mais populares do mundo: maçã.
 
-O doce se chama "Maçãs assadas" e foi ao ar na segunda coluna de Gastronomia, em 2013, a qual foi especial sobre a série *Game of Thrones*. A receita veio do livro *A Feast of Ice and Fire - The Official Companion Cookbook*, de Chelsea Monroe-Cassel e Sarriann Lehrer. 
+O doce se chama "Maçãs assadas" e foi ao ar [na segunda coluna de Gastronomia](http://teleseries.com.br/o-doce-sabor-stark/), em 2013, a qual foi especial sobre a série *Game of Thrones*. A receita veio do livro *A Feast of Ice and Fire - The Official Companion Cookbook*, de Chelsea Monroe-Cassel e Sarriann Lehrer. 
 
 {% include imagem2.html %}
 
