@@ -1,6 +1,6 @@
 ---
 titulo: Frango para a Ceia de Natal
-imgdestaque: frango-natal1.jpg
+imgdestaque: frango-natal.jpg
 tags: [carnes, especiais]
 imagem2: frango-natal2.jpg
 legendaimg2: O Dia de Ação de Graças da série How I Met Your Mother
@@ -17,7 +17,7 @@ legendaimg3: Passo a passo da preparação do frango.
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Hoje encerraremos o especial da [cozinha do TeleSéries](https://www.enderecodolink.com) com uma dica bem Natalina. Vamos fazer o preparo de um frango (saiba mais no post) para a ceia de Natal. 
+Hoje encerraremos o especial da [cozinha do TeleSéries](https://www.enderecodolink.com) com uma dica bem natalina. Vamos fazer o preparo de um frango (saiba mais no post) para a ceia de Natal. 
 
 A receita que vamos mostrar veio do [especial de Dia de Ação de Graças ](http://teleseries.com.br/comer-rezar-amar-conheca-os-pratos-e-costumes-do-dia-de-acao-de-gracas/)que a redação do TS fez em 2013, no qual a coluna de Gastronomia ficou responsável por falar sobre o famoso peru. 
 
@@ -40,19 +40,17 @@ Sabendo disso, o **Panela de Pau** tem uma alternativa pra você. Lembra que no 
 
 ### Modo de fazer:
 
-Modo de fazer:
-
 1. Preaqueça o forno (convencional) a 250°C.
 2. Retire os míudos de dentro do frango e os coloque para ferver em uma panela com cerca de 2 litros de água temperada com sal.
-3. Escolha a assadeira para o frango e comece a trabalhar nele ali. Faça uma primeira camada de sal e pimenta, temperando bem a carne. Na sequência, espalhe bem a manteiga temperada em toda a superfície do frango e, também, por dentro da pele do peito (esse processo vai garantir a umidade da carne).
+3. Escolha a assadeira para o frango e comece a trabalhar nele ali. Faça uma primeira camada de sal e pimenta para temperar a carne. Na sequência, espalhe bem a manteiga temperada em toda a superfície do frango e também por dentro da pele do peito (esse processo vai garantir a umidade da carne).
 4. Recheie o frango com a cenoura, a salsa, a cebola e um pouco de sal e pimenta. Depois, ate as pernas com auxílio de um barbante.
 5. Por fim, distribua as sobras de recheio na assadeira e despeje um pouco do caldo obtido da fervura das outras partes do frango.
 6. Deixe assar por cerca de 1h20min na temperatura de 250°C. De vez em quando, abra o forno e umedeça o frango com o caldo dos míudos, especialmente mais para o final, evitando que ressequem a carne e a pele.
-7. Para saber o ponto de servir, verifique se carne está dourada e não apresenta pontos crus no corte da faca.
+7. Para saber o ponto de servir, verifique, com um leve corte de faca, se carne está dourada e não apresenta pontos crus.
 
 {% include imagem3.html %}
 
-Bastante simples de preparar, em menos de duas horas você tem um frango delicioso. Para completar o prato, escolhi elementos bem rústicos e simples, que brincam com texturas e sabores: maçã, castanhas e salsa fresca. Você pode ser bem criativo nessa hora e adicionar ao prato outros acompanhamentos, como a tradicional farofa e também frutas secas. 
+Bastante simples de preparar, em menos de duas horas você tem um frango delicioso. Para completar o prato, escolhi elementos bem rústicos e simples, que brincam com texturas e sabores: maçã, castanha-do-pará e salsa fresca. Você pode ser bem criativo nessa hora e adicionar ao prato outros acompanhamentos, como a tradicional farofa e também frutas secas. 
 
 Se você perdeu alguma receita do nosso especial ou está chegando só hoje, confira todas as delícias de final de ano que postamos desde a semana passada em homenagem à despedida do **TeleSéries**.
 
@@ -66,7 +64,7 @@ Se você perdeu alguma receita do nosso especial ou está chegando só hoje, con
 
 15/12 - [Pudim de leite clássico](http://paneladepau.com.br/pudim-de-leite-classico)
 
-16/12 - [Maçãs assadas] (http://paneladepau.com.br/macas-assadas)
+16/12 - [Maçãs assadas](http://paneladepau.com.br/macas-assadas)
 
 17/12 - [Rabanada](http://paneladepau.com.br/rabanada)
 
