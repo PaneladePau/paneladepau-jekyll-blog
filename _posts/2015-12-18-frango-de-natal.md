@@ -60,14 +60,13 @@ Se você perdeu alguma receita do nosso especial ou está chegando só hoje, con
 
 11/12 - [Caipirinha de vinho com morangos](http://paneladepau.com.br/caipirinha-de-vinho-com-morangos)
 
-14/12 - [Caipirinha de vinho com morangos](http://paneladepau.com.br/caipirinha-de-vinho-com-morangos)
+14/12 - [Pudim de leite clássico](http://paneladepau.com.br/pudim-de-leite-classico)
 
-15/12 - [Pudim de leite clássico](http://paneladepau.com.br/pudim-de-leite-classico)
+15/12 - [Costelinhas de porco com molho barbecue](http://paneladepau.com.br/costelinhas-molho-barbecue)
 
 16/12 - [Maçãs assadas](http://paneladepau.com.br/macas-assadas)
 
 17/12 - [Rabanada](http://paneladepau.com.br/rabanada)
 
-Até a próxima! 
-Boas festas :)
+Até a próxima e Feliz Natal!! :)
 
