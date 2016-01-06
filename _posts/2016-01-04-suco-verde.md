@@ -1,7 +1,7 @@
 ---
 titulo: Suco verde
 imgdestaque: suco_verde.jpg
-tags: [bebidas, lanches, comida rapida, comida saudavel]
+tags: [bebidas, lanches, comida rapida, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
