@@ -15,13 +15,13 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-No verão, uma sobremesa gelada é uma ótima escolha para finalizar uma refeição de um jeito bem legal ou ainda para adoçar a hora da tarde. Hoje vamos ver como é fácil montar um docinho desses com apenas 4 ingredientes e algumas horas de geladeira 
+No verão, uma sobremesa gelada é uma ótima escolha para finalizar uma refeição de um jeito bem legal ou ainda para adoçar a hora da tarde. Hoje vamos ver como é fácil montar um doce desses com apenas 4 ingredientes e algumas horas de geladeira.
 
 ### Ingredientes:
 
 * 5 colheres (sopa) de creme de leite sem soro
-* 60 de chocolate branco
-* 75 gramas de chocolate meio amargo
+* 60g de chocolate branco picado
+* 75 gramas de chocolate meio amargo picado
 * 10 morangos 
 
 ### Modo de fazer: 
