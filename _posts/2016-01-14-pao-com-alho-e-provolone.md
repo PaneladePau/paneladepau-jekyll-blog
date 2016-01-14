@@ -36,12 +36,12 @@ O pão com alho é um antepasto tradicional na Itália e aqui no Brasil é famos
 3. Espalhe bem a pasta de azeite, salsa e alho entre as fatias, cobrindo bem as faces do pão. Reserve um pouco da pasta para finalizar.
 4. Distribua as tiras de queijo entre as fatias depois de espalhar a pasta.
 5. Finalize o pão com o restante da pasta, uma pitada de orégano e um fio de azeite. 
-6. Embale o pão inteiro em uma folha de papel alumínio (se usar o pão francês, embale cada um separadamente) e o leve ao forno preaquecido a 180 por cerca de 15 minutos. Tire o pão do alumínio (com cuidado para evitar queimaduras) e o leve ao forno novamente por mais alguns minutos até dourar.
+6. Embale o pão inteiro em uma folha de papel alumínio (se usar o pão francês, embale cada um separadamente) e o leve ao forno preaquecido a 180°C por cerca de 15 minutos. Tire o pão do alumínio (com cuidado para evitar queimaduras) e o leve ao forno novamente por mais alguns minutos até dourar.
 
 Huuum! A ordem é comer com a mão mesmo, é um lambuso de tão gostoso! E para acompanhar cai super bem uma cerveja gelada. 
 
 Se você preferir, dá para ser mais tradicional e não usar o queijo. Porém, o queijo da um toque bem especial, então o melhor é testar das duas formas (e comer bastante haha) :)
 
-E se a ideia é servir no churrasco, você vai fazwe o mesmo método de preparo das fatias, mas ao invés de embalar o pão no alumínio, é só colocá-lo em uma grelha (ou espeto) e levar à churrasqueira, sempre cuidando para não queimar. Nesse caso, a melhor escolha é a do pão francês, que assa mais rápido e é mais fácil de servir. 
+E se a ideia é servir no churrasco, você vai fazer o mesmo método de preparo das fatias, mas ao invés de embalar o pão no alumínio, é só colocá-lo em uma grelha (ou espeto) e levar à churrasqueira, sempre cuidando para não queimar. Nesse caso, a melhor escolha é a do pão francês, que assa mais rápido e é mais fácil de servir. 
 
 Até a próxima!
