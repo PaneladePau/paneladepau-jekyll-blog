@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 O pão com alho é um antepasto tradicional na Itália e aqui no Brasil é famoso pela presença nos churrascos. Há muitas formas de fazer esse pão e uma delas é a de forno, que é a que vamos aprender hoje. Além da pasta tradicional de alho, a gente deu um sabor bem gostoso com o queijo provolone. Não há quem resista ao cheirinho maravilhoso que o pão com alho espalha por toda a casa!
 
-**Pão com alho e provoline**
+**Pão com alho e provolone**
 
 ## Ingredientes:
 
