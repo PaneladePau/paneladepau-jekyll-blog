@@ -32,7 +32,4 @@ Morangos deliciosos e frescos são os protagonistas de uma versão caseira e bem
 
 A receita de hoje é pequena, então, para render mais, basta aumentar os ingredientes, sempre dosando. A receita também serve para fazer sorvete de morango. Para isso, basta acondicionar a mistura em um pote com tampa e levar ao congelador. Para um sabor bem docinho, a dica é usar morangos maduros. Mas se você quiser acentuar o doce, adoce com mel (se possível orgânico), que é bem mais saudável que o açúcar refinado ou cristal. 
 
-Sobre o inhame: ele é um tubérculo muito nutritivo que possui vitaminas B6, C e E, ferro, magnésio, potássio e é rico em fibras. Por isso, ele é ótimo para a nossa saúde. Dentre os benefícios estão a ação anti-inflamatória, o combate ao acúmulo de toxinas e de radicais livres e a diminuição do colesterol. E como o sabor do inhame é bem suave, ele pode servir como base para várias receitas, como o nosso danoninho caseiro, pois ele não interfere em nada no sabor. 
-
-Legal, né? Que tal levar já o inhame para o seu livro de receitas?
 Até a próxima!
