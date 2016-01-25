@@ -52,6 +52,3 @@ Uma dica sobre a farinha e o crescimento da massa: a quantidade necessária de t
 A receita rende em média 10 pães do tamanho dos da foto de hoje. E se você não for muito de canela, dá para testar outras combinações, como o coco ralado, por exemplo, que fica uma delícia!
 
 Até a próxima!
-
-
-
