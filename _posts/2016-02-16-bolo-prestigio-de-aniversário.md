@@ -19,8 +19,6 @@ FELIZ ANIVERSÁRIO, PANELA DE PAU! \o/
 
 Com muita alegria, hoje a gente tá comemorando uma data muito especial: chegamos aos nossos tão aguardados **5 anos**!
 
-Se lá nos primórdios do blog falar um pouquinho sobre as experiências na cozinha parecia um sonho, hoje, em 2016, vivo a plena realização com a chegada de uma data tão significativa para o **Panela de Pau**. 
-
 E para comemorar essa data com muito amor, não poderia faltar na festa um dos meus bolos favoritos! 
 
 **Bolo prestígio**
