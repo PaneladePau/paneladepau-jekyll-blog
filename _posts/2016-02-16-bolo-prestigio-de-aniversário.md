@@ -63,7 +63,7 @@ Na sequência, prepare o recheio, que precisa esfriar para a montagem. Leve o le
 5. Leve ao forno preaquecido (180°C - 200°C) por cerca de 40 a 45 minutos (faça o teste do palito, nunca falha!). 
 6. Quando o bolo já estiver frio, use uma faca para nivelar a superfície. Divida a massa em duas partes, cuidando para o corte ficar o mais retinho possível. 
 
-#### Montagem:
+### Montagem:
 1. Use a metade de cima do bolo como a base, pois ela provavelmente terá mais imperfeições. Coloque essa metade já no prato em que irá servir o bolo. 
 2. Umedeça a base do bolo com metade do leite. Cubra a superfície da base com todo o recheio (que deve estar frio ou em temperatura ambiente), espalhando bem. 
 3. Coloque a outra metade do bolo por cima, deixando a superfície que estava em contato com o papel manteiga virada para cima. Pressione levemente. Umedeça essa metade com o restante do leite. 
