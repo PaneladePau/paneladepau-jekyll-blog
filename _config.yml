@@ -8,7 +8,7 @@ url: http://paneladepau.com.br
 github_username:  PaneladePau
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 destination: ./_site
 permalink: /:title
 exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md']
