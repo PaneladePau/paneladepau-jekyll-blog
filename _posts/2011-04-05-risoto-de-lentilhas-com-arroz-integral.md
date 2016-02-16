@@ -1,6 +1,6 @@
 ---
-titulo: Risoto de lentinhas com arroz integral
-imgdestaque: risoto-lentinha-arrozintegral.jpg
+titulo: Risoto de lentilha com arroz integral
+imgdestaque: risoto-lentilha-arrozintegral.jpg
 tags: [pratos quentes]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Após mais um tempo sem postar – e com mais promessas de não demorar tanto para fazer isso :D – ,volto com uma experiência nova dessa semana: Risoto de lentinhas e arroz integral.
+Após mais um tempo sem postar – e com mais promessas de não demorar tanto para fazer isso :D – ,volto com uma experiência nova dessa semana: Risoto de lentilhas e arroz integral.
 
 Tem gente que vai dizer: ÉÉÉCA! Pois é, nem sempre alimentos integrais e grãos soam como algo gostoso para todo mundo. Mas a verdade é que, além de saudáveis, eles são muito gostosos. Mas, enfim, ontem à noite queria jantar alguma coisa quentinha e tal, daí pensei: que tal um risotinho?
 
@@ -41,10 +41,10 @@ E, claro, resolvi inventar na cozinha e misturar umas coisas aqui e acolá. Foi 
 
 ### Modo de fazer:
 
-1. Deixar a lentinha de molho por uns 10 minutos em água morna.
+1. Deixar a lentilha de molho por uns 10 minutos em água morna.
 2. Refogar a cebola (picada) em 2 colheres do azeite. Deixar dourar bem e acrescentar a sopa instantânea. Dissolvê-la bem em um pouco de água e acrescentar na panela mais um litro de água fervida.
 3. Mexer sempre até o caldo começar a engrossar. Adicionar a lentilha (a água que sobrar pode ser colocada junto) e o arroz e continuar mexendo. Colocar os temperos (pimenta e manjerona) e regular o sal.
-4. Continuar mexendo sempre e, quando o arroz e a lentinha estiverem quase prontos, adicionar a couve e o pimentão (não devem ficar muito cozidos).
+4. Continuar mexendo sempre e, quando o arroz e a lentilha estiverem quase prontos, adicionar a couve e o pimentão (não devem ficar muito cozidos).
 5. Para finalizar, colocar as duas últimas colheres de azeite de oliva e misturar bem.
 6. Para servir, decorar com um pouquinho de queijo ralado e mais uma pimentinha.
 
