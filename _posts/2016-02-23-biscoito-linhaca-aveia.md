@@ -22,7 +22,7 @@ Ao longo do dia, precisamos fazer pequenos lanches para manter o pique. E que ta
 ### Ingredientes: 
 
 * 2 colheres (sopa) de linhaça (pode ser marrom ou dourada)
-* 1/2 xícara de farinha de aveia (ou farinha integral)
+* 1/2 xícara (chá) de farinha de aveia (opção: farinha integral)
 * 2 colheres (sopa) de azeite de oliva
 * Pitada de sal
 * 1 colher (café) de fermento químico
