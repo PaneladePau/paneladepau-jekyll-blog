@@ -1,6 +1,6 @@
 ---
 titulo: Biscoitos de linhaça e aveia
-imgdestaque: biscoito-linhaca-aveia.jpg
+imgdestaque: biscoitos-linhaca-aveia.jpg
 tags: [lanches, comida rapida, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
