@@ -29,12 +29,11 @@ Já que a Páscoa está chegando, que tal uma receita muito fácil para adoçar 
 
 1. Triture as 20 bolachas até obter uma farinha densa, como uma areia. Se não tiver processador ou liquidificador, coloque as bolachas em um saquinho fechado e quebre-as com um rolo de macarrão ou uma colher de pau. 
 2. Misture as bolachas e o cream cheese com as mãos até obter uma massa homogênea e fácil de moldar.
-
-{% include imagem2.html %}
-
 3. Leve a mistura ao congelador por cerca de 10 minutos para facilitar a moldagem. Nesse meio tempo, prepare os confeitos.
 4. Tire a massa da geladeira e faça bolinhas, finalizando-as como preferir. 
 5. Leve as trufas prontas para a geladeira e sirva geladinho. 
+
+{% include imagem2.html %}
 
 Mais fácil que brigadeiro, né?
 
