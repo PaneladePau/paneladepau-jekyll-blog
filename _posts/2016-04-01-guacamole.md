@@ -21,11 +21,11 @@ O guacamole é uma pasta de origem mexicana que é feita com uma fruta que a gen
 
 ### Ingredientes:
 * 440g de abacate (um abacate médio) maduro
-* 1 tomate pequeno em cubinhos
+* 1 tomate pequeno em cubinhos (sem sementes)
 * Metade de 1 cebola pequena em cubinhos
 * 1/4 xícara de coentro fresco picadinho
 * Suco de um limão tahiti
-* Sal e pimenta a gosto
+* Sal e pimenta do reino a gosto
 
 ### Modo de fazer:
 
@@ -38,6 +38,8 @@ Ai, ai, ai, muchachitooos! É rapidinho assim!
 Dá para comer o guacamole assim que estiver pronto, mas dou a dica de deixar um pouquinho na geladeira antes de servir para que os sabores fiquem ainda mais intensos e a pasta bem refrescante. 
 
 Para servir, além dos tradicionais nachos e tortillas, o guacamole serve bem como recheio de sanduíches e complemento de saladas. 
+
+Por fim, se gostar de um sabor mais picante, teste adicionar uma pimentinha dedo de moça picada, fica uma delícia!
 
 Bora testar?
 
