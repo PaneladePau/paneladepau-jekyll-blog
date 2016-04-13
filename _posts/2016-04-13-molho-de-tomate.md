@@ -3,7 +3,7 @@ titulo: Molho de tomate caseiro
 imgdestaque: molho-de-tomate.jpg
 tags: [pratos quentes, comida rapida, cozinha saudavel]
 imagem2: molho-de-tomate2.jpg
-legendaimg2: Para começar, prepare os ingredientes. Comece com o passo 1 e depois prossiga com o passo 3. Aí é só deixar a panela fazer o serviço.
+legendaimg2: O passo a passo do molho de tomate é simples e garante uma receita excelente. 
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -35,13 +35,13 @@ A receita de hoje é pequena. Assim, você pode ver que até mesmo com poucos in
 ### Modo de fazer: 
 1. Esquente a panela que for usar em fogo médio-baixo. Quando estiver bem quente, adicione o azeite e, na sequência, a cebola e um pouco de sal (o sal irá ajudar a soltar o suco da cebola e, assim, ela vai também cozinhar, e não só fritar). 
 2. Refogue por uns dois minutos e adicione o alho. Refogue mais um pouco e adicione todo o tomate. 
-3. Tempere com o sal e pimenta e levante o fogo. Tampe a panela (se a panela não tiver os furinhos de respiro, pode ser semitampada) e deixe cozinhar por cerca de 6 minutos, olhando de vez em quando e mexendo um pouco. 
-4. Se o tomate não soltar muito suco, deixando a mistura como um purê, adicione água aos poucos, sempre misturando, até dar o ponto desejado. 
+3. Tempere com o sal e pimenta e levante o fogo. 
+4.Tampe a panela (se a tampa não tiver os furinhos de respiro, pode ser semitampada) e deixe cozinhar por cerca de 6 minutos, mexendo de vez em quando. 
+5. Se o tomate não soltar muito suco, deixando a mistura como um purê, adicione água aos poucos, sempre misturando, até dar o ponto desejado. 
 
 {% include imagem2.html %}
 
-
-Um dos jeitos que mais gosto de comer esse molho é com um pão caseiro (veja ideias de receitas [aqui](http://paneladepau.com.br/pao-integral-pratico)e [aqui](http://paneladepau.com.br/paozinho-recheado). 
+Um dos jeitos que mais gosto de comer esse molho é com um pão caseiro (veja ideias de receitas [aqui](http://paneladepau.com.br/pao-integral-pratico) e [aqui](http://paneladepau.com.br/paozinho-recheado). 
 
 Você também pode usar o seu molho em várias outras ocasiões, pois ele acompanha muito bem pratos como macarrão, lasanha, tortas, strogonoff, sopas, carnes de panela. 
 
