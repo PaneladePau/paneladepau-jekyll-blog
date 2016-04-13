@@ -41,7 +41,7 @@ A receita de hoje é pequena. Assim, você pode ver que até mesmo com poucos in
 
 {% include imagem2.html %}
 
-Um dos jeitos que mais gosto de comer esse molho é com um pão caseiro (veja ideias de receitas [aqui](http://paneladepau.com.br/pao-integral-pratico) e [aqui](http://paneladepau.com.br/paozinho-recheado). 
+Um dos jeitos que mais gosto de comer esse molho é com um pão caseiro (veja ideias de receitas [aqui](http://paneladepau.com.br/pao-integral-pratico) e [aqui](http://paneladepau.com.br/paozinho-recheado)). 
 
 Você também pode usar o seu molho em várias outras ocasiões, pois ele acompanha muito bem pratos como macarrão, lasanha, tortas, strogonoff, sopas, carnes de panela. 
 
