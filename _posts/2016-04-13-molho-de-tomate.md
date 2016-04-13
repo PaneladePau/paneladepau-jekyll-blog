@@ -36,7 +36,7 @@ A receita de hoje é pequena. Assim, você pode ver que até mesmo com poucos in
 1. Esquente a panela que for usar em fogo médio-baixo. Quando estiver bem quente, adicione o azeite e, na sequência, a cebola e um pouco de sal (o sal irá ajudar a soltar o suco da cebola e, assim, ela vai também cozinhar, e não só fritar). 
 2. Refogue por uns dois minutos e adicione o alho. Refogue mais um pouco e adicione todo o tomate. 
 3. Tempere com o sal e pimenta e levante o fogo. 
-4.Tampe a panela (se a tampa não tiver os furinhos de respiro, pode ser semitampada) e deixe cozinhar por cerca de 6 minutos, mexendo de vez em quando. 
+4. Tampe a panela (se a tampa não tiver os furinhos de respiro, pode ser semitampada) e deixe cozinhar por cerca de 6 minutos, mexendo de vez em quando. 
 5. Se o tomate não soltar muito suco, deixando a mistura como um purê, adicione água aos poucos, sempre misturando, até dar o ponto desejado. 
 
 {% include imagem2.html %}
