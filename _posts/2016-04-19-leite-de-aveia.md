@@ -40,6 +40,8 @@ Se você quiser que o leite renda mais e fique mais aguadinho, basta adicionar u
 
 O resultado dessa receita é uma bebida bem suave e levemente adocicada. Fica uma delícia com café e também pura. 
 
+E uma dica final: nada de colocar a sobrinha da coada no lixo. Ela serve para engrossar caldos e fazer massas de bolos, panquecas e tortinhas.
+
 Bem simples, né?
 Até a próxima :)
 
