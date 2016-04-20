@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Leite é uma bebida que muitos não vivem sem e que é presente em variadas receitas. Porém, a lactose, que é o açúcar do leite, é uma substância à qual muitas pessoas têm intolerância e que pode poder provocar inflamações quando consumida com frequência. 
+Leite é uma bebida que muitos não vivem sem e que é presente em variadas receitas. Porém, a lactose, que é o açúcar do leite, é uma substância à qual muitas pessoas têm intolerância e que pode provocar inflamações quando consumida com frequência. 
 
 Então, o "leite" de aveia, a nossa receita de hoje, é uma alternativa interessante. Rica em fibras e carboidratos bons, a aveia é um cereal que auxilia na baixa do colesterol e na prevenção cardiovascular. Claro que a aveia não contém o cálcio do leite de vaca, mas você pode fazer a incorporação do leite de aveia no dia a dia aos poucos e procurar outras fontes de cálcio para deixar as suas refeições mais nutritivas e variadas.
 
