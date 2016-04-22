@@ -39,11 +39,11 @@ Bolos são sempre uma ótima pedida para a hora do lanche e deixam a casa com um
 5. Retire o bolo do forno e espere esfriar para desenformar. 
 6. Com o bolo já frio, decore com a ganache. 
 
-Protinho! 
+Prontinho! 
 
 A base desse bolo é bem parecida como a do [bolo de maçã](http://paneladepau.com.br/bolo-de-maca). A receita é para um bolo pequeno (use uma forma retangular de 24x13 ou, então, uma de pudim, como eu fiz). 
 
-Para finalizar com a ganache do mesmo jeito que a nossa foto, é só usar um garfo. Aplique a cobertura do meio do bolo para fora, traçando uma linha e deixando a marca do garfo no final. 
+Para finalizar com a ganache do mesmo jeito que a nossa foto, é só usar um garfo. Aplique a cobertura do meio do bolo para fora, traçando uma linha com o garfo e deixando uma marca no final. 
 
 Superfácil, né? 
 Até a próxima!
