@@ -35,7 +35,7 @@ Bolos são sempre uma ótima pedida para a hora do lanche e deixam a casa com um
 1. Com um fouet, bata o ovo e o açúcar até obter uma mistura levemente esbranquiçada e com um pouco de volume. 
 2. Adicione o óleo e misture. Na sequência, intercale o suco de laranja e a farinha, misturando aos poucos, sem bater muito, até que a massa fique homogênea. 
 3. Adicione as raspas de laranja e o fermento, misture e transfira a massa para uma forma untada e enfarinhada. 
-4. Leve ao forno preaquecido (200) por cerca de 30 minutos. 
+4. Leve ao forno preaquecido (200 °C) por cerca de 30 minutos. 
 5. Retire o bolo do forno e espere esfriar para desenformar. 
 6. Com o bolo já frio, decore com a ganache. 
 
