@@ -49,16 +49,14 @@ A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina
 6. Leve a massa, em um refratário retangular (34,5cm x 24,5cm) untado e enfarinhado, ao forno pré-aquecido (180°C - 200°C), por cerca de 40 minutos. 
 7. Enquanto o bolo estiver assando, leve o creme de leite e o chocolate ao fogo bem baixo, sempre mexendo, até que os dois ingredientes estejam bem incorporados, formando um creme (ganache) marrom escuro, cremoso e denso. Reserve.
 8. Após retirar o bolo do forno, deixe esfriar e, quando possível, desenforme. Divida o bolo ao meio com auxílio de uma faca serrada (daquelas de cortar pão).
+9. Na base da torta, faça furinhos com um garfo e umedeça levemente o bolo com leite. Faça uma cama generosa de ganache, espalhando bem em toda a superfície do bolo. 
+10. Cole a outra metade à base e repita o mesmo processo do leite e da cobertura. Espalhe bem o creme de ganache com auxílio de uma espátula, cobrindo toda a superfície.
+11. Se preferir, corte as pontas arredondadas para deixar o bolo em formato de quadradinho. 
+12. Sirva em temperatura ambiente ou, se preferir, leve à geladeira. 
 
 {% include imagem2.html %}
 
-9. Na base da torta, faça furinhos com um garfo e umedeça levemente o bolo com leite. Faça uma cama generosa de ganache, espalhando bem em toda a superfície do bolo. 
-10. Cole a outra metade à base e repita o mesmo processo do leite e da cobertura. Espalhe bem o creme de ganache com auxílio de uma espátula, cobrindo toda a superfície.
-
 {% include imagem3.html %}
-
-11. Se preferir, corte as pontas arredondadas para deixar o bolo em formato de quadradinho. 
-12. Sirva em temperatura ambiente ou, se preferir, leve à geladeira. 
 
 O passo a passo é grande, mas, na verdade, é super simples montar bolo. Uma ideia prática é fazer o bolo em uma forma menor para que ele fique mais alto e, para finalizar, apenas colocar a ganache como cobertura. Com relação à ganache, uma lembrança importante é sempre manter o fogo baixo para não cozinhar o creme de leite. O creme não deve ficar no fogo tempo demais, apenas o suficiente para misturar bem os ingredientes, sem pegar no fundo da panela. 
 
