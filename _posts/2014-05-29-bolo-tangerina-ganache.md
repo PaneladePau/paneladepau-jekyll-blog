@@ -45,11 +45,11 @@ A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina
 2. No liquidificador já limpo, bata as gemas (separadas das claras previamente), o açúcar, o mel, o óleo e o líquido das cascas de tangerina. Reserve.
 3. Bata as claras em ponto de neve e reserve. 
 4. Misture o fermento na farinha. Aos poucos, incorpore a mistura líquida aos ingredientes sólidos (à mão ou com batedeira).
-5. Quando a massa estiver homogênea, adicione as claras em neve e misture-as com delicadeza na massa, até que estejam bem incorporadas.
-6. Leve a massa, em um refratário retangular (34,5cm x 24,5cm) untado e enfarinhado, ao forno pré-aquecido (180°C - 200°C), por cerca de 40 minutos. 
+5. Quando a massa estiver homogênea, adicione as claras em neve e misture-as com delicadeza na massa até que estejam bem incorporadas.
+6. Leve a massa ao forno preaquecido (180°C - 200°C), em um refratário retangular (34,5cm x 24,5cm) untado e enfarinhado, por cerca de 40 minutos. 
 7. Enquanto o bolo estiver assando, leve o creme de leite e o chocolate ao fogo bem baixo, sempre mexendo, até que os dois ingredientes estejam bem incorporados, formando um creme (ganache) marrom escuro, cremoso e denso. Reserve.
 8. Após retirar o bolo do forno, deixe esfriar e, quando possível, desenforme. Divida o bolo ao meio com auxílio de uma faca serrada (daquelas de cortar pão).
-9. Na base da torta, faça furinhos com um garfo e umedeça levemente o bolo com leite. Faça uma cama generosa de ganache, espalhando bem em toda a superfície do bolo. 
+9. Na base do bolo, faça furinhos com um garfo e umedeça levemente com leite. Faça uma cama generosa de ganache, espalhando bem em toda a superfície do bolo. 
 10. Cole a outra metade à base e repita o mesmo processo do leite e da cobertura. Espalhe bem o creme de ganache com auxílio de uma espátula, cobrindo toda a superfície.
 11. Se preferir, corte as pontas arredondadas para deixar o bolo em formato de quadradinho. 
 12. Sirva em temperatura ambiente ou, se preferir, leve à geladeira. 
@@ -58,11 +58,11 @@ A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina
 
 {% include imagem3.html %}
 
-O passo a passo é grande, mas, na verdade, é super simples montar bolo. Uma ideia prática é fazer o bolo em uma forma menor para que ele fique mais alto e, para finalizar, apenas colocar a ganache como cobertura. Com relação à ganache, uma lembrança importante é sempre manter o fogo baixo para não cozinhar o creme de leite. O creme não deve ficar no fogo tempo demais, apenas o suficiente para misturar bem os ingredientes, sem pegar no fundo da panela. 
+O passo a passo é grande, mas, na verdade, a montagem é bem simples. Uma ideia prática é fazer o bolo em uma forma menor para que ele fique mais alto e, para finalizar, apenas colocar a ganache como cobertura. Com relação à ganache, uma lembrança importante é sempre manter o fogo baixo para não cozinhar o creme de leite. O creme não deve ficar no fogo tempo demais, apenas o suficiente para misturar bem os ingredientes, sem pegar no fundo da panela. 
 
-Uma ideia para você servir é fazer pequenos quadradinhos (tipo brownie). Fica um charme e bastante fácil de comer, sem precisar de pratos e garfos. Sobre a tangerina, você pode optar por não coar a mistura das cascas. Essa dica não indico para o paladar geral, pois a massa ficará mais amarga, forte e bem menos adocicada. 
+Uma ideia para você servir é fazer pequenos quadradinhos (tipo brownie). Fica um charme e bastante fácil de comer, sem precisar de pratos e garfos. Sobre a tangerina, você pode optar por não coar a mistura das cascas. No entanto, a massa ficará mais amarga, forte e bem menos adocicada. 
 
-Por fim, para você conservar as suas casquinhas frescas para o bolo, guarde-as em um pote hermeticamente fechado na geladeira até que tenha a quantidade suficiente. Você poderá fazer com mais ou menos cascas, dependendo do seu gosto e do que conseguir juntar. As cascas duram alguns dias, se refrigeradas, ainda mais com o clima frio.
+Por fim, para você conservar as suas casquinhas frescas para o bolo, guarde-as em um pote hermeticamente fechado na geladeira até que tenha a quantidade suficiente. Você poderá fazer com mais ou menos cascas, dependendo do seu gosto. As cascas duram alguns dias, se refrigeradas, ainda mais com o clima frio.
 
 Espero que tenham gostado :D
 
