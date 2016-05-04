@@ -25,12 +25,12 @@ A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina
 
 ###Ingredientes para o bolo:
 
-* Cascas de 3 ou 4 tangerinas (médias)
+* Cascas de 3 ou 4 tangerinas médias
 * 1 xícara (chá) de açúcar
-* 2 xícaras (chá) de farinha de trigo (pode ser integral)
+* 2 xícaras (chá) de farinha de trigo 
 * 3 ovos
 * 1 colher (sopa) de mel
-* 1/2 xícara (chá) de azeite
+* 1/2 xícara (chá) de óleo
 * 1 colher (sopa) de fermento químico em pó
 * 3 a 4 xícaras (chá) de água
 
@@ -42,7 +42,7 @@ A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina
 ###Modo de fazer:
 
 1. Leve as cascas de tangerina (limpas) ao fogo com a água. Quando levantar fervura, retire do fogo e, após esfriar um pouco, bata no liquidificador. Coe o líquido e reserve.
-2. No liquidificador já limpo, bata as gemas (separadas das claras previamente), o açúcar, o mel, o azeite e o líquido das cascas de tangerina. Reserve.
+2. No liquidificador já limpo, bata as gemas (separadas das claras previamente), o açúcar, o mel, o óleo e o líquido das cascas de tangerina. Reserve.
 3. Bata as claras em ponto de neve e reserve. 
 4. Misture o fermento na farinha. Aos poucos, incorpore a mistura líquida aos ingredientes sólidos (à mão ou com batedeira).
 5. Quando a massa estiver homogênea, adicione as claras em neve e misture-as com delicadeza na massa, até que estejam bem incorporadas.
