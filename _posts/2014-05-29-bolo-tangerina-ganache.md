@@ -19,7 +19,7 @@ legendaimg3: Para finalizar, a camada bem generosa de ganache.
 
 A tangerina (também conhecida como mexerica ou bergamota) é uma fruta muito apreciada pelos brasileiros. As estações frias que estão chegando são as épocas perfeitas para a colheita da fruta. O inverno é, sem dúvidas, a melhor temporada para saborear uma tangerina, pois é mais fácil de ser encontrada madura e docinha. 
 
-A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina é quase sempre desprezada na hora do consumo. E o que fazer para que uma parte do alimento tão cheia de vitaminas e aromas não se torne lixo? A dica de hoje mostra que as cascas podem servir como base de um prato super saboroso. Vamos para a cozinha preparar um bolo de ingredientes simples, mas com jeitinho sofisticado, para você se deliciar e receber seus amigos e familiares no final de semana (e curtir o frio bem alimentado!).
+A parte ruim é que, assim como acontece com outras frutas, a casca da tangerina é quase sempre desprezada na hora do consumo. E o que fazer para que uma parte do alimento tão cheia de vitaminas e aromas não se torne lixo? A dica de hoje mostra que as cascas podem servir como base de um prato supersaboroso. Vamos para a cozinha preparar um bolo de ingredientes simples, mas com jeitinho sofisticado, para você se deliciar e receber seus amigos e familiares (e curtir o frio bem alimentado!).
 
 **Bolo de tangerina com ganache**
 
