@@ -36,7 +36,7 @@ E se o Panela de Pau te contar que tem um jeito bem fácil e rápido de fazer?
 2. Adicione à mistura o azeite e o creme de leite. Combine tudo com as mãos até formar uma massa compacta até chegar no ponto como de [brigadeiro](http://paneladepau.com.br/brigadeiro-de-ovomaltine)/[beijinho](http://paneladepau.com.br/beijinho-recheado) pronto para enrolar.
 3. Deixe a massa descansar por alguns minutos. 
 4. Na sequência, abra porções da massa na palma da mão, uma de cada vez. No meio de cada porção aberta, adicione o recheio. Feche a massa começando pelas bordas e finalize dando a forma de bolinha. Repita esse processo até terminar a massa. 
-5. Transfira as bolinhas para uma forma untada com azeite de oliva. 
+5. Transfira as bolinhas para uma forma untada. 
 6. Leve ao forno (220 °C) preaquecido por cerca de 25 minutos. No meio do tempo, vire os pães para que dourem dos dois lados.
 
 Diz aí, tem coisa melhor? 
