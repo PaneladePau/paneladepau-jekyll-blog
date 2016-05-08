@@ -23,7 +23,7 @@ E se o Panela de Pau te contar que tem um jeito bem fácil e rápido de fazer?
 
 ### Ingredientes:
 
-* 1 1/2 xícara (chá) de polvilho doce
+* 1½ xícara (chá) de polvilho doce
 * 180g de creme de leite 
 * 50g de queijo parmesão ralado
 * 50g de queijo mussarela bem picadinho
