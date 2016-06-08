@@ -38,7 +38,7 @@ Bora tentar fazer a nossa versão de lomito aí na sua casa?
 ###Demais ingredientes para a montagem:
 
 * 3 pães de hambúrguer
-* Palta (veja a receita aqui)
+* Palta (veja a receita [clicando aqui](https://www.instagram.com/p/BGR1KbWmu8A/?taken-by=paneladepau)) 
 * Maionese caseira (aquela tradicional feita à base de ovos, óleo e vinagre/limão)
 * 2 tomates italianos em rodelas
 
@@ -46,7 +46,7 @@ Bora tentar fazer a nossa versão de lomito aí na sua casa?
 
 1. Tempere o lombo com sal, pimenta, páprica e orégano. 
 2. Aqueça bem uma panela de fundo largo em fogo alto. Adicione o azeite e deixe esquentar um pouco.
-3. Sele todos os lados do lombo (cerca de 2 minutos cada lado). 
+3. Sele todos os lados do lombo (cerca de 2 minutos para cada lado). 
 4. Adicione a cebola, deixe dar uma leve refogada e, com cuidado, adicione as 4 xícaras de água até cobrir o lombo. Se precisar, adicione mais um pouquinho de água (sempre fervente).
 5. Depois que levantar fervura, baixe o fogo e deixe cozinhar com a panela semitampada por cerca de uma hora.
 6. Enquanto o porco está cozinhado, prepare a palta, a maionese e os tomates. Deixe os pães já cortados também. 
