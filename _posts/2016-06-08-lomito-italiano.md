@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Em 2014, conheci a linda Santiago, capital do Chile. Dentre as grandes lembranças que guardei de lá, uma delas é muito especial e vem da cozinha: o lomito. 
 
-O lomito é um sanduíche feito com carne de porco (de onde vem o nome, pois "lomo" significa porco) que é servido com diversos acompanhamentos. Um dos tipos que é bem tradicional é o lomito italiano, um sanduíche delicioso que leva apenas tomate, maionese caseira e palta (creme de avocado). Simples e inesquecível. 
+O lomito é um sanduíche feito com carne de porco (de onde vem o nome, pois "lomo" significa porco) bastante comum nas clássicas "fuentes de soda" do Chile. Um dos tipos que é bem tradicional é o lomito italiano, um sanduíche delicioso que leva apenas tomate, maionese caseira e palta (creme de avocado). Simples e inesquecível. 
 
 Bora tentar fazer a nossa versão de lomito aí na sua casa?
 
