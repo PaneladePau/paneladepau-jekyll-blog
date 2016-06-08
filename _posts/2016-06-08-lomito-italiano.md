@@ -53,10 +53,10 @@ Bora tentar fazer a nossa versão de lomito aí na sua casa?
 7. Depois de uma hora, dê uma desfiada no porco. O caldo vai ter reduzido praticamente todo, mas o porco não deve estar completamente seco. 
 8. Siga para a montagem. Faça uma generosa camada de lomo em cada sanduíche. Depois, faça camadas generosas nesta sequência: maionese, tomate, palta. 
 
-Os lomitos chilenos são enormes (mesmo!), bem maiores do que um tradicional pão de hambúrguer. Dê uma googlada com o termo "lomito italiano" que você vai ter uma boa ideia haha. Você pode procurar por um pão maior e fazer o mesmo passo a passo.
+Os lomitos chilenos são enormes (mesmo!), bem maiores do que um tradicional pão de hambúrguer. Dê uma googlada com o termo "lomito italiano" que você vai ter uma boa ideia.
 
-Você vai ver que na nossa foto a ordem tá um pouco diferente, mas garanto: a ordem dos fatores não altera o produto :D. Então, se você montar um pouquinho diferente, não tem problema, porque o sabor, meu amigo...!
+Na nossa foto, a ordem dos ingredientes está um pouco diferente, mas garanto: a ordem dos fatores não altera o produto. Então, se você montar um pouquinho diferente, não tem problema, porque o sabor, meu amigo...
 
-E, bem, logo depois de pronto, sirva já com uma cervejinha. É uma delícia!
+E, bem, depois de tudo pronto, sirva logo com uma cervejinha. É uma delícia!
 
 Até a próxima!
