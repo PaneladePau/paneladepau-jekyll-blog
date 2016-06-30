@@ -15,7 +15,7 @@ legendaimg2: A caldinha deixa o bolo bem úmido, ótimo para comer tanto quente 
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-A comida vegana, ao contrário do que muita gente pode pensar, tem sim muito sabor. Consumir alimentos sem nenhum derivado animal é uma tendência bem atual, e surgem muitas receitas que mostram possibilidades variadas de transformar os pratos tradicionais. E hoje a gente vai aprender por aqui a fazer um bolo de chocolate vegano que é bem saboroso e mais nutritivo que um bolo comum :)
+A comida vegana, ao contrário do que muita gente pode pensar, tem muito sabor. Consumir alimentos sem nenhum derivado animal é uma tendência bem atual, e surgem muitas receitas que mostram possibilidades variadas de transformar os pratos tradicionais. E hoje a gente vai aprender por aqui a fazer um bolo de chocolate vegano que é bem saboroso e mais nutritivo que um bolo comum :)
 
 Vamos cozinhar?
 
@@ -28,7 +28,7 @@ Vamos cozinhar?
 * 1 colher (sopa) de cacau 
 * 100ml de leite de aveia ou de água
 * 3 dentes de cravo (opcional)
-* 1 colher (sopa) de farinha de linhaça
+* 1 colher (sopa) de farinha de linhaça (marrom ou dourada)
 * 1 colher (sopa) de óleo vegetal
 * 1 colher (chá) de fermento químico
 
