@@ -26,7 +26,7 @@ Vamos cozinhar?
 * 140g de farinha de trigo integral 
 * 120g de açúcar mascavo
 * 1 colher (sopa) de cacau 
-* 100ml de leite de aveia ou de água
+* 100ml de [leite de aveia](http://paneladepau.com.br/leite-de-aveia) ou de água
 * 3 dentes de cravo (opcional)
 * 1 colher (sopa) de farinha de linhaça (marrom ou dourada)
 * 1 colher (sopa) de óleo vegetal
