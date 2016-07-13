@@ -21,7 +21,7 @@ Vamos cozinhar?
 
 **Bolo vegano de chocolate**
 
-###Ingredientes: 
+### Ingredientes: 
 
 * 140g de farinha de trigo integral 
 * 120g de açúcar mascavo
