@@ -21,7 +21,7 @@ Há muito tempo que eu queria postar uma receita de patê aqui no blog. Eu já t
 
 **Patê de atum com creme de ricota**
 
-###Ingredientes:
+### Ingredientes:
 
 * ½ tomate sem sementes
 * 130g de atum ralado em óleo ou natural (1 lata)
