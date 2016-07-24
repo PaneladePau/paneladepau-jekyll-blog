@@ -10,7 +10,7 @@ github_username:  PaneladePau
 # Build settings
 markdown: kramdown
 destination: ./_site
-permalink: /:title
+permalink: /:title/
 exclude: ['Gemfile','Gemfile.lock','_posts/aaaa-mm-dd-titulo-do-post.md']
 paginate: 9
 paginate_path: "pagina-:num"
