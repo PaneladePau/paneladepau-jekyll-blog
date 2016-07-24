@@ -1,6 +1,6 @@
 <p>
 
-	<span id="fbShareCount" style="border: 1px solid #929292; border-radius: 4px; display: block; float: right; font-size: 12px; padding-top: 3px; box-sizing: border-box; text-align: center; width: 20px; height: 20px; margin-left: 2px;"></span>
+	<span id="fbShareCount" style="border: 1px solid #929292; border-radius: 4px; display: block; float: right; font-size: 12px; padding: 0 3px;padding-top: 3px; box-sizing: border-box; text-align: center; width: auto; height: 20px; margin-left: 2px;"></span>
 
 	<iframe src="https://www.facebook.com/plugins/share_button.php?href=http://paneladepau.com.br{{ page.url | remove: 'index.html' }}%2F&layout=button&size=small&mobile_iframe=true&appId=1539564076286352&width=79&height=20" width="79" height="20" style="border:none;overflow:hidden;padding:0;float:right;width:79px !important;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
@@ -10,10 +10,7 @@
 
 	var $ = '',
 		chave,
-		shareCount1,
-		shareCount2,
-		shareCount3,
-		shareCount4,
+		shareCount = [],
 		pageUrl = '{{ page.url }}',
 		pageUrlArr = pageUrl.split('/');
 
@@ -32,27 +29,39 @@
 
 				console.log(data2.share.share_count);
 
-				shareCount1 = data2.share.share_count;
+				shareCount.push(); = data2.share.share_count;
 
 				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://paneladepau.com.br/' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
 
 					console.log(data3.share.share_count);
 
-					shareCount2 = data3.share.share_count;
+					shareCount.push(data3.share.share_count);
 
 					$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://www.paneladepau.com.br/' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data4) {
 
 						console.log(data4.share.share_count);
 
-						shareCount3 = data4.share.share_count;
+						shareCount.push(data4.share.share_count);
 
 						$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://www.paneladepau.com.br/' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data5) {
 
 							console.log(data5.share.share_count);
 
-							shareCount4 = data5.share.share_count;
+							shareCount.push(data5.share.share_count);
 
-							$('#fbShareCount').text( shareCount1 + shareCount2 + shareCount3 + shareCount4 );
+							var biggest = 0;
+
+							for (var i = 0; i < shareCount.length; i++) {
+
+								if ( shareCount[i] > biggest ) {
+
+									biggest = shareCount[i];
+
+								}
+
+							}
+
+							$('#fbShareCount').text( biggest );
 
 						});
 
