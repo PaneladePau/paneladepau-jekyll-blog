@@ -10,7 +10,8 @@
 
 <script>
 
-	var $ = '';
+	var $ = '',
+		chave;
 
 	function fbShareUpdate() {
 
@@ -19,13 +20,21 @@
 		var urlSlashless = 'http://paneladepau.com.br{{ page.url | remove: 'index.html' }}',
 			urlSlashed = 'http://paneladepau.com.br{{ page.url | remove: 'index.html' }}/';
 
-		$.get('https://graph.facebook.com/v2.7/?access_token=EAACEdEose0cBABQ1BzKYJ7omiameSPPdrcfNsdQbFBAGWNZCExwZCdZAdl2P8WjzbZC3jsgqHSmxZAIikm5aJxxOOXEhCeDSYqXLJlasRsjtBoCHw8mryQ5ASZC8ia7ZBAZBouqY0FFGjT87gn2SGez7dnhcotkvJ9zXrdxu3kwNzAZDZD&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
+		$.get('https://graph.facebook.com/v2.7/oauth/access_token?client_id=1539564076286352&client_secret=43123eeb9dc27def91f87918b3fb4886&grant_type=client_credentials', function(data) {
 
 			console.log(data);
 
-			$.get('https://graph.facebook.com/v2.7/?access_token=EAACEdEose0cBABQ1BzKYJ7omiameSPPdrcfNsdQbFBAGWNZCExwZCdZAdl2P8WjzbZC3jsgqHSmxZAIikm5aJxxOOXEhCeDSYqXLJlasRsjtBoCHw8mryQ5ASZC8ia7ZBAZBouqY0FFGjT87gn2SGez7dnhcotkvJ9zXrdxu3kwNzAZDZD&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
+			chave = data.access_token;
+
+			$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
 
 				console.log(data);
+
+				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
+
+					console.log(data);
+
+				});
 
 			});
 
