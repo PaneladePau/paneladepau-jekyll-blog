@@ -12,13 +12,15 @@
 		chave,
 		shareCount1,
 		shareCount2,
+		shareCount3,
+		shareCount4,
 		pageUrl = '{{ page.url }}',
 		pageUrlArr = pageUrl.split('/');
 
 	function fbShareUpdate() {
 
-		var urlSlashless = 'http://paneladepau.com.br/' + pageUrlArr[1],
-			urlSlashed = 'http://paneladepau.com.br/' + pageUrlArr[1] + '/';
+		var urlSlashless = pageUrlArr[1],
+			urlSlashed = pageUrlArr[1] + '/';
 
 		$.get('https://graph.facebook.com/v2.7/oauth/access_token?client_id=1539564076286352&client_secret=43123eeb9dc27def91f87918b3fb4886&grant_type=client_credentials', function(data1) {
 
@@ -26,19 +28,35 @@
 
 			chave = data1.access_token;
 
-			$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data2) {
+			$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://paneladepau.com.br/' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data2) {
 
 				console.log(data2.share.share_count);
 
 				shareCount1 = data2.share.share_count;
 
-				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
+				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://paneladepau.com.br/' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
 
 					console.log(data3.share.share_count);
 
 					shareCount2 = data3.share.share_count;
 
-					$('#fbShareCount').text( shareCount1 + shareCount2 );
+					$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://www.paneladepau.com.br/' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data4) {
+
+						console.log(data4.share.share_count);
+
+						shareCount3 = data4.share.share_count;
+
+						$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://www.paneladepau.com.br/' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data5) {
+
+							console.log(data5.share.share_count);
+
+							shareCount4 = data5.share.share_count;
+
+							$('#fbShareCount').text( shareCount1 + shareCount2 + shareCount3 + shareCount4 );
+
+						});
+
+					});
 
 				});
 
