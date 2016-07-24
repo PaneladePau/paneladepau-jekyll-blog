@@ -1,3 +1,5 @@
+<!-- <p class="fb-share-button fbshare" data-href="http://paneladepau.com.br{{ page.url | remove: 'index.html' }}" data-layout="button_count"></p> -->
+
 <p>
 
 	<span id="fbShareCount" style="border: 1px solid #929292; border-radius: 4px; display: block; float: right; font-size: 12px; padding-top: 3px; box-sizing: border-box; text-align: center; width: 20px; height: 20px;">34</span>
@@ -7,7 +9,42 @@
 </p>
 
 <script>
-	
-	console.log($);
+
+	function fbShareUpdate() {
+
+		$('#fbShareCount')
+
+		var urlSlashless = 'http://paneladepau.com.br{{ page.url | remove: 'index.html' }}',
+			urlSlashed = 'http://paneladepau.com.br{{ page.url | remove: 'index.html' }}/';
+
+		$.get('https://graph.facebook.com/v2.7/?access_token=EAACEdEose0cBABQ1BzKYJ7omiameSPPdrcfNsdQbFBAGWNZCExwZCdZAdl2P8WjzbZC3jsgqHSmxZAIikm5aJxxOOXEhCeDSYqXLJlasRsjtBoCHw8mryQ5ASZC8ia7ZBAZBouqY0FFGjT87gn2SGez7dnhcotkvJ9zXrdxu3kwNzAZDZD&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
+
+			console.log(data);
+
+			$.get('https://graph.facebook.com/v2.7/?access_token=EAACEdEose0cBABQ1BzKYJ7omiameSPPdrcfNsdQbFBAGWNZCExwZCdZAdl2P8WjzbZC3jsgqHSmxZAIikm5aJxxOOXEhCeDSYqXLJlasRsjtBoCHw8mryQ5ASZC8ia7ZBAZBouqY0FFGjT87gn2SGez7dnhcotkvJ9zXrdxu3kwNzAZDZD&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
+
+				console.log(data);
+
+			});
+
+		});
+
+	}
+
+	function jQCheck() {
+
+		if ($) {
+
+			fbShareUpdate();
+
+		} else {
+
+			setTimeout(jQCheck, 1000);
+
+		}
+
+	}
+
+	jQCheck();
 
 </script>
