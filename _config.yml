@@ -25,3 +25,4 @@ defaults:
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-redirect-from
