@@ -29,7 +29,7 @@
 
 				console.log(data2.share.share_count);
 
-				shareCount.push(); = data2.share.share_count;
+				shareCount.push(data2.share.share_count);
 
 				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=http://paneladepau.com.br/' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
 
