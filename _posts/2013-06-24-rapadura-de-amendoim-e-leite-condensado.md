@@ -1,5 +1,6 @@
 ---
 titulo: Rapadura de amendoim e leite condensado
+redirect_from: /rapadura-de-amendoim-e-leite-condensado/
 imgdestaque: rapadura-amendoim-leite-condensado.jpg
 tags: [doces e sobremesas, lanches]
 imagem2: rapadura-amendoim-leite-condensado2.jpg
