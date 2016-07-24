@@ -30,7 +30,7 @@
 
 				shareCount1 = data2.share.share_count;
 
-				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
+				$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashed + '&method=get&pretty=0&suppress_http_code=1', function(data3) {
 
 					console.log(data3.share.share_count);
 
