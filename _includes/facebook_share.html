@@ -28,9 +28,7 @@
 
 			$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
 
-				console.log(data);
-
-			});
+				console.log(data.share.share_count);
 
 			// 	$.get('https://graph.facebook.com/v2.7/?access_token=' + chave + '&debug=all&format=json&id=' + urlSlashless + '&method=get&pretty=0&suppress_http_code=1', function(data) {
 
@@ -38,7 +36,7 @@
 
 			// 	});
 
-			// });
+			});
 
 		});
 
