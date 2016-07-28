@@ -1,4 +1,3 @@
----
 titulo: Vatapá de frango
 imgdestaque: vatapa-de-frango1.jpg
 tags: [especiais, pratos quentes]
