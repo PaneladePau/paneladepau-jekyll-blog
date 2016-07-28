@@ -44,9 +44,9 @@ Hoje, vamos para a cozinha testar um saboroso e fácil vatapá de frango - regad
 ### Modo de fazer:
 
 1. Cozinhe o frango com temperos a gosto por cerca de 10 minutos. Reserve o caldo e desfie o frango. 
-2. Rasgue o pão em nacos. Coloque os pedaços de molho no caldo do cozimento do frango por cerca de 20 minutos para absorver bem o líquido.
+2. Rasgue o pão em nacos. Coloque os pedaços de molho no caldo do cozimento do frango por cerca de 20 minutos para absorverem bem o líquido.
 3. Leve a mistura do caldo com o pão, a cebola, o tomate e a salsa para bater no liquidificador até ficar homogêneo.
-4. Leve a mistura ao fogo, em uma panela pré-aquecida, mexendo sempre. Adicione a pimenta picadinha (sem as sementes).
+4. Transfira a batida para o fogo, em uma panela preaquecida, mexendo sempre. Adicione também a pimenta picadinha (sem as sementes) e o frango desfiado.
 5. Quando a mistura levantar a primeira fervura, comece a adicionar, intercaladamente, o azeite de dendê e o leite de coco. Não pare de mexer.
 6. O vatapá estará pronto quando chegar a uma textura de um purê denso, desgrudando bem do fundo da panela como se fosse um brigadeiro de enrolar.
 
