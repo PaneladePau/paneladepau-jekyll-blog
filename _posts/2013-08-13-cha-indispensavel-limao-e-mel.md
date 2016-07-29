@@ -1,5 +1,5 @@
 ---
-titulo: Chá Indispensável de Limão e Mel
+titulo: Chá indispensável de limão e mel
 imgdestaque: cha-limao-mel.jpg
 tags: [bebidas, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
@@ -15,32 +15,35 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Chás são bebidas milenares. Antes mesmo da revolução das ciências e do aparecimento das porções de fármacos industrilizados que temos à nossa disposição para as mais diversas mazelas, os chás já faziam parte de muitos tratamentos. Hoje, temos muito forte a ideia do chá como um "remédio caseiro" - e aí precisamos ter muito cuidado, especialmente com os chás herbais. Assim como os remédios comuns, as ervas, além das suas propriedades restaurativas, também podem causar efeitos colaterais se ingeridas além do recomendado - vômitos, tonturas, alteração de pressão, etc.
+A dica de hoje é uma receita infalível para os resfriados do inverno: o indispensável [chá](http://paneladepau.com.br/cha-preto-com-maca/) de limão e mel. Desde bem pequena, essa era uma tática certa da minha mãe - que, às vezes, trocava o mel por açúcar queimado. Além de o chá ser hidratante, boa parte da sensação de conforto que ele nos causa se deve à temperatura quente, que diminui o frio e a umidade corporal. 
 
-Mas bem, o motivo de toda a introdução a respeito dessa bebidinha quente foi para trazer uma receita infalível para os resfriados do inverno - o chá de limão com mel. Desde bem pequena, essa era uma tática certa da minhã mãe - que, às vezes, trocava o mel por açúcar queimado. Além do chá ser propriamente um hidratante (ponto muito importante!), boa parte da sensação de conforto vem da sua temperatura mais elevada, diminuindo o frio e umidade corporais. Especificamente no chá de hoje, o mel e o limão são dois ingredientes bastante interessantes. O mel é um bom ajudante para hidratação das mucosas (é composto de água) e possui uma série de vitaminas. Já o limão é um poderoso energético, rico em vitamina C, que auxilia na limpeza das toxinas do nosso corpo. Juntos, são uma mistura saudável e muito gostosa. O nosso chá de hoje ainda tem um outro aliado bem interessante, mas falamos dele após a receita.
+O chá de hoje traz uma combinação de ingredientes ótimos: o mel, um bom ajudante para a hidratação das mucosas (é composto de água) e que possui uma série de vitaminas, e o limão, um poderoso energético rico em vitamina C que auxilia na limpeza das toxinas do corpo. Juntos, o mel e o limão fazem uma mistura tanto saudável quanto saborosa.
 
-**Chá de Limão e Mel**
+**Chá indispensável de limão e mel**
 
 ### Ingredientes:
 
-* 1 limão 
+* 1 limão tahiti bem lavado
 * 2 colheres (sopa) de mel
-* 500ml de água fervente
-* 2 rodelinhas de gengibre
+* 500 ml de água fervente
+* 2 rodelinhas de gengibre sem casca
 
 ### Modo de fazer:
 
-1. Corte o limão em 4 partes. Tire o sumo de uma delas e misture ao mel e ao gengibre.
-2. Deixe caramelar um pouco em fogo brando e, aos poucos, adicione a água e as outras 3 partes do limão (inteiras).
+1. Corte o limão em 4 partes. Tire o sumo de uma delas e misture ao mel.
+2. Deixe caramelizar um pouco em fogo brando e, aos poucos, adicione a água e as outras 3 partes do limão (inteiras).
 3. Ferva por 10 minutos. 
-4. Retire com uma escumadeira as partes do limão e retire o restante do sumo, adicionando esse suco ao chá. Ferva por mais 2 minutos.
+4. Retire com uma escumadeira as partes do limão e esprema o restante do sumo, adicionando esse suco ao chá. Ferva por mais 2 minutos.
+5. Tire o chá do fogo, sirva-o em uma xícara e adicione o gengibre. Tampe a xícara com um pires e deixe o chá descansar por alguns minutos. 
+6. Sirva em seguida. 
 
-E o chá está pronto para ser servido. Se estiver doente, o melhor é tomar perto da hora de dormir e ficar bem quentinho para não haver muitas trocas de temperatura, que são péssimas para um organismo debilitado. 
+E o chá está pronto. Se você estiver doente, o melhor é tomar perto da hora de dormir e em um local bem quentinho para não haver muitas trocas de temperatura. 
 
-Em relação ao gengibre: ele é um potente anti-inflamatório, muito conhecido pelos seus efeitos medicinais. Popularmente, o chá do próprio gengibre é utilizado na prevenção contra a gripe. Ele tem um sabor forte e sua função principal é aquecer o metabolismo, auxiliando muito na diminuição de secreções. É interessante até mordiscar os pedacinhos depois de tomar o chá. 
+**O gengibre**
 
-Uma última ideia é, ainda, utilizar dentes de alho. O alho é um bulbo ótimo para a circulação sanguínea, auxiliando a combater toxinas. Claro que o sabor dele é um tanto forte e nem sempre agradável para ser ingerido como chá. Porém, se você optar por usá-lo, um pauzinho de canela ou alguns dentes de cravo podem ajudar no odor forte. 
-
-Espero que tenham gostado! Agora eu vou lá tomar o meu cházinho, pois essa gripe tá demais!
+Potente anti-inflamatório, o gengibre é muito conhecido pelos seus efeitos medicinais. Ele tem um sabor forte e sua função principal é aquecer o metabolismo, auxiliando na diminuição de secreções. É interessante até mordiscar os pedacinhos depois de tomar o chá. 
+ 
+Gostaram da dica? 
+Espero que sim! Agora eu vou lá tomar um chá indispensável de limão e mel, pois a minha gripe tá demais!
 
 Até a próxima!
