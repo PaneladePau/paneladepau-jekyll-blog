@@ -15,7 +15,7 @@ legendaimg2: Sem medo de exagerar no recheio - quanto mais, melhor!
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Panqueca é um tipo de prato extremamente funcional na cozinha. Com disquinhos de massa [podemos inventar e criar](http://paneladepau.com.br/panquecao/) com diversos tipos recheios e incrementar aquilo que seria apenas uma carne com molho ou um simples refogado de legumes. Panquecas ainda funcionam como boas bases para sobremesas. 
+Panqueca é um tipo de prato extremamente funcional na cozinha. Com disquinhos de massa [podemos inventar e criar](http://paneladepau.com.br/panquecao/) diversos tipos de recheios e incrementar aquilo que seria apenas uma carne com molho ou um simples refogado de legumes. Panquecas ainda funcionam como boas bases para sobremesas. 
 
 Além da praticidade, a massa de panqueca é bem simples de fazer. E hoje nós vamos aprender uma versão de panqueca com farinha de arroz que, além de fácil, é livre de [glúten](http://paneladepau.com.br/bolo-de-banana-com-chocolate-sem-gluten/) :). Vamos ver como se faz?
 
