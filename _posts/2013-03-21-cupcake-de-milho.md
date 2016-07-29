@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Hoje é dia de fazer mais cupcakes, os deliciosos bolinhos de "copo"! Depois que aprendi algumas receitas, os cupcakes se tornaram o meu jeito favorito de preparar bolos, especialmente devido ao tamanho: um cupcake dá certinho para uma porção individual. 
 
-Na semana passada, resolvi inovar e aproveitei cupcake de milho com uma receita [que faço muito aqui em casa](https://paneladepau.com.br/bolo-de-milho/). A única diferença para o modo de fazer do bolo normal é em relação ao formato, pois, no caso dos cupcakes, precisamos de formas específicas para os bolinhos. 
+Na semana passada, resolvi inovar e fiz cupcake de milho com uma receita de bolo normal [que faço muito aqui em casa](https://paneladepau.com.br/bolo-de-milho/). A única diferença para a receia original é em relação ao formato, pois, no caso dos cupcakes, precisamos de formas específicas para os bolinhos. 
 
 ### Ingredientes:
 
