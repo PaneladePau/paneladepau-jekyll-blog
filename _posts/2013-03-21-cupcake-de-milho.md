@@ -15,9 +15,9 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Hoje é dia de, mais uma vez, fazermos cupcake - os deliciosos bolinhos de "copo"! Depois que aprendi algumas receitas aqui e acolá, os cupcakes se tornaram o meu jeito favorito de preparar bolos, especialmente devido ao tamanho - um cupcake dá certinho para uma porção individual. Na semana passada, resolvi inovar e aproveitei a receita de bolo de milho que tradicionalmente faço em casa ([já postada aqui no blog](https://paneladepau.com.br/bolo-de-milho/). A única diferença para o modo de fazer do bolo normal é em relação ao formato, pois, no caso dos cupcakes, precisamos de formas específicas para os bolinhos. 
+Hoje é dia de fazer mais cupcakes, os deliciosos bolinhos de "copo"! Depois que aprendi algumas receitas, os cupcakes se tornaram o meu jeito favorito de preparar bolos, especialmente devido ao tamanho: um cupcake dá certinho para uma porção individual. 
 
-Para você fazer bolinhos como esses, confira, mais uma vez, a receita do bolo de milho. 
+Na semana passada, resolvi inovar e aproveitei cupcake de milho com uma receita [que faço muito aqui em casa](https://paneladepau.com.br/bolo-de-milho/). A única diferença para o modo de fazer do bolo normal é em relação ao formato, pois, no caso dos cupcakes, precisamos de formas específicas para os bolinhos. 
 
 ### Ingredientes:
 
@@ -32,15 +32,14 @@ Para você fazer bolinhos como esses, confira, mais uma vez, a receita do bolo d
 
 ### Modo de fazer:
 
-1. Bata todos os ingredintes na batedeira, com exceção do fermento. Misture primeiro os ingredientes líquidos. Depois se torna mais fácil incorporar a farinha.
+1. Bata todos os ingredientes na batedeira, menos o fermento. Misture primeiro os ingredientes líquidos. Depois, incorpore a farinha aos poucos.
 2. Por último, adicione o fermento e misture.
-3. Coloque as forminhas de cupcake (papel) nos espaços específicos da assadeira e distribua a massa (cerca de 2 conchas médias para cada cupcake).
+3. Coloque as forminhas de cupcake (de papel) nos espaços da assadeira e distribua a massa (cerca de 2 conchas médias para cada cupcake).
 4. Assar por cerca de 30 minutos em forno médio.
 
-Essa receita dá para 12 cupcakes grandes. Você também pode optar por fazer mini cupcakes - uma alternativa para fazer a receita render mais quantidades. Depois de retirar do forno, deixe os cupcakes esfriarem um pouco. Para comer, basta tirar os cupcakes da forma (eles saem facilmente). Além de uma boa porção, eles são muito bonitinhos para se dar de presente. Atualmente, há diversos tipos de formas para os bolinhos - desenhadas, estampadas, com várias cores, monocromáticas.
+Essa receita dá para 12 cupcakes de milho grandes. Você também pode optar por fazer minicupcakes se quiser que a receita renda mais unidades. Depois de retirar os bolos do forno, deixe-os esfriar um pouco antes de servir. 
 
-Geralmente, os cupcakes são servidos com recheios ou coberturas. Nessa hora, a sua criatividade é convidada para rolar solta! No caso da receita de hoje, utilizei a clássica combinação da goiabada com bolo de milho. Se você for testar essa combinação, uma boa dica é rechear o bolinho depois de pronto, senão a goiabada desce e acaba ficando somente na base do bolo, como aconteceu comigo (hehe) - o que não impediu o cupcake de ficar bom, é claro. 
+Geralmente, os cupcakes são servidos com recheios ou coberturas. Nessa hora, abuse da criatividade! No caso da receita de hoje, utilizei a clássica combinação da goiabada com bolo de milho. Se você for testar essa combinação, uma boa dica é rechear o bolinho depois de pronto, pois a goiabada pode descer e acabar ficando somente na base do bolo.
 
-Por hoje é só! Se você quiser encaminhar uma receita, deixe um comentário ou envie um email para *mariana.cs@live.com*.
 
 Até a próxima!
