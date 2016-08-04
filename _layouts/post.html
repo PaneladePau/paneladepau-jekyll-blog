@@ -10,10 +10,11 @@
 		<meta name="description" content="{{ content | strip_html | truncatewords:25 }}">
 		<meta name="author" content="Mariana Cervi Soares">
 		<meta name="dcterms.rightsHolder" content="Mariana Cervi Soares">
+		<meta name="thumbnail" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
 
 		<!-- Facebook tags -->          
 		<meta property="og:title" content="{{page.titulo}} | Panela de Pau">
-		<meta property="og:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}" />
+		<meta property="og:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
 		<meta property="og:url" content="http://paneladepau.com.br{{ page.url  | remove: '/index.html' }}">
 		<meta property="og:description" content="{{ content | strip_html | truncatewords:25 }}">
 
@@ -112,7 +113,7 @@
 
 				<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
 
-				<p class="assinatura-post">Por Mariana Cervi Soares</p>
+				<p class="assinatura-post">Por <a href="http://marianarevisora.com.br/" target="_blank">Mariana Cervi Soares</a></p>
 
 				{% include facebook_share.html %}
 
