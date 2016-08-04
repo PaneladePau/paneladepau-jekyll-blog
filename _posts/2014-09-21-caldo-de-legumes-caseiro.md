@@ -38,7 +38,7 @@ Ao longo do processo, se necessário, dá para adicionar mais água. Com a recei
 
 Se você escolher pela geladeira, o caldo vai se manter fresco por dois ou três dias. Se você procura uma durabilidade maior, a melhor opção é o congelamento. Dá para guardar o caldo de legumes por até 3 meses no congelador. Para isso, espere o caldo esfriar completamente e depois o transfira para um pote fechado ou forminhas de gelo antes de levar ao congelador. 
 
-Para a receita de hoje, utilizei cascas de chuchu e talos de brócolis. Mas, como disse antes, você pode variar bastante e colocar no caldo os alimentos que preferir. É uma boa maneira de utilizar as "sobras". Adicionar algumas ervas frescas, como salsa, cebolinha e manjericão deixam o caldo de legumes bem aromático. 
+Para a receita de hoje, utilizei cascas de chuchu e talos de brócolis. Mas, como disse antes, você pode variar bastante e colocar no caldo os alimentos que preferir. Ervas frescas, como salsa, cebolinha e manjericão, também são ótimas pedidas e deixam o caldo de legumes caseiro bem aromático. 
 
 Se você já acompanha as receitas do Panela de Pau, o caldo de hoje pode ser um bom aliado para substituir os líquidos das receitas das sopas de [cappelletti ](https://paneladepau.com.br/sopa-de-cappelletti)e de [batatas](https://paneladepau.com.br/sopa-de-batatas).
 
