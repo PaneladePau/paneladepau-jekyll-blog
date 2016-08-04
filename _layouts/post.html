@@ -113,7 +113,7 @@
 
 				<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
 
-				<p class="assinatura-post">Por Mariana Cervi Soares</p>
+				<p class="assinatura-post">Por <a href="http://marianarevisora.com.br/" target="_blank">Mariana Cervi Soares</a></p>
 
 				{% include facebook_share.html %}
 
