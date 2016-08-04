@@ -19,7 +19,7 @@ Eu não gosto desses produtos e, sempre que possível, prefiro mantê-los longe 
 
 A dica de hoje é um caldo de legumes caseiro que, na verdade, não tem bem uma receita certinha e fechada. A partir do passo a passo, você poderá utilizar a criatividade e aproveitar os ingredientes da melhor maneira. 
 
-**Caldo de legumes**
+**Caldo de legumes caseiro**
 
 ### Ingredientes: 
 
@@ -28,7 +28,7 @@ A dica de hoje é um caldo de legumes caseiro que, na verdade, não tem bem uma 
 
 ### Modo de fazer:
 
-1. Higienize bem todas as cascas e talos que serão utilizados no caldo. 
+1. Higienize bem as cascas e os talos que serão utilizados no caldo. 
 2. Adicione as cascas e os talos em uma panela e cubra-os com água.
 3. Leve a panela ao fogo e deixe ferver. 
 4. Quando levantar fervura, baixe bem o fogo e deixe cozinhar por cerca de 30 minutos. 
