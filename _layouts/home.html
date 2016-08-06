@@ -116,9 +116,9 @@
 					{% endfor %} -->
 					{% if paginator.next_page %}
 						{% if paginator.page == 1 %}
-							<a href="pagina-{{ paginator.page | plus:1 }}" class="mais">Mais &raquo;</a>
+							<a href="pagina-{{ paginator.page | plus:1 }}/" class="mais">Mais &raquo;</a>
 						{% else %}
-							<a href="../pagina-{{ paginator.page | plus:1 }}" class="mais">Mais &raquo;</a>
+							<a href="../pagina-{{ paginator.page | plus:1 }}/" class="mais">Mais &raquo;</a>
 						{% endif %}
 					{% endif%}
 				</nav>
