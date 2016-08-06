@@ -1,150 +1,179 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>{{page.titulo}} | Panela de Pau</title>
+    <title>{{page.titulo}} | Panela de Pau</title>
 
-		<!-- Google tags -->
-		<meta name="description" content="{{ content | strip_html | truncatewords:25 }}">
-		<meta name="author" content="Mariana Cervi Soares">
-		<meta name="dcterms.rightsHolder" content="Mariana Cervi Soares">
-		<meta name="thumbnail" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
+    <!-- Google tags -->
+    <meta name="description" content="{{ content | strip_html | truncatewords:25 }}">
+    <meta name="author" content="Mariana Cervi Soares">
+    <meta name="dcterms.rightsHolder" content="Mariana Cervi Soares">
+    <meta name="thumbnail" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
 
-		<!-- Facebook tags -->          
-		<meta property="og:title" content="{{page.titulo}} | Panela de Pau">
-		<meta property="og:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
-		<meta property="og:url" content="http://paneladepau.com.br{{ page.url  | remove: '/index.html' }}">
-		<meta property="og:description" content="{{ content | strip_html | truncatewords:25 }}">
+    <!-- Facebook tags -->          
+    <meta property="og:title" content="{{page.titulo}} | Panela de Pau">
+    <meta property="og:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
+    <meta property="og:url" content="http://paneladepau.com.br{{ page.url  | remove: '/index.html' }}">
+    <meta property="og:description" content="{{ content | strip_html | truncatewords:25 }}">
 
-		<!-- Twitter tags -->          
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content="{{page.titulo}} | Panela de Pau">
-		<meta name="twitter:description" content="{{ content | strip_html | truncatewords:25 }}">
-		<meta name="twitter:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
+    <!-- Twitter tags -->          
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{page.titulo}} | Panela de Pau">
+    <meta name="twitter:description" content="{{ content | strip_html | truncatewords:25 }}">
+    <meta name="twitter:image" content="http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}">
 
-		<!-- Mobile viewport -->
-		<meta name="viewport" content="width=device-width">
+    <!-- Mobile viewport -->
+    <meta name="viewport" content="width=device-width">
 
-		<!-- RSS Reader -->
-		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+    <!-- RSS Reader -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
-		<!-- CSS -->
-		<link rel="stylesheet" href="../css/main.css">
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/main.css">
 
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="../favicon.ico">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../favicon.ico">
 
-		<!--[if lte IE 8]>
-			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-	</head>
+    <!--[if lte IE 8]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
 
-	<body>
-	
-		<!-- API Google AdSense -->
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <body>
+  
+    <!-- API Google AdSense -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-		<!-- Facebook API -->
-		<script>
-			window.fbAsyncInit = function() {
-				FB.init({
-					appId      : '1539564076286352',
-					xfbml      : true,
-					version    : 'v2.1'
-				});
-				FB.Canvas.setSize();
-			};
-			(function(d, s, id){
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (d.getElementById(id)) {return;}
-				js = d.createElement(s); js.id = id;
-				js.src = "//connect.facebook.net/pt_BR/sdk.js";
-				fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-		</script>
-		<div id="fb-root"></div>
+    <!-- Facebook API -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '1539564076286352',
+          xfbml      : true,
+          version    : 'v2.1'
+        });
+        FB.Canvas.setSize();
+      };
+      (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div id="fb-root"></div>
 
-		<header>
-			<div class="menu-icon"></div>
+    <header>
+      <div class="menu-icon"></div>
 
-			<h1 class="logo-main logo-main--internas">
-				<a href="../">
-					<img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
-				</a>
-				<span>Culinária caseira à base de espontaneidade e amor</span>
-			</h1>
-			
-			<nav class="menu">
-				<ul>
-					<li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
-					<li><a href="../contato">Contato</a></li>
-					<li><a href="../sobre">Sobre</a></li>
-					<li><a href="javascript:void(0)" class="botao-busca">Busca</a></li>
-				</ul>
-			</nav>
-			<div class="campo-busca internas">
-				<form action="javascript:void(0)">
-					<input type="text" class="input-busca" placeholder="Buscar no blog...">
-					<button>Buscar</button>
-				</form>
-				<span class="fecha-busca">X</span>
-			</div>
-		</header>
+      <h1 class="logo-main logo-main--internas">
+        <a href="../">
+          <img src="../img/layout/logo-main.png" width="100%" height="100%" alt="Panela de Pau">
+        </a>
+        <span>Culinária caseira à base de espontaneidade e amor</span>
+      </h1>
+      
+      <nav class="menu">
+        <ul>
+          <li><a href="https://www.facebook.com/paneladepau" target="_blank">Facebook</a></li>
+          <li><a href="../contato">Contato</a></li>
+          <li><a href="../sobre">Sobre</a></li>
+          <li><a href="javascript:void(0)" class="botao-busca">Busca</a></li>
+        </ul>
+      </nav>
+      <div class="campo-busca internas">
+        <form action="javascript:void(0)">
+          <input type="text" class="input-busca" placeholder="Buscar no blog...">
+          <button>Buscar</button>
+        </form>
+        <span class="fecha-busca">X</span>
+      </div>
+    </header>
 
-		<article class="destaque post">
+    <article class="destaque post">
 
-			<figure>
-				<span class="img">
-					<img src="../img/fotos-dos-posts/{{ page.imgdestaque }}" width="100%" height="100%" alt="{{ page.titulo }}">
-				</span>
-				<figcaption class="info">
-					<h2 class="titulo">{{ page.titulo }}</h2>
-					<p class="data">{{ page.date | date: "%-d/%m/%Y" }}</p>
-				</figcaption>
-			</figure>
+      <figure>
+        <span class="img">
+          <img src="../img/fotos-dos-posts/{{ page.imgdestaque }}" width="100%" height="100%" alt="{{ page.titulo }}">
+        </span>
+        <figcaption class="info">
+          <h2 class="titulo">{{ page.titulo }}</h2>
+          <p class="data">{{ page.date | date: "%-d/%m/%Y" }}</p>
+        </figcaption>
+      </figure>
 
-			<section class="conteudo-post">
-				{{content}}
+      <section class="conteudo-post">
+        {{content}}
 
-				<p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
+        <p><span class="underline">Tags</span>:{% for tag in page.tags limit: 1 %} <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}{% for tag in page.tags offset: 1 %}, <a href="../tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}</p>
 
-				<p class="assinatura-post">Por Mariana Cervi Soares</p>
+        <p class="assinatura-post">Por Mariana Cervi Soares</p>
 
-				{% include facebook_share.html %}
+        {% include facebook_share.html %}
 
-			</section>
+      </section>
 
-			{% include google_ads_300x250.html %}
+      {% include google_ads_300x250.html %}
 
-			{% include facebook_likebox.html %}
+      {% include facebook_likebox.html %}
 
-			{% include google_ads_728.html %}
+      {% include google_ads_728.html %}
 
-			{% include facebook_comments.html %}
+      {% include facebook_comments.html %}
 
-		</article>
+    </article>
 
-		<footer>
-			<section class="tags">
-				<span class="rotulo-tags">tags:</span>
-				{% for tag in site.tags %}
-				    <li style="font-size: {{ tag | last | size | times: 20 | divided_by: site.tags.size | plus: 70 }}%">
-				        <a href="../tags/{{ tag | first | slugify }}/">
-				            {{ tag | first }}
-				        </a>
-				    </li>
-				{% endfor %}
-			</section>
-			
-			{% include signature.html %}
-		</footer>
+    <footer>
+      <section class="tags">
+        <span class="rotulo-tags">tags:</span>
+        {% for tag in site.tags %}
+            <li style="font-size: {{ tag | last | size | times: 20 | divided_by: site.tags.size | plus: 70 }}%">
+                <a href="../tags/{{ tag | first | slugify }}/">
+                    {{ tag | first }}
+                </a>
+            </li>
+        {% endfor %}
+      </section>
+      
+      {% include signature.html %}
+    </footer>
 
-		{% include google_analytics.html %}
+    {% include google_analytics.html %}
 
-		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-		<script src="../js/menu.js"></script>
-		<script src="../js/busca.js"></script>
-	</body>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="../js/menu.js"></script>
+    <script src="../js/busca.js"></script>
+
+    <script type="application/ld+json">
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "name": "{{page.titulo}}",
+          "description": "{{ content | strip_html | truncatewords:25 }}",
+          "image": "http://paneladepau.com.br/img/fotos-dos-posts/{{ page.imgdestaque }}",
+          "author": {
+            "type": "person",
+            "name": "Mariana Cervi Soares",
+            "url": "http://marianarevisora.com.br"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "10"
+          },
+          "cookTime": "PT1H",
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "500 calories"
+          },
+          "prepTime": "PT1H",
+          "recipeIngredient": "Diversos"
+        }
+      ]
+    </script>
+  </body>
 </html>
