@@ -1,7 +1,7 @@
 ---
 titulo: Risoto de abobrinha
 imgdestaque: risoto-de-abobrinha.jpg
-tags: [pratos quentes, comida rapida]
+tags: [pratos quentes, comida rapida, especiais]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
