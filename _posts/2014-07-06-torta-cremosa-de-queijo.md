@@ -19,7 +19,7 @@ Boa tarde pessoal! A dica de hoje tem feito muito sucesso aqui em casa. Minha m�
 
 De tão empolgada que eu estou com esse prato, eu precisava de uma vez compartilhar uma coisa tão deliciosa. Se eu já sou apaixonada por queijo, imagina quando ele é a base de uma receita. E quando há vários tipos dele juntos. E quando é cremoso. E quanto tem orégano. E quando é quentinho. Sério, gente, queijo é vida. 
 
-Bem, mas não vou ficar aqui só provocando e deixando vocês na vontade. Sem mais, preparem-se para uma marvilhosa torta cremosa de queijo! 
+Bem, mas não vou ficar aqui só provocando e deixando vocês na vontade. Sem mais, preparem-se para uma maravilhosa torta cremosa de queijo! 
 
 **Torta cremosa de queijo**
 
