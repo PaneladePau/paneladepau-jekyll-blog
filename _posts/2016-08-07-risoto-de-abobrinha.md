@@ -44,14 +44,16 @@ Vamos para a cozinha?
 ### Modo de fazer: 
 
 **Preparo da abobrinha**
+
 1. Refogue a abobrinha por uns dois minutos sem adicionar sal. Reserve. 
 2. Em uma panela, faça um molho bechamel (use a técnica do [nosso molho quatro queijos](http://paneladepau.com.br/molho-quatroqueijos/)) com o azeite, a farinha e o leite. Depois que engrossar, desligue o fogo, adicione as abobrinhas e salgue a gosto. Reserve.
 
-**Preparo do risoto** 
+**Preparo do risoto**
+
 1. Esquente o caldo de legumes. Mantenha o líquido sempre aquecido durante o preparo do risoto.
 2. Em outra panela, refogue a cebola no azeite de oliva até que fique translúcida. Adicione e refogue até que os grãos fiquem transparentes.
 3. Adicione o vinho, misture bem e deixe o álcool evaporar.
-4. Baixe o fogo e comece a adicionar o caldo de legumes aos poucos e mexa sempre. Adicione mais caldo à medida que o arroz absorver o líquido. Repita esse processo até que o al dente (cozido, mas apresentando um pouco de resistência).
+4. Baixe o fogo e comece a adicionar o caldo de legumes aos poucos e mexa sempre. Adicione mais caldo à medida que o arroz absorver o líquido. Repita esse processo até o arroz ficar al dente (cozido, mas apresentando um pouco de resistência).
 5. A seguir, adicione a mistura do bechamel com abobrinha no risoto. Misture bem.
 6. Sirva logo que ficar pronto polvilhando pimenta preta e queijo parmesão a gosto para finalizar. 
 
