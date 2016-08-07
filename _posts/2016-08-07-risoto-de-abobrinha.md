@@ -61,4 +61,4 @@ Huuum, nem preciso dizer que essse risoto de abobrinha é simplesmente delicioso
 
 Para acompanhar, prove uma cerveja com sabor mais adocicado, como as vermelhas ou escuras ou as feitas à base de mel. A combinação de sabores é incrível!
 
-E se você é fã de risotos, procure por eles na nossa busca: tem várias opções para você fazer sucesso na cozinha :) 
+E se você é fã de risotos, procure por eles na nossa busca: são várias as opções para você fazer sucesso na cozinha :) 
