@@ -51,7 +51,7 @@ Vamos para a cozinha?
 **Preparo do risoto**
 
 1. Esquente o caldo de legumes. Mantenha o líquido sempre aquecido durante o preparo do risoto.
-2. Em outra panela, refogue a cebola no azeite de oliva até que fique translúcida. Adicione e refogue até que os grãos fiquem transparentes.
+2. Em outra panela, refogue a cebola no azeite de oliva até que fique translúcida. Adicione o arroz e refogue até que os grãos fiquem transparentes.
 3. Adicione o vinho, misture bem e deixe o álcool evaporar.
 4. Baixe o fogo e comece a adicionar o caldo de legumes aos poucos e mexa sempre. Adicione mais caldo à medida que o arroz absorver o líquido. Repita esse processo até o arroz ficar al dente (cozido, mas apresentando um pouco de resistência).
 5. A seguir, adicione a mistura do bechamel com abobrinha no risoto. Misture bem.
