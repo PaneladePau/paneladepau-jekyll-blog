@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Não há nada como fazer risoto para deixar uma refeição [especial](http://paneladepau.com.br/risoto-de-bacalhau/). 
+Não há nada como fazer risoto para deixar uma refeição [especial](http://paneladepau.com.br/tags/especiais/). 
 
 Um [risoto](http://paneladepau.com.br/risoto-de-bacalhau/) cremoso e fácil para você testar em casa é a dica de hoje: risoto de abobrinha. Uma opção vegetariana, leve e saborosa, que só precisa de uma meia hora de panela e atenção com o passo a passo, que é bem simples, mas tem seus segredinhos. 
 
@@ -30,7 +30,7 @@ Vamos para a cozinha?
 * 1 colher (sopa) de azeite de oliva
 * ½ xícara (chá) de vinho branco de mesa 
 * 1 cebola roxa pequena picada em *brunoise* (em cubinhos)
-* 1 litro de caldo de legumes
+* 1 litro de [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro/)
 * Sal a gosto
 * Pimenta preta moída a gosto
 * Queijo parmesão ralado a gosto
