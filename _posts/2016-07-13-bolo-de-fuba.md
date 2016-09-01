@@ -40,7 +40,7 @@ Vamos fazer? É rapidinho:
 3. Aos poucos, incorpore à massa o fubá e a farinha de trigo até obter uma mistura homogênea. 
 4. Adicione o coco, a erva doce e o fermento e misture. 
 5. Transfira a massa para uma forma untada e enfarinhada. 
-6. Leve a massa ao forno preaquecido (180° C) por cerca de 40 minutos. 
+6. Leve a massa ao forno preaquecido (180 °C) por cerca de 40 minutos. 
 7. Logo que o bolo sair do forno, polvilhe coco sobre a superfície.   
 
 E aí só preparar o café! 
