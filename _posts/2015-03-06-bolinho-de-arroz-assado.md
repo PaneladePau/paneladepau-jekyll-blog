@@ -15,9 +15,9 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Da comidinha do dia a dia às gostosas porções de boteco, o bolinho de arroz é um símbolo da comida caseira que sempre é sucesso. Além de um ingrediente básico como arroz para sustentar o prato, o bolinho é mega prático, pois permite que a gente brinque com diversos ingredientes e temperos. É do tipo de comida que dá para deixar exatamente com o gostinho que a gente quer. 
+Da comidinha do dia a dia às gostosas porções de boteco, o [bolinho de arroz](http://paneladepau.com.br/bolinhos-de-arroz/) é um símbolo da comida caseira que sempre é sucesso. O bolinho de arroz é bem prático, pois permite que a gente brinque com diversos ingredientes e temperos. 
 
-E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fácil de bolinho de arroz que, além de rápida e prática, tem o benefício de não ser livre das frituras. O benefício da receita é triplo: sem sujeiras, mais saudável saúde e, claro, com sabor de quero mais :)
+E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fácil e gostosa de bolinho de arroz assado. O benefício da receita é triplo: sem sujeiras, mais saudável e, claro, com sabor de quero mais :)
 
 **Bolinho de arroz assado**
 
@@ -39,14 +39,14 @@ E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fá
 3. Aos poucos, adicione as colheres de farinha uma a uma, sempre mexendo. 
 4. Esse processo deve ser rápido. Logo, a farinha vai dar ponto para a massa, deixando-a compacta e com aspecto lisinho, como massa de salgado. 
 5. Deixe a massa esfriar levemente e, assim que conseguir pegá-la sem se queimar, molde as bolinhas (1 colher de chá para cada unidade).
-6. Leve ao forno (pré-aquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Nos minutos finais de cozimento, retire o papel para que os bolinhos fiquem douradinhos.
+6. Leve ao forno (preaquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Nos minutos finais, retire o papel para que os bolinhos fiquem douradinhos.
 7. Retire do forno e aguarde alguns minutos antes de servir.
 
-E estão feitos bolinhos super saborosos para o seu dia a dia! O passo a passo é um pouquinho longo, mas as etapas são todas muito simples. Se você preferir, dá para fazer uma limpeza de sobras na geladeira, encorpando a massa com mais sabores. O único cuidado deve ser com o ponto da farinha, que pode mudar dependendo da umidade dos ingredientes. 
+E está pronto um bolinho de arroz assado bem saboroso! Se você quiser, dá para fazer uma limpeza de [sobras da geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/) e colocar mais coisas na massa. O único cuidado deve ser com o ponto da farinha, que pode mudar dependendo da umidade dos ingredientes. 
 
-Quanto ao arroz, o ideal para esta receita é o arroz pastoso, bem passado do ponto - o tradicional arroz empapado. Quanto mais cozido, mais o amido do arroz será trabalhado, o que deixará a mistura com aquela consistência de papinha. Então, se você errou no arroz, nem esquenta: tem solução. E muito saborosa por sinal :D
+Quanto ao arroz, o ideal para esta receita é o arroz pastoso, bem passado do ponto - o tradicional arroz empapado. Quanto mais cozido, mais o amido do arroz será trabalhado, o que deixará a mistura com a consistência de papinha. Então, se você errou no arroz, saiba: tem solução!
 
-Por fim, é ideal deixar os bolinhos darem uma leve esfriada antes de servir. Logo que saem do forno, os bolinhos ainda têm uma textura mais molinha por causa da alta temperatura. O choque térmico é ideal para que os bolinhos troquem o ar, ficando mais densos e ganhando aquele aspecto de casquinha crocante por fora. 
+Por fim, é ideal deixar os bolinhos esfriarem um pouco antes de servir. Logo que saem do forno, eles ainda têm uma textura mais mole por causa da alta temperatura. O choque térmico é ideal para que os bolinhos de arroz assados troquem o ar, ficando mais densos e ganhando aquela casquinha crocante por fora. 
 
-É isso por hoje! Espero que tenham gostado!
+Espero que tenham gostado!
 Até a próxima!
