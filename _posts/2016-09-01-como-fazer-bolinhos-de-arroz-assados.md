@@ -3,7 +3,7 @@ titulo: Como fazer bolinhos de arroz assados
 imgdestaque: como-fazer-bolinhos-de-arroz-assados.jpg
 tags: [lanches, reutilizando sobras, comida rapida, cozinha saudavel]
 imagem2: como-fazer-bolinhos-de-arroz-assados2.jpg
-legendaimg2: Não há segredos sobre como fazer bolinhos de arroz assados: é simples assim!
+legendaimg2: Não há segredos sobre como fazer bolinhos de arroz assados - é simples assim!
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
@@ -21,7 +21,7 @@ Quem nunca ouviu a musiquinha de um dos melhores ingredientes da cozinha por aí
 
 E a boa é que preparamos mais um passo a passo sobre como fazer bolinhos de arroz assados. Além de nutritiva, a nossa opção de hoje é bem deliciosa :)
 
-** Como fazer bolinhos de arroz assados**
+**Como fazer bolinhos de arroz assados**
 
 ### Ingredientes:
 
