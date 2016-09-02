@@ -39,13 +39,13 @@ E a boa é que preparamos mais um passo a passo sobre como fazer bolinhos de arr
 1. Em uma tigela, misture o arroz, os legumes, a linhaça, o azeite e a água. Regule o sabor com os temperos, o sal e a pimenta. 
 2. Aos poucos, adicione a farinha peneirada e misture com as mãos até dar ponto. A massa deve ficar consistente (não dura) e desgrudando das mãos.
 3. Umedeça as mãos levemente ou adicione um pouco de óleo vegetal na palma da mão e faça bolinhos com porções da massa. 
-4. Transfira os bolinhos para uma forma untada e enfarinhada (ou coberta com papel manteiga) e asse em forno a 180°C Cpor cerca de 25 minutos. 
+4. Transfira os bolinhos para uma forma untada e enfarinhada (ou coberta com papel manteiga) e asse em forno a 180°C por cerca de 25 minutos. 
 
 {% include imagem2.html %}
 
 **Dicas** 
 
-A receita de hoje é bem nutritiva e um pouco diferente das tradicionais. No lugar do arroz branco, entrou o integral. O espaço do ovo foi ocupado pela [linhaça](http://paneladepau.com.br/biscoito-linhaca-aveia/). Ao invés de presunto ou queijo, a massa ganhou legumes e muitos temperos. E o leite de vaca deu vez para a água a as opções de leite sem lactose. 
+A receita de hoje é bem nutritiva e um pouco diferente das tradicionais. No lugar do arroz branco, entrou o integral. O espaço do ovo foi ocupado pela [linhaça](http://paneladepau.com.br/biscoito-linhaca-aveia/). Ao invés de presunto ou queijo, a massa ganhou legumes e muitos temperos. E o leite de vaca deu vez para a água e as opções de leite sem lactose. 
 
 Outra dica é a da farinha: você pode usar tanto a de trigo normal quanto as opções sem glúten, como a própria farinha de arroz. 
 
