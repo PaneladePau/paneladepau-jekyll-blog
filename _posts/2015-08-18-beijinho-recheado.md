@@ -24,21 +24,21 @@ O beijinho é um dos docinhos que mais faz a alegria nas festas brasileiras. Uma
 * 395g de leite condensado
 * 1 colher (sopa) de manteiga sem sal
 * Coco ralado a gosto (opcional)
-* Recheio cremoso a gosto (brigadeiro, creme de avelã, pasta de amendoim...)
+* Recheio cremoso a gosto (brigadeiro, [creme de avelã](http://paneladepau.com.br/brownie-de-nutella/), pasta de amendoim...)  
 * Confeito a gosto
 
-###Modo de fazer:
+### Modo de fazer:
 
 1. Misture o leite condensado e a manteiga em uma panela. Leve ao fogo baixo e mexa sempre até que a mistura pegue o ponto de brigadeiro de enrolar, ou seja, desgrudando bem do fundo da panela. 
-2. Tire a panela do fogo. Se for usar o coco, essa é a hora de adicionar a quantidade desejada e misturar bem. 
+2. Tire a panela do fogo. Se for usar o coco, esta é a hora de adicionar a quantidade desejada e misturar bem. 
 3. Transfira o beijinho para um refratário untado com manteiga. Deixe esfriar completamente. 
-4. Com o beijinho já frio, é hora de enrolar. Para isso, pegue uma porção generosa da massa e abra-a na na mão, até que cubra todo o gordinho da palma. Adicione uma colher (sobremesa) do recheio escolhido bem no centro. 
-5. Na sequência, feche a massa pelas bordas e dê o formato redondinho de beijinho, cuidando para não escapar o recheio. 
+4. Com o beijinho já frio, é hora de enrolar. Para isso, pegue uma porção generosa da massa e abra-a na mão até que cubra todo o gordinho da palma. Adicione uma colher (sobremesa) do recheio escolhido bem no centro. 
+5. Na sequência, feche a massa pelas bordas e dê o formato redondinho de beijinho, cuidando para o recheio não escapar. 
 6. Finalize os beijinhos com confeito a gosto. 
 
 E rapidinho assim está pronto um doce maravilhoso! A parte mais demorada é esperar o beijinho esfriar. Eu não gosto de resfriar na geladeira, pois a massa tende a ressecar, além de que é mais fácil de se perder o ponto do doce devido à troca de temperatura. 
 
-Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de chocolates branco e preto. É importante usar um recheio que seja cremoso, mas consistente. O recheio mole é difícil de moldar e também de comer. 
+Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de [chocolates](http://paneladepau.com.br/tutorial-chocolates-pascoa/) branco e preto. É importante usar um recheio que seja cremoso, mas consistente, pois recheios moles são difíceis de moldar e também de comer.   
 
 Fácil, né?
-Então aproveite a dica e já inove na sua próxima comemoração sem sofrimento :)
+Então aproveite a dica e inove na sua próxima comemoração :)
