@@ -15,3 +15,4 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
+{% include imagem2.html %}
