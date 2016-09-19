@@ -44,10 +44,10 @@ E, então, chegamos à nossa semana histórico-cultural com uma saborosa série 
 
 ### Modo de fazer:
 
-1. Primeiro, dessalgamos o charque. Para isso, deixe-o de molho por cerca de 5 horas, trocando a água de 4 a 5 vezes nesse período. Dependendo do charque, o tempo e número de trocas pode ser maior ou menor. Depois desse processo, pique o charque (se preferir, há no mercado charque em pedaços).
-2. Frite o charque na gordura (preferi usar óleo porque é menos graxoso) até que comece a dourar (ele soltará um pouco de líquido) e, então, adicione a cebola e o alho picados e refogue bem (adicionando um pouco de água fervente aos poucos para auxiliar no cozimento e evitar que o charque fique duro).
-3. Quando o refogado estiver mais seco, adicione o arroz e deixe fritar levemente com os demais ingredientes.
-4. Cubra com água e deixe cozinhar até que o arroz esteja no ponto. Se necessário, regule o sal. 
+1. Primeiro, dessalgue o charque. Para isso, deixe-o de molho por cerca de 5 horas, trocando a água de 4 a 5 vezes nesse período. Dependendo do charque, o número de trocas pode ser maior ou menor. Depois desse processo, pique o charque (se preferir, já compre o charque em pedaços).
+2. Frite o charque na gordura (o óleo é a opção mais leve) até que comece a dourar (ele soltará um pouco de líquido) e, então, adicione a cebola e o alho picados e refogue bem (adicionando um pouco de água fervente aos poucos para auxiliar no cozimento e evitar que o charque fique duro).
+3. Quando o refogado estiver mais seco, adicione o arroz e deixe que frite levemente com os demais ingredientes.
+4. Cubra tudo com água e deixe cozinhar até que o arroz esteja no ponto. Se necessário, regule o sal. 
 
 Com poucos ingredientes e 4 passos rápidos, está pronto um arroz memorável, que tem no seu tempero o sabor marcante da própria carne. O tempo de preparo, após a dessalga do charque, não é longo, cerca de 30 minutos. Com a quantidade dessa receita, comem bem cinco pessoas, tranquilamente. Uma boa sugestão é servi-lo com couve refogada (como na foto acima) e, ainda, farinha de mandioca (ou farofa). Uma salada também cai bem. Se você puder, o ideial é fazer o Carreteiro em panela de ferro, da mesma forma que os inventores originais da receita - o sabor é muito rico! Mas, claro, não há problema nenhum usar panelas de outro material. 
 
