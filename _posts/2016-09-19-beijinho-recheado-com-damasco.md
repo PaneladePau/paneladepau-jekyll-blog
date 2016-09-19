@@ -23,7 +23,7 @@ Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como faze
 
 ### Ingredientes: 
 
-* 395g de leite condensado
+* 395 g de leite condensado
 * 1 colher (sopa) de manteiga sem sal
 * Coco ralado (o quanto baste)
 * 10 damascos cortados na metade
