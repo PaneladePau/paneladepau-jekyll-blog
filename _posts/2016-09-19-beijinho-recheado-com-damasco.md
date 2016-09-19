@@ -19,7 +19,7 @@ Puro, o beijinho de coco já é uma delícia. Recheado, então, é maravilhoso.
 
 Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como fazer beijinho recheado](http://paneladepau.com.br/beijinho-recheado/). E hoje vamos incrementar mais a receita com uma fruta bem maravilhosa, o damasco. 
 
-**Beijinho recheado com damasco**
+** Beijinho recheado com damasco **
 
 ### Ingredientes: 
 
