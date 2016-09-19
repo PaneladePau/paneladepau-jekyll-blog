@@ -2,7 +2,7 @@
 titulo: Strogonoff de carne
 imgdestaque: strogonoff-carne.jpg
 tags: [pratos quentes, especiais]
-imagem2: strogonoff-carne2.jpg
+imagem2: imagem-2.jpg
 legendaimg2: Família reunida em volta da mesa, coisa boa!
 ---
 {% comment %}
