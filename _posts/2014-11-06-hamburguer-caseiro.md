@@ -13,9 +13,11 @@ tags: [carnes, comida rapida]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Carne moída é um espetáculo na praticidade. Com apenas um ingrediente principal, alguns temperos e mil ideias você pode criar diversas receitas gostosas para o dia a dia. Lasanha, panqueca, bolo de carne, quibe, almôndega, escondidinho e pastel são apenas alguns deliciosos exemplos que combinam muito bem com carne moída. Mas eu acho que a rainha das receitas com este modo de preparo da carne é o popular hambúrguer. Tradicionalmente servido com pão, o bife de hambúrguer já há algum tempo é opção de carne nos restaurantes de buffet, e os cozinheiros não poupam para deixá-los saborosos. Tem um restaurante que eu almoço que serve o hambúrguer com molho de tomate e queijo. Há alguma dúvida de que eu sempre pego quando tem? 
+Carne moída é um espetáculo. Com apenas um ingrediente principal, alguns temperos e mil ideias, você pode criar diversas receitas gostosas para o dia a dia. [Panqueca](http://paneladepau.com.br/panquecao/), lasanha, quibe, [escondidinho](http://paneladepau.com.br/escondidinho-de-carne/) e pastel são apenas alguns exemplos que combinam muito bem com carne moída. 
 
-Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E se alguém ainda tem dúvida da popularidade, basta dar um click no Google e ver que tem muito material (muito mesmo!) contanto segredinhos e dicas para fazer um hambúrguer espetacular. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro super simples, com base tirada de uma receita que você já viu aqui no blog: [Almôndegas de forno](http://paneladepau.com.br/almondegas-de-forno). 
+Mas eu acho que a rainha das receitas com carne moída é o hambúrguer. Tradicionalmente servido com [pão](http://paneladepau.com.br/pao-integral-caseiro/), o bife de hambúrguer já há algum tempo é opção de carne nos restaurantes de buffet, e os cozinheiros não poupam para deixá-los saborosos. Tem um restaurante que eu almoço que serve o hambúrguer com molho de tomate e queijo. Há alguma dúvida de que eu sempre pego quando tem? 
+
+Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro bem simples, com base tirada de uma receita que você já viu aqui no blog, as [almôndegas de forno](http://paneladepau.com.br/almondegas-de-forno). 
 
 **Hambúrguer caseiro**
 
@@ -37,8 +39,8 @@ Se achar muito forte o sabor da linhaça, pode trocá-la por farinha de rosca ou
 
 Para a escolha da carne, prefira cortes que tenham um pouco de gordura, que vai dar sabor e consistência, e não sejam muito fibrosos. O ponto dependerá da sua preferência, mas o hambúrguer nunca deve ser muito passado, senão se perde a umidade e a suculência da carne. 
 
-Por fim, se você não tiver aros para moldar, nem esquente com isso. Tampas ou o fundo de potes e canecas podem ajudar. Só cuide para não fazer os bifes pequenos demais, pois a carne diminui de volume com o cozimento. 
+Por fim, se você não tiver aros para moldar, nem esquente com isso. Tampas ou o fundo de potes e canecas podem ajudar. Cuide para não fazer os bifes pequenos demais, pois a carne diminui de volume com o cozimento. 
 
-E seja feliz :). Eu fiz os hambúrgueres e os levei ao fogo por uns cinco minutinhos com um refogado de tomate, cebola e azeite. Para acompanhar, optei por uma salada verde bem fresquinha.
+E seja feliz :). Eu grelhei os hambúrgueres e depois os levei ao fogo por uns cinco minutinhos com um refogado de tomate, cebola e azeite. Para acompanhar, optei por uma salada de alface bem fresquinha.
 
 Espero que tenham gostado!
