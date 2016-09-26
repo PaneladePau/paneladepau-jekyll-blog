@@ -38,5 +38,4 @@ Sem mais delongas, hoje segue uma receitinha super simples - mas muito gostosa! 
 2. Cortá-las em pedacinhos. Cuidar para tirar as sementes da maçã, da cereja e do pêssego.
 3. Misturar todas as frutas com o iogurte em uma tigela e colocar na geladeira.
 
-
 Taí! Fresquinho, com sabor de verão. :) Até a próxima receita!
