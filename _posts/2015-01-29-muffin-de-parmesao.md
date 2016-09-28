@@ -41,7 +41,7 @@ Pra começo de conversa, mesmo sem queijo, muffin é sempre uma delícia. Então
 
 Depois que os bolinhos saírem do forno, basta desenformá-los para devorar! Se as forminhas forem de alumínio, é necessário esperar esfriar um pouco para desenformar, pois os muffins podem quebrar. Caso você use as de silicone, o processo é mais fácil - dá para desenformar na hora se conseguir aguentar a temperatura alta das formas. 
 
-Tanto quentinho quanto em temperatura ambiente, o muffin de parmesão é a pedida certa para um [lanche](hhttp://paneladepau.com.br/tags/lanches/) bem gostoso. Servido puro, esse bolinho já é um espetáculo. Mas sugiro que você experimente lambuzá-lo com uma manteiguinha ou um requeijão para ir direto para o céu :D
+Tanto quentinho quanto em temperatura ambiente, o muffin de parmesão é a pedida certa para um [lanche](http://paneladepau.com.br/tags/lanches/) bem gostoso. Servido puro, esse bolinho já é um espetáculo. Mas sugiro que você experimente lambuzá-lo com uma manteiguinha ou um requeijão para ir direto para o céu :D
 
 E aí, que tal testar essa delícia na sua cozinha? O sucesso é certo!
 
