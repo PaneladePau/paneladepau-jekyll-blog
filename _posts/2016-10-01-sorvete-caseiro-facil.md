@@ -1,7 +1,7 @@
 ---
 titulo: Sorvete caseiro fácil
 imgdestaque: sorvete-caseiro-facil.jpg
-tags: [tag 1, tag 2]
+tags: [doces e sobremesas, comida rapida]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
@@ -40,6 +40,6 @@ Quer [receita mais rápida](http://paneladepau.com.br/tags/comida-rapida/) que e
 
 E além de simples, o sorvete caseiro fácil é democrático: dá pode trocar o morango por outras frutas, essências e especiarias. E também dá para fazer um sorvete cremoso simples, só com o creme de leite e o leite condesado. 
 
-Se a sua opção de sabor for o morango, não deixe de jeito nenhum de colocar pedaços de fruta picados no meio do sorvete. O contraste dos morangos congelados com o sorvete [cremoso](http://paneladepau.com.br/doce-de-leite-cremoso/) é incrível!
+Se a sua opção de sabor for o morango, não deixe de jeito nenhum de colocar pedaços de fruta picados no meio do sorvete. O contraste dos morangos congelados com o sorvete cremoso é incrível!
 
 Se você gostou dessa dica deliciosa ou quiser compartilhar mais alguma receita de sorvete caseiro fácil, deixe um comentário no nosso post :)
