@@ -1,5 +1,5 @@
 ---
-titulo: título-do-post
+titulo: Sorvete caseiro fácil
 imgdestaque: sorvete-caseiro-facil.jpg
 tags: [tag 1, tag 2]
 imagem2: nome-da-imagem-2.jpg
