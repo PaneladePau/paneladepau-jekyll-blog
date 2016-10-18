@@ -15,17 +15,19 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Nada é melhor para [reaproveitar os legumes e verduras que sobraram na geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/) do que transformá-los nas estrelas de uma boa torta. 
+Minha gente, nada é melhor para [reaproveitar os legumes e verduras que sobraram na geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/) do que uma boa torta salgada. 
 
-A torta de legumes, o nosso prato de hoje, é bem nutritiva e é uma forma excelente de introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso. E a receita ainda é bem democrática, livre de lactose e [sem ovos](http://paneladepau.com.br/cuca-sem-ovos/). 
+A torta de legumes, a nossa receita de hoje, é bem nutritiva e é uma forma excelente de introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso. E o prato ainda é bem democrático, livre de lactose e [sem ovos](http://paneladepau.com.br/cuca-sem-ovos/). 
 
 **Torta de legumes** 
+
+### Ingredientes:
 
 * 1 xícara de farinha de trigo branca ou integral
 * 1 colher (chá) de fermento químico
 * 180 ml de água ou [leite vegetal](http://paneladepau.com.br/leite-de-aveia/)
 * 2 colheres (sopa) de azeite de oliva 
-* 1 ovo de chia (abaixo, veja como prepar)
+* 1 ovo de chia (veja como prepar abaixo)
 * 1½ xícara (chá) de legumes e verduras a gosto
 * Sal e temperos a gosto
 
