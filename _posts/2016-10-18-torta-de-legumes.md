@@ -38,7 +38,7 @@ A torta de legumes, a nossa receita de hoje, é bem nutritiva e é uma forma exc
 3. Em uma tigela, misture o ovo de chia e o azeite. Aos poucos, intercale a farinha e a água (leite), misturando até que a massa fique homogênea. 
 4. Tempere a massa a gosto e adicione os legumes e as verduras. Misture bem.
 5. Por último, adicione o fermento. 
-6. Transfira a massa para uma forma untada e enfarinhada e leve a massa para assar em forno preaquecido (220 °C) por cerca de 45 minutos (o tempo pode variar um pouco, dependendo do forno). 
+6. Transfira a massa para uma forma untada e enfarinhada e leve a massa para assar em forno preaquecido (220°C) por cerca de 45 minutos (o tempo pode variar um pouco, dependendo do forno). 
 7. Após o tempo de forno, espere a torta amornar para desenformar. 
 
 Huuum, delícia!
@@ -48,7 +48,6 @@ E antes de a gente se despedir para você testar na sua casa essa deliciosa tort
 **O ovo de chia** 
 
 A chia é uma semente rica em fibras solúveis e, ao absorver a água, ela ganha uma textura gelatinosa, ótima para dar liga em receitas como bolos e panquecas. Para cada ovo da receita, use a medida da nossa receita de hoje. 
-
 Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas - a semente fornece proteínas, fibras e ácidos graxos em boa quantidade, uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/). 
 
 
