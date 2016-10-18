@@ -17,9 +17,9 @@ legendaimg2: Legenda da imagem 2
 
 Vamos combinar: nada é melhor para [reaproveitar as sobras de legumes e verduras](http://paneladepau.com.br/tags/reutilizando-sobras/) do que uma boa torta salgada. 
 
-A torta de legumes que vamos preparar hoje é uma opção bem nutritiva e é uma forma excelente para introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso. E a receita ainda é livre de lactose e [sem ovos](http://paneladepau.com.br/cuca-sem-ovos/). 
+A torta de legumes que vamos preparar hoje é uma opção vegana — livre de lactose e [sem ovos](http://paneladepau.com.br/cuca-sem-ovos/) — bem nutritiva e é uma forma excelente para introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso.
 
-Bora para a cozinha?
+Bora testar?
 
 **Torta de legumes** 
 
