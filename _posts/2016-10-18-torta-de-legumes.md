@@ -45,7 +45,7 @@ Bora para a cozinha?
 
 Huuum, delícia!
 
-E antes de a gente se despedir para você testar na sua casa essa deliciosa torta de legumes, saiba mais um pouquinho sobre a troca do ovo pela chia. 
+E antes de a gente se despedir para você testar na sua casa essa torta de legumes maravilhosa, saiba mais um pouquinho sobre a troca do ovo pela chia. 
 
 **O ovo de chia** 
 
