@@ -25,7 +25,7 @@ A receitinha de hoje vem lá da Itália. A *Mozzarella in Carrozza*, ou Muçarel
 * Queijo muçarela a gosto
 * 1 ovo
 * Sal e pimenta do reino a gosto
-* 1/2 xícara (chá) de leite
+* ½ xícara (chá) de leite
 * Farinha de trigo (o quanto baste para empanar)
 * Óleo para fritar
 
