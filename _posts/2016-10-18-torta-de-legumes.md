@@ -27,7 +27,7 @@ A torta de legumes, a nossa receita de hoje, é bem nutritiva e é uma forma exc
 * 1 colher (chá) de fermento químico
 * 180 ml de água ou [leite vegetal](http://paneladepau.com.br/leite-de-aveia/)
 * 2 colheres (sopa) de azeite de oliva 
-* 1 ovo de chia (veja como prepar abaixo)
+* 1 ovo de chia (veja como preparar abaixo)
 * 1½ xícara (chá) de legumes e verduras a gosto
 * Sal e temperos a gosto
 
