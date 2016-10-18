@@ -50,7 +50,8 @@ E antes de a gente se despedir para você testar na sua casa essa torta de legum
 **O ovo de chia** 
 
 A chia é uma semente rica em fibras solúveis e, ao absorver a água, ela ganha uma textura gelatinosa, ótima para dar liga em pratos como bolos e panquecas. Substitua cada ovo das suas receitas por uma medida do ovo de chia da nossa torta de legumes. 
-Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas - a semente fornece proteínas, fibras e ácidos graxos em boa quantidade, uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/). 
+
+Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas. Ela fornece proteínas, fibras e ácidos graxos em boa quantidade — uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/)!
 
 Por fim, mais uma dica: essa torta de legumes é um prato que deve ser bem colorido para abrir o apetite mesmo. Então, o segredo é usar legumes e verduras variados :)
 
