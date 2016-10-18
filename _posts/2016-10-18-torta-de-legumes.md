@@ -35,7 +35,7 @@ A torta de legumes, a nossa receita de hoje, é bem nutritiva e é uma forma exc
 
 1. Comece preparando o ovo de chia. Para isso, hidrate, por cerca de 10 a 15 minutos, 1 colher (sopa) de chia em 3 colheres (sopa) de água. A textura deve ficar gelatinosa, como uma "colinha". Reserve.
 2. Pique os legumes e as verduras. Reserve. 
-3. Em uma tigela, misture o "ovo de chia" e o azeite. Aos poucos, intercale a farinha e a água (leite), misturando até que a massa fique homogênea. 
+3. Em uma tigela, misture o ovo de chia e o azeite. Aos poucos, intercale a farinha e a água (leite), misturando até que a massa fique homogênea. 
 4. Tempere a massa a gosto e adicione os legumes e as verduras. Misture bem.
 5. Por último, adicione o fermento. 
 6. Transfira a massa para uma forma untada e enfarinhada e leve a massa para assar em forno preaquecido (220 °C) por cerca de 45 minutos (o tempo pode variar um pouco, dependendo do forno). 
@@ -47,7 +47,10 @@ E antes de a gente se despedir para você testar na sua casa essa deliciosa tort
 
 **O ovo de chia** 
 
-A chia é uma semente rica em fibras solúveis e, ao absorver a água, ela ganha uma textura gelatinosa, ótima para dar liga em receitas como bolos e panquecas. Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas - a semente fornece proteínas, fibras e ácidos graxos em boa quantidade, uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/). 
+A chia é uma semente rica em fibras solúveis e, ao absorver a água, ela ganha uma textura gelatinosa, ótima para dar liga em receitas como bolos e panquecas. Para cada ovo da receita, use a medida da nossa receita de hoje. 
+
+Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas - a semente fornece proteínas, fibras e ácidos graxos em boa quantidade, uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/). 
+
 
 Legal, né? E por fim, mais uma dica: essa torta de legumes é um prato que deve ser bem bonito e colorido para abrir o apetite mesmo. Então, o segredo é usar legumes e verdurar bem variados! 
 
