@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 A berinjela assada é uma [comida rápida](http://paneladepau.com.br/tags/comida-rapida/) para ajudar na correria do dia a dia. Preparada ao forno, essa dica de, podemos dizer, berinjela fit facilita a vida de quem busca opções pouco calóricas e quer deixar o prato não só [saudável](http://paneladepau.com.br/tags/cozinha-saudavel/), mas também saboroso. 
 
-Tudo o que você vai precisar para preparar uma [berinejela assada](http://paneladepau.com.br/beringela-de-forno/) gostosa são alguns temperinhos e, claro, de uma boa berinjela. 
+Tudo o que você vai precisar para preparar uma [berinejela assada](http://paneladepau.com.br/beringela-de-forno/) gostosa são de alguns temperinhos e, claro, de uma boa berinjela. 
 
 Olha só como a receita é prática: você vai se surpreender com tanta facilidade e sabor!
 
