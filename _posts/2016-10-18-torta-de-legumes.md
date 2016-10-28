@@ -1,7 +1,7 @@
 ---
 titulo: Torta de legumes
 imgdestaque: torta-de-legumes.jpg
-tags: [paes e bolos, reutilizando sobras, comida rapida, comida saudavel]
+tags: [paes e bolos, reutilizando sobras, comida rapida, cozinha saudavel]
 imagem2: nome-da-imagem-2.jpg
 legendaimg2: Legenda da imagem 2
 ---
