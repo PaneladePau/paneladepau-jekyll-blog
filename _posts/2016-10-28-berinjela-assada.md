@@ -36,7 +36,7 @@ Olha só como a receita é prática: você vai se surpreender com tanta facilida
 1. Corte rodelas de berinjela (1 dedo de largura cada). Depois, divida as rodelas em metades. 
 2. Disponha as metades de berinjela em uma assadeira de fundo antiaderente untada com metade do azeite. 
 3. Tempere com sal e pimenta e, por cima das berinjelas, jogue os ramos de tomilho. Regue tudo com o restante do azeite (se preferir, pode adicionar mais um pouco de azeite).
-4. Leve ao forno preaquecido (220) por 10 minutos. 
+4. Leve ao forno preaquecido (220 °C) por 10 minutos. 
 5. Passados os 10 minutos, vire as berinjelas e leve ao forno por mais 10 minutos. 
 
 E a berinjela assada está pronta, acredita? Fácil assim!
@@ -45,6 +45,6 @@ Você pode tanto comer a berinjela assada na hora, bem quentinha, quanto em temp
 
 Para preparar a berinjela assada ao forno em maior volume, basta proporcionar os temperos e o azeite com a quantidade de berinjelas. O importante é lembrar que cada pedacinho de berinjela deve ficar em contato direto com o azeite e o fundo da assadeira para que os dois lados do legume fiquem dourados e saborosos. 
 
-Bora testar essa receita prática de berinjela assada o quanto antes? Se você fizer e aprovar, tire uma foto e poste nas [redes sociais](https://www.facebook.com/paneladepau/) com a hashtag #paneladepau :)
+Bora testar essa receita prática de berinjela assada o quanto antes? Se você fizer e aprovar, tire uma foto e poste nas [redes sociais](https://www.facebook.com/paneladepau/) com a hashtag [#paneladepau](https://www.instagram.com/paneladepau/) :)
 
 Até a próxima!
