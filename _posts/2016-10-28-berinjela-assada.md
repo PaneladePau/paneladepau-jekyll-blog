@@ -34,7 +34,7 @@ Olha só como a receita é prática: você vai se surpreender com tanta facilida
 ### Modo de fazer:
 
 1. Corte rodelas de berinjela (1 dedo de largura cada). Depois, divida as rodelas em metades. 
-2. Disponha as rodelas em uma assadeira de fundo antiaderente untada com metade do azeite. 
+2. Disponha as metades de berinjela em uma assadeira de fundo antiaderente untada com metade do azeite. 
 3. Tempere com sal e pimenta e, por cima das berinjelas, jogue os ramos de tomilho. Regue tudo com o restante do azeite (se preferir, pode adicionar mais um pouco de azeite).
 4. Leve ao forno preaquecido (220) por 10 minutos. 
 5. Passados os 10 minutos, vire as berinjelas e leve ao forno por mais 10 minutos. 
