@@ -3,7 +3,7 @@ titulo: Coxas de frango assadas com farofa
 imgdestaque: coxas-assadas-com-farofa.jpg
 tags: [carnes, pratos quentes, comida rapida]
 imagem2: coxas-assadas-com-farofa-2.jpg
-legendaimg2: Dica: para finalizar a montagem, experimente usar folhinhas de hortelã. 
+legendaimg2: Para finalizar a montagem, experimente usar folhinhas de hortelã. 
 ---
 {% comment %}
 #tags: bebidas, doces e sobremesas, paes e bolos, lanches, massas , carnes , saladas, reutilizando sobras, pratos quentes, comida rapida, cozinha saudavel, especiais
