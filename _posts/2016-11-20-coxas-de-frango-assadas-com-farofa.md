@@ -25,7 +25,7 @@ Imagina o cheirinho que uma receita dessas deixa pela casa? Mas não só pense, 
 
 ### Ingredientes: 
 
-* 600g de coxas de frango com pele (média de 5 a 6 unidades)
+* 600g de coxas de frango com pele (média de 4 a 5 unidades)
 * Marinada (ingredientes abaixo)
 * Farofa (ingredientes abaixo)
 
