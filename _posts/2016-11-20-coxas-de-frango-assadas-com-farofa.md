@@ -19,7 +19,7 @@ Coxas de frango combinam muito bem com o almoço de domingo ou com os dias de fo
 
 Afinal, para preparar esse prato, pressa não vai bem. A gente tem que dar tempo para que a carne absorva os temperos, tudo com calma. E enquanto esse tempo vai passando, a gente muda de tigela e prepara uma farofa deliciosa para acompanhar.
 
-Já ficou imaginando o cheirinho que uma receita dessas deixa pela casa? Então não só pense, coloque a mão na massa comigo. Hoje vou ensinar uma receita prática e deliciosa de coxas de [frango](http://paneladepau.com.br/frango-frito/) que vai ganhar o seu caderninho de receitas e o seu coração <3 
+Já ficou imaginando o cheirinho que uma receita dessas deixa pela casa? Então não só pense, coloque a mão na massa comigo. Hoje vou ensinar uma receita prática e deliciosa de coxas de [frango](http://paneladepau.com.br/frango-frito/) que vai ganhar o seu caderninho de receitas e o seu coração!
 
 **Coxas de frango assadas com farofa** 
 
@@ -72,9 +72,7 @@ Para a **farofa**, você pode ou seguir a minha dica, ou, então, usar outra rec
 
 E o **acompanhamento** para fechar tudo isso pode ser um bom e simples purê. O purêda nossa foto é à base de [cenoura](http://paneladepau.com.br/creme-de-cenoura/), batata doce, trigo cozido e manteiga. Simples assim.
 
-Por cima de tudo, vale **pingar umas gotinhas de limão**, trazendo acidez e adstringência para quebrar um pouco a gordura.  
+Por cima de tudo, vale **pingar gotinhas de limão**, trazendo acidez e adstringência para quebrar um pouco a gordura.  
 
 
 E aí, gostou? Deixe um comentário contando a sua opinião ou compartilhando alguma dica para a receita de coxas de frango :)
-
-
