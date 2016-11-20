@@ -50,9 +50,9 @@ Imagina o cheirinho que uma receita dessas deixa pela casa? Mas não só pense, 
 ### Modo de fazer: 
 
 1. Comece pela **marinada**. Combine todos os ingredientes. 
-2. Lambuze bem as coxas de frango com a marinada. Leve a carne com a marinada à geladeira por pelo menos uma hora em um recipiente bem fechado (eu usei uma panela de inox). Você pode cobrir com papel pvc, se preferir.
+2. Lambuze bem as coxas de frango com a marinada. Leve a carne com a marinada à geladeira por pelo menos uma hora em um recipiente bem fechado (eu usei uma panela de inox).
 3. Enquanto a carne está na geladeira, vamos para a **farofa**. Triture o trigo, a castanha e o gergelim no liquidificador até chegar a uma textura de areia. Em uma tigela, adicione o sal. Reserve. 
-4. Tire a marinada da geladeira. Disponha as coxas de frango e a marinada em uma assadeira levemente untada. Cubra a forma com papel alumínio (o lado brilhante fica para baixo) e leve ao forno por cerca de 40 minutos (220 °C).
+4. Tire a marinada da geladeira. Disponha as coxas de frango e a marinada em uma assadeira levemente untada. Cubra a forma com papel alumínio (lado brilhante para baixo) e leve ao forno por cerca de 40 minutos (220 °C).
 5. Pouco antes de tirar o frango do forno, finalize a farofa. Adicione a manteiga na mistura de ingredientes triturados, quebrando os pedaços com a ajuda de uma colher ou com as mãos. A farofa deve ficar úmida, mas ainda manter a crocância.  
 6. Tire o frango do forno. Descubra a forma e espalhe bem a farofa pela superfície do frango (cuide para não se queimar).
 7. Leve as coxas de frango novamente ao forno, agora sem o papel alumínio, por cerca de 20 minutos (220 °C). 
