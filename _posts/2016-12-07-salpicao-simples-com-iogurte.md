@@ -21,7 +21,7 @@ Tradicionalmente feito à base de frango, o salpicão é democrático e aceita b
 
 Hoje, eu vou ensinar você a preparar um salpicão simples com [iogurte](http://paneladepau.com.br/salada-com-molho-de-iogurte/), uma opção mais leve e bem saborosa para a sua ceia ou mesmo para o dia a dia!
 
-**Salpicão simples com iogurte***
+**Salpicão simples com iogurte**
 
 ### Ingredientes: 
 
@@ -38,25 +38,23 @@ Hoje, eu vou ensinar você a preparar um salpicão simples com [iogurte](http://
 ### Modo de fazer:
 
 1. Comece cozinhando o frango em 1,5 litro de água. Eu tirei a pele do frango, mas a deixei dentro da água de cozimento para dar sabor. A dica é usar ervas (como tomilho, orégano e louro) e temperar a água com sal e pimenta. Desfie o frango somente quando já estiver frio. Reserve uma concha da água do cozimento.
-2. Enquanto o frango cozinha, pique a cenoura, a maçã, as ameixas, a salsa e cebolinha. Cubra os pedaços de maçã com metade do suco do limão (isso previne a oxidação e mantém a cor da polpa da fruta).
+2. Enquanto o frango cozinha, pique a cenoura, a maçã, as ameixas, a salsa e a cebolinha. Cubra os pedaços de maçã com metade do suco do limão (isso previne a oxidação e mantém a cor da polpa da fruta).
 3. Com todos os ingredientes preparados, é só misturar tudo: coloque as frutas, a cenoura, a salsinha e a cebolinha, o frango desfiado e o resto do suco de limão em uma tigela. 
 4. Na sequência, adicione o iogurte e o azeite. Combine tudo muito bem. Para ajudar a diluir a mistura e dar cremosidade, adicione, aos poucos, a concha de água do cozimento do frango. 
 6. Por fim, acerte o sal e a pimenta a gosto.
 
 Delícia esse salpicão simples com iogurte, né?
 
-A mistura de sabores salgados, doces e ácidos é o segredo de um bom salpicão. Se você preferir seguir a tradição, dá para usar maionese no lugar do iogurte e adicionar a batata palha. Mas sugiro que você tente a receita mais leve de hoje: você não vai se arrepender!
+A mistura de sabores salgados, doces e ácidos é o segredo de um bom salpicão. Se você preferir seguir a tradição, dá para usar maionese no lugar do iogurte e adicionar a batata palha. 
 
 Agora, veja duas facilidades que o salpicão traz para a sua cozinha:
 
 **Reaproveitamento de sobras**
-
 O salpicão é uma ótima ideia para [reaproveitar sobras](http://paneladepau.com.br/tags/reutilizando-sobras/) de [frango assado](http://paneladepau.com.br/frango-de-natal/). Em vez de preparar um frango novo para a receita, você pode usar a carne que ficou na geladeira depois de um almoço, por exemplo. 
 
 **Produção de caldo base**
-
 Se você for cozinhar o frango do zero, saiba que a água que sobrar do cozimento é um [caldo](http://paneladepau.com.br/caldo-de-legumes-caseiro/) de carne extremamente saboroso que pode ser usado em diversos outros preparos (largue já os cubinhos prontos!). 
 
 Para conservar o líquido, é só esperar o caldo resfriar e levá-lo ao congelador em um pote bem fechado (dura até 3 meses congelado). E caso você planeje um uso rápido, o caldo pode ser mantido na geladeira por até 3 dias. 
 
-Gostou dessa receita de salpicão simples com iogurte? Então compartilhe o nosso post de hoje com os seus amigos :)
+Gostou desse de salpicão simples com iogurte? Então compartilhe já a receita com os seus amigos :)
