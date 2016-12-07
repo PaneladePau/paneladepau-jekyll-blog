@@ -25,7 +25,7 @@ Hoje, eu vou ensinar você a preparar um salpicão simples com [iogurte](http://
 
 ### Ingredientes: 
 
-* 2 peitos de frango com osso e com pele 
+* 2 peitos de [frango](http://paneladepau.com.br/coxas-de-frango-assadas-com-farofa/) com osso e com pele 
 * 1 xícara (chá) de cenoura bem picadinha
 * 1/2 xícara (chá) de maçã fuji em pedaços
 * 1 colher (sopa) de ameixas desidratadas picadas
