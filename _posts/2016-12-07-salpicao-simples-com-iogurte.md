@@ -50,9 +50,11 @@ A mistura de sabores salgados, doces e ácidos é o segredo de um bom salpicão.
 Agora, veja duas facilidades que o salpicão traz para a sua cozinha:
 
 **Reaproveitamento de sobras**
+
 O salpicão é uma ótima ideia para [reaproveitar sobras](http://paneladepau.com.br/tags/reutilizando-sobras/) de [frango assado](http://paneladepau.com.br/frango-de-natal/). Em vez de preparar um frango novo para a receita, você pode usar a carne que ficou na geladeira depois de um almoço, por exemplo. 
 
 **Produção de caldo base**
+
 Se você for cozinhar o frango do zero, saiba que a água que sobrar do cozimento é um [caldo](http://paneladepau.com.br/caldo-de-legumes-caseiro/) de carne extremamente saboroso que pode ser usado em diversos outros preparos (largue já os cubinhos prontos!). 
 
 Para conservar o líquido, é só esperar o caldo resfriar e levá-lo ao congelador em um pote bem fechado (dura até 3 meses congelado). E caso você planeje um uso rápido, o caldo pode ser mantido na geladeira por até 3 dias. 
