@@ -21,7 +21,7 @@ Nas ceias de Natal, o salpicão de frango é quase uma unanimidade. Fácil de fa
 
 ### Ingredientes:
 
-* Salpicão a gosto (veja uma opção aqui)
+* Salpicão a gosto
 * 1 xícara (chá) de farinha de trigo
 * 1 ovo
 * 1 colher (sobremesa) de óleo
