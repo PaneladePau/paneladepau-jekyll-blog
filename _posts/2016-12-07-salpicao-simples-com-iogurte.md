@@ -15,17 +15,17 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Uma receita famosa nas festas de fim de ano, o [salpicão](http://paneladepau.com.br/barquete-de-salpicao/) é o tipo de prato especial que dá vontade de comer sempre. 
+Uma receita famosa nas festas de fim de ano, o [salpicão](http://paneladepau.github.io/paneladepau-jekyll-blog/barquete-de-salpicao/) é o tipo de prato especial que dá vontade de comer sempre. 
 
 Tradicionalmente feito à base de frango, o salpicão é democrático e aceita bastantes complementos. O que não pode faltar é cremosidade e um toque de acidez.
 
-Hoje, eu vou ensinar você a preparar um salpicão simples com [iogurte](http://paneladepau.com.br/salada-com-molho-de-iogurte/), uma opção mais leve e bem saborosa para a sua ceia ou mesmo para o dia a dia!
+Hoje, eu vou ensinar você a preparar um salpicão simples com [iogurte](http://paneladepau.github.io/paneladepau-jekyll-blog/salada-com-molho-de-iogurte/), uma opção mais leve e bem saborosa para a sua ceia ou mesmo para o dia a dia!
 
 **Salpicão simples com iogurte**
 
 ### Ingredientes: 
 
-* 2 peitos de [frango](http://paneladepau.com.br/coxas-de-frango-assadas-com-farofa/) com osso e com pele 
+* 2 peitos de [frango](http://paneladepau.github.io/paneladepau-jekyll-blog/coxas-de-frango-assadas-com-farofa/) com osso e com pele 
 * 1 xícara (chá) de cenoura bem picadinha
 * 1/2 xícara (chá) de maçã fuji em pedaços
 * 1 colher (sopa) de ameixas desidratadas picadas
@@ -51,11 +51,11 @@ Agora, veja duas facilidades que o salpicão traz para a sua cozinha:
 
 **Reaproveitamento de sobras**
 
-O salpicão é uma ótima ideia para [reaproveitar sobras](http://paneladepau.com.br/tags/reutilizando-sobras/) de [frango assado](http://paneladepau.com.br/frango-de-natal/). Em vez de preparar um frango novo para a receita, você pode usar a carne que ficou na geladeira depois de um almoço, por exemplo. 
+O salpicão é uma ótima ideia para [reaproveitar sobras](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/reutilizando-sobras/) de [frango assado](http://paneladepau.github.io/paneladepau-jekyll-blog/frango-de-natal/). Em vez de preparar um frango novo para a receita, você pode usar a carne que ficou na geladeira depois de um almoço, por exemplo. 
 
 **Produção de caldo base**
 
-Se você for cozinhar o frango do zero, saiba que a água que sobrar do cozimento é um [caldo](http://paneladepau.com.br/caldo-de-legumes-caseiro/) de carne extremamente saboroso que pode ser usado em diversos outros preparos (largue já os cubinhos prontos!). 
+Se você for cozinhar o frango do zero, saiba que a água que sobrar do cozimento é um [caldo](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro/) de carne extremamente saboroso que pode ser usado em diversos outros preparos (largue já os cubinhos prontos!). 
 
 Para conservar o líquido, é só esperar o caldo resfriar e levá-lo ao congelador em um pote bem fechado (dura até 3 meses congelado). E caso você planeje um uso rápido, o caldo pode ser mantido na geladeira por até 3 dias. 
 

@@ -15,9 +15,9 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Não há nada como fazer risoto para deixar uma refeição [especial](http://paneladepau.com.br/tags/especiais/). 
+Não há nada como fazer risoto para deixar uma refeição [especial](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/especiais/). 
 
-Um [risoto](http://paneladepau.com.br/risoto-de-bacalhau/) cremoso e fácil para você testar em casa é a dica de hoje: risoto de abobrinha. Uma opção vegetariana, leve e saborosa, que só precisa de uma meia hora de panela e atenção com o passo a passo, que é bem simples, mas tem seus segredinhos. 
+Um [risoto](http://paneladepau.github.io/paneladepau-jekyll-blog/risoto-de-bacalhau/) cremoso e fácil para você testar em casa é a dica de hoje: risoto de abobrinha. Uma opção vegetariana, leve e saborosa, que só precisa de uma meia hora de panela e atenção com o passo a passo, que é bem simples, mas tem seus segredinhos. 
 
 Vamos para a cozinha?
 
@@ -30,7 +30,7 @@ Vamos para a cozinha?
 * 1 colher (sopa) de azeite de oliva
 * ½ xícara (chá) de vinho branco de mesa 
 * 1 cebola roxa pequena picada em *brunoise* (em cubinhos)
-* 1 litro de [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro/)
+* 1 litro de [caldo de legumes](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro/)
 * Sal a gosto
 * Pimenta preta moída a gosto
 * Queijo parmesão ralado a gosto
@@ -46,7 +46,7 @@ Vamos para a cozinha?
 **Preparo da abobrinha**
 
 1. Refogue a abobrinha por uns dois minutos sem adicionar sal. Reserve. 
-2. Em uma panela, faça um molho bechamel (use a técnica do [nosso molho quatro queijos](http://paneladepau.com.br/molho-quatroqueijos/)) com o azeite, a farinha e o leite. Depois que engrossar, desligue o fogo, adicione as abobrinhas e salgue a gosto. Reserve.
+2. Em uma panela, faça um molho bechamel (use a técnica do [nosso molho quatro queijos](http://paneladepau.github.io/paneladepau-jekyll-blog/molho-quatroqueijos/)) com o azeite, a farinha e o leite. Depois que engrossar, desligue o fogo, adicione as abobrinhas e salgue a gosto. Reserve.
 
 **Preparo do risoto**
 

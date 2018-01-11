@@ -21,7 +21,7 @@ Tem dias que a gente só quer chegar em casa e comer algo rápido e ao mesmo tem
 
 ### Ingredientes:
 
-* 1 receita de [pão na chapa com requeijão](http://paneladepau.com.br/pao-na-chapa-com-requeijao) (ou na manteiga)
+* 1 receita de [pão na chapa com requeijão](http://paneladepau.github.io/paneladepau-jekyll-blog/pao-na-chapa-com-requeijao) (ou na manteiga)
 * Recheio de 'sobras de geladeira' (sugestão: refogado de tomates, cebola e ervas secas)
 
 ### Modo de fazer:

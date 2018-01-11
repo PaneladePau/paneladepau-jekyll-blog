@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-O pão é um alimento que muita gente não dispensa no café da manhã. Então, o ideal é que, além de saboroso, ele seja nutritivo. É aí que entra o pão integral. Super rico em fibras e carboidratos bons, ele é ótimo para começar o dia. Aqui no blog, já postamos uma [receita gostosa de pão integral](http://paneladepau.com.br/pao-integral-caseiro), mas, hoje, temos um passo a passo mais prático para todos os dias. 
+O pão é um alimento que muita gente não dispensa no café da manhã. Então, o ideal é que, além de saboroso, ele seja nutritivo. É aí que entra o pão integral. Super rico em fibras e carboidratos bons, ele é ótimo para começar o dia. Aqui no blog, já postamos uma [receita gostosa de pão integral](http://paneladepau.github.io/paneladepau-jekyll-blog/pao-integral-caseiro), mas, hoje, temos um passo a passo mais prático para todos os dias. 
 
 **Pão integral prático**
 

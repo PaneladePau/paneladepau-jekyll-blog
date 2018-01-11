@@ -24,7 +24,7 @@ A receita de hoje, um risoto bem saboroso de presunto cru e parmesão, é uma di
 ### Ingredientes:
 
 * 1 xícara (chá) de arroz arbóreo 
-* 1½ l de caldo de legumes (veja um passo a passo de caldo caseiro [aqui](http://paneladepau.com.br/caldo-de-legumes-caseiro))
+* 1½ l de caldo de legumes (veja um passo a passo de caldo caseiro [aqui](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro))
 * ½ cebola picada
 * ½ xícara (chá) de vinho branco de mesa (opção: vodka)
 * 1 colher sopa de manteiga

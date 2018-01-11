@@ -15,9 +15,9 @@ legendaimg2: Sem medo de exagerar no recheio - quanto mais, melhor!
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Panqueca é um tipo de prato extremamente funcional na cozinha. Com disquinhos de massa [podemos inventar e criar](http://paneladepau.com.br/panquecao/) diversos tipos de recheios e incrementar aquilo que seria apenas uma carne com molho ou um simples refogado de legumes. Panquecas ainda funcionam como boas bases para sobremesas. 
+Panqueca é um tipo de prato extremamente funcional na cozinha. Com disquinhos de massa [podemos inventar e criar](http://paneladepau.github.io/paneladepau-jekyll-blog/panquecao/) diversos tipos de recheios e incrementar aquilo que seria apenas uma carne com molho ou um simples refogado de legumes. Panquecas ainda funcionam como boas bases para sobremesas. 
 
-Além da praticidade, a massa de panqueca é bem simples de fazer. E hoje nós vamos aprender uma versão de panqueca com farinha de arroz que, além de fácil, é livre de [glúten](http://paneladepau.com.br/bolo-de-banana-com-chocolate-sem-gluten/) :). Vamos ver como se faz?
+Além da praticidade, a massa de panqueca é bem simples de fazer. E hoje nós vamos aprender uma versão de panqueca com farinha de arroz que, além de fácil, é livre de [glúten](http://paneladepau.github.io/paneladepau-jekyll-blog/bolo-de-banana-com-chocolate-sem-gluten/) :). Vamos ver como se faz?
 
 **Panqueca com farinha de arroz**
 
@@ -46,7 +46,7 @@ Falando da massa, fora a troca pela farinha de arroz, ela é bem básica. Se voc
 
 Para um melhor resultado, é necessário fazer um pouquinho de cada vez e ir passando os grãos já triturados por uma peneira. Assim, você conseguirá separar bem o pó e ver quais grãos ainda precisam ser moídos. Como eu fiz com pressa a minha farinha, ela acabou ficando granulosa. No entanto, se este também for o o seu caso, fique tranquilo: dá para fazer a panqueca do mesmo jeito. Porém, indico fazer o processo completo ou, então, comprar a farinha normal para não haver preocupação com o ponto da massa.
 
-Com relação aos recheios, você pode usar a criatividade e, inclusive, dar um jeito de reaproveitar as [sobras da geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/). A minha sugestão é um recheio de atum com legumes bem temperadinho. Para finalizar, uma camada com o restante do recheio e algumas fatias de queijo gratinadas. 
+Com relação aos recheios, você pode usar a criatividade e, inclusive, dar um jeito de reaproveitar as [sobras da geladeira](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/reutilizando-sobras/). A minha sugestão é um recheio de atum com legumes bem temperadinho. Para finalizar, uma camada com o restante do recheio e algumas fatias de queijo gratinadas. 
 
 E aí, dica boa, né?
 

@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Olá!
 
-Para um dia bonito - e quente - como o de hoje, nada melhor do que um doce gelado e suave. Ainda em clima de culinária portuguesa, trouxe neste início de semana uma receita de pudim, uma das sobremesas mais famosas nas mesas brasileiras. Assim como o [Caldo verde](https://paneladepau.com.br/caldo-verde), o pudim de leite tem um pé lá na região de Entre Douro e Minho, ao norte de Portugal.
+Para um dia bonito - e quente - como o de hoje, nada melhor do que um doce gelado e suave. Ainda em clima de culinária portuguesa, trouxe neste início de semana uma receita de pudim, uma das sobremesas mais famosas nas mesas brasileiras. Assim como o [Caldo verde](https://paneladepau.github.io/paneladepau-jekyll-blog/caldo-verde), o pudim de leite tem um pé lá na região de Entre Douro e Minho, ao norte de Portugal.
 
 No entanto, diferente do Caldo verde, aqui não fazemos a receita tradicional portuguesa, mas uma adaptação, que é o famoso pudim de leite. O doce português se chama Pudim Abade de Cristos, o qual leva ingredientes como limão e canela.
 

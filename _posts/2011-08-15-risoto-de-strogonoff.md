@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Pessoal,
 
-depois de uns dias sem postar, retorno às atividades. Estou voltando bem contente, com uma boa notícia! Hoje, passando pelo meu facebook, vi que o site [Tudo Gostoso](https://www.tudogostoso.com.br/), para o qual eu envio algumas receitas, compartilhou aquela [receita de bolinho](https://paneladepau.com.br/bolinho-salgado-frito) da última atualização do blog. Além disso, a receita está na página inicial do site. Fiquei super contente, muito legal mesmo :)!
+depois de uns dias sem postar, retorno às atividades. Estou voltando bem contente, com uma boa notícia! Hoje, passando pelo meu facebook, vi que o site [Tudo Gostoso](https://www.tudogostoso.com.br/), para o qual eu envio algumas receitas, compartilhou aquela [receita de bolinho](https://paneladepau.github.io/paneladepau-jekyll-blog/bolinho-salgado-frito) da última atualização do blog. Além disso, a receita está na página inicial do site. Fiquei super contente, muito legal mesmo :)!
 
 Mas e a receita de hoje, qual é? Bem, o prato escolhido foi um Risoto de Strogonoff. O que? É, é isso mesmo que você leu. Risoto de Strogonoff. O plano inicial era fazer um risoto bem básico, com frango. No entanto, como só tinha carne bovina, resolvi inventar e ver se dava certo.
 

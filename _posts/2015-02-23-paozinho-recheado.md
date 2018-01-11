@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Pão é pedida de todas as horas, mas principalmente no sagrado café da manhã. O pão é um alimento bem nutritivo e saboroso, com modos de fazer e receitas bem variados: as padarias nos deixam loucos com tanta variedade!
 
-E hoje a gente vai de pãozinho recheado aqui no blog. Ele é bem parecido com o nosso [pão de calabresa](http://paneladepau.com.br/pao-de-calabresa), só que é menor, perfeito para ser devorado assim que sair do forno. E se você mora sozinho ou com poucas pessoas, o pãozinho recheado de hoje tem o tamanho ideal para a sua casa :)
+E hoje a gente vai de pãozinho recheado aqui no blog. Ele é bem parecido com o nosso [pão de calabresa](http://paneladepau.github.io/paneladepau-jekyll-blog/pao-de-calabresa), só que é menor, perfeito para ser devorado assim que sair do forno. E se você mora sozinho ou com poucas pessoas, o pãozinho recheado de hoje tem o tamanho ideal para a sua casa :)
 
 **Pãozinho recheado**
 
@@ -45,7 +45,7 @@ E hoje a gente vai de pãozinho recheado aqui no blog. Ele é bem parecido com o
 
 E está pronto o seu pãozinho recheado! 
 
-A massa é bem simples de fazer, e o resultado é um [pão salgado](http://paneladepau.com.br/pao-na-chapa-com-requeijao/) com um toque levemente doce e com uma textura ótima. Para que a massa fique saborosa e macia, é importante sovar bem e ter paciência para deixar o pão crescer direitinho. O rendimento é de cerca de 10 fatias como as da foto do post. 
+A massa é bem simples de fazer, e o resultado é um [pão salgado](http://paneladepau.github.io/paneladepau-jekyll-blog/pao-na-chapa-com-requeijao/) com um toque levemente doce e com uma textura ótima. Para que a massa fique saborosa e macia, é importante sovar bem e ter paciência para deixar o pão crescer direitinho. O rendimento é de cerca de 10 fatias como as da foto do post. 
 
 Quanto ao recheio, usei de novo a calabresa, pois é a pedida favorita da minha casa. Mas você pode variar. Imagina só que delícia um pãozinho recheado com ricota, espinafre e tomate seco? Huum!
 

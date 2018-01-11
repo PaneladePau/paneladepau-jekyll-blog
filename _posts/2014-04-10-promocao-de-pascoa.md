@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Olá leitores!
 
-A Páscoa tá quase chegando e, com ela, vem uma promoção relâmpago do **Panela de Pau**! Para participar da brincadeira, basta você acessar a área ["Contato"](http://paneladepau.com.br/contato) do blog e enviar uma mensagem, respondendo a seguinte pergunta: 
+A Páscoa tá quase chegando e, com ela, vem uma promoção relâmpago do **Panela de Pau**! Para participar da brincadeira, basta você acessar a área ["Contato"](http://paneladepau.github.io/paneladepau-jekyll-blog/contato) do blog e enviar uma mensagem, respondendo a seguinte pergunta: 
 
 *Qual receita do Panela de Pau você escolheria para a sua mesa de Páscoa? Por quê?*
 

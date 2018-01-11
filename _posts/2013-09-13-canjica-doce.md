@@ -19,7 +19,7 @@ legendaimg3: A canjica é um doce muito saboroso e substancioso, quase uma refei
 
 Bom dia!
 
-Seguindo na **Semana da Cozinha Gaúcha**, a sexta-feira dá lugar a uma substanciosa sobremesa - nada melhor para acompanhar o nosso tradicional [Carreteiro de Charque](https://paneladepau.com.br/). 
+Seguindo na **Semana da Cozinha Gaúcha**, a sexta-feira dá lugar a uma substanciosa sobremesa - nada melhor para acompanhar o nosso tradicional [Carreteiro de Charque](https://paneladepau.github.io/paneladepau-jekyll-blog/). 
 
 Para hoje, preparamos uma Canjica Doce, receita de influência luso-africana, que é muito tradicional na cozinha gaúcha, em especial na Região Missioneira. Pode-se dizer que a doçaria brasileira - e, consequentemente, a gaúcha - deu seus primeiros passos com a chegada dos imigrantes portugueses, durante o período colonial, os quais introduziram diversos novos hábitos alimentares em nosso território, como o uso do açúcar. Os imigrantes se instalaram principalmente na região dos pampas, local onde já haviam concentrações de espanhóis e da população indígena nativa. A fusão de hábitos e costumes dessas três culturas remonta as origens do povo gaúcho, que, nos séculos seguintes, ainda absorveu mais um intercâmbio, com a vinda das levas de imigrantes africanos e de vários outros países europeus. 
 

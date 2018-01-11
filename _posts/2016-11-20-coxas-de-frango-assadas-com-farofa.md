@@ -19,7 +19,7 @@ Coxas de frango combinam muito bem com o almoço de domingo ou com os dias de fo
 
 Afinal, para preparar esse prato, pressa não vai bem. A gente tem que dar tempo para que a carne absorva os temperos, tudo com calma. E enquanto a hora vai passando, a gente muda de tigela e prepara uma farofa deliciosa para acompanhar.
 
-Imagina o cheirinho que uma receita dessas deixa pela casa? Mas não só pense, coloque a mão na massa comigo. Hoje vou ensinar uma receita prática e deliciosa de coxas de [frango](http://paneladepau.com.br/frango-frito/) que vai ganhar o seu caderninho de receitas e o seu coração!
+Imagina o cheirinho que uma receita dessas deixa pela casa? Mas não só pense, coloque a mão na massa comigo. Hoje vou ensinar uma receita prática e deliciosa de coxas de [frango](http://paneladepau.github.io/paneladepau-jekyll-blog/frango-frito/) que vai ganhar o seu caderninho de receitas e o seu coração!
 
 **Coxas de frango assadas com farofa** 
 
@@ -56,11 +56,11 @@ Imagina o cheirinho que uma receita dessas deixa pela casa? Mas não só pense, 
 5. Pouco antes de tirar o frango do forno, finalize a farofa. Adicione a manteiga na mistura de ingredientes triturados, quebrando os pedaços com a ajuda de uma colher ou com as mãos. A farofa deve ficar úmida, mas ainda manter a crocância.  
 6. Tire o frango do forno. Descubra a forma e espalhe bem a farofa pela superfície da carne (cuide para não se queimar).
 7. Leve as coxas de frango novamente ao forno, agora sem o papel alumínio, por cerca de 20 minutos (220 °C). 
-8. Sirva as coxas por cima de um [purê](http://paneladepau.com.br/pure-de-batatas/) de sua preferência. 
+8. Sirva as coxas por cima de um [purê](http://paneladepau.github.io/paneladepau-jekyll-blog/pure-de-batatas/) de sua preferência. 
 
 {% include imagem2.html %}
 
-É deliciosa esta receita de coxas de [frango](http://paneladepau.com.br/frango-de-natal/), gente! Todos os processos são bem fáceis, só precisa seguir direitinho o passo a passo. 
+É deliciosa esta receita de coxas de [frango](http://paneladepau.github.io/paneladepau-jekyll-blog/frango-de-natal/), gente! Todos os processos são bem fáceis, só precisa seguir direitinho o passo a passo. 
 
 E para fazer o prato de hoje, que tal, além de valorizar o tempo na cozinha, pensar bem nos ingredientes que você vai usar? Dê preferência para uma **carne de frango orgânica**, vinda de um animal criado livremente e recebendo boa alimentação. Mais sustentabilidade, saúde e amor na sua cozinha :)
 
@@ -70,7 +70,7 @@ O **papel alumínio** é indispensável, pois é ele que vai garantir a preserva
 
 Para a **farofa**, você pode seguir a minha dica, ou, então, usar outra receita de que goste. O importante é que a farofa tenha umidade, uma gordurinha, mas seja crocante. 
 
-O **acompanhamento** maravilhoso para fechar essa delícia é o purê. O da nossa foto é à base de [cenoura](http://paneladepau.com.br/creme-de-cenoura/), batata doce, trigo cozido e manteiga. Simples assim.
+O **acompanhamento** maravilhoso para fechar essa delícia é o purê. O da nossa foto é à base de [cenoura](http://paneladepau.github.io/paneladepau-jekyll-blog/creme-de-cenoura/), batata doce, trigo cozido e manteiga. Simples assim.
 
 E por cima de tudo, vale **pingar gotinhas de limão**, trazendo acidez e adstringência para quebrar um pouco a gordura.  
 

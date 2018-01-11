@@ -13,7 +13,7 @@ tags: [pratos quentes, comida rapida, massas]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-No ano passado, postei aqui no blog uma [releitura de massa à carbonara](http://paneladepau.com.br/carbonara) com ingredientes acessíveis para o dia a dia. Como disse naquela época, esta é uma das combinações de macarrão que mais gosto. Então, para inovar na apresentação, resolvi testar a receita em um formato diferente: fiz uma lasanha. No mundo das lasanhas, a combinação à carbonara já existe. No entanto, o diferente da minha receita é que a base não é a massa tradicional de lasanha, mas sim um espaguete normal. O resultado ficou uma delícia - uma mistura de macarrão com uma cremosa e fofinha espuma de ovos. Olha só como é fácil de fazer:
+No ano passado, postei aqui no blog uma [releitura de massa à carbonara](http://paneladepau.github.io/paneladepau-jekyll-blog/carbonara) com ingredientes acessíveis para o dia a dia. Como disse naquela época, esta é uma das combinações de macarrão que mais gosto. Então, para inovar na apresentação, resolvi testar a receita em um formato diferente: fiz uma lasanha. No mundo das lasanhas, a combinação à carbonara já existe. No entanto, o diferente da minha receita é que a base não é a massa tradicional de lasanha, mas sim um espaguete normal. O resultado ficou uma delícia - uma mistura de macarrão com uma cremosa e fofinha espuma de ovos. Olha só como é fácil de fazer:
 
 **Lasanha de espaguete à carbonara**
 

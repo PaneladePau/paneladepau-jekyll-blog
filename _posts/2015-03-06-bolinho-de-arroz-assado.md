@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Da comidinha do dia a dia às gostosas porções de boteco, o [bolinho de arroz](http://paneladepau.com.br/bolinhos-de-arroz/) é um símbolo da comida caseira que sempre é sucesso. O bolinho de arroz é bem prático, pois permite que a gente brinque com diversos ingredientes e temperos. 
+Da comidinha do dia a dia às gostosas porções de boteco, o [bolinho de arroz](http://paneladepau.github.io/paneladepau-jekyll-blog/bolinhos-de-arroz/) é um símbolo da comida caseira que sempre é sucesso. O bolinho de arroz é bem prático, pois permite que a gente brinque com diversos ingredientes e temperos. 
 
 E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fácil e gostosa de bolinho de arroz assado. O benefício da receita é triplo: sem sujeiras, mais saudável e, claro, com sabor de quero mais :)
 
@@ -42,7 +42,7 @@ E para facilitar a correria da rotina, a pedida de hoje é uma versão muito fá
 6. Leve ao forno (preaquecido em 220°C), em forma untada e enfarinhada, por cerca de 30 minutos. Nos primeiros 20 minutos, deixe a forma coberta com papel alumínio. Nos minutos finais, retire o papel para que os bolinhos fiquem douradinhos.
 7. Retire do forno e aguarde alguns minutos antes de servir.
 
-E está pronto um bolinho de arroz assado bem saboroso! Se você quiser, dá para fazer uma limpeza de [sobras da geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/) e colocar mais coisas na massa. O único cuidado deve ser com o ponto da farinha, que pode mudar dependendo da umidade dos ingredientes. 
+E está pronto um bolinho de arroz assado bem saboroso! Se você quiser, dá para fazer uma limpeza de [sobras da geladeira](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/reutilizando-sobras/) e colocar mais coisas na massa. O único cuidado deve ser com o ponto da farinha, que pode mudar dependendo da umidade dos ingredientes. 
 
 Quanto ao arroz, o ideal para esta receita é o arroz pastoso, bem passado do ponto - o tradicional arroz empapado. Quanto mais cozido, mais o amido do arroz será trabalhado, o que deixará a mistura com a consistência de papinha. Então, se você errou no arroz, saiba: tem solução!
 

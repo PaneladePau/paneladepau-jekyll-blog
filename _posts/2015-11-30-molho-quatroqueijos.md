@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 O molho quatro queijos é um excelente aliado para várias receitas. Ele dá personalidade para massas, lasanhas, assados e também pode ser um tempero ótimo para uma salada mais arrojada. 
 
-E se você ama [queijo](http://paneladepau.com.br/torta-cremosa-de-queijo/), assim como o Panela de Pau, não há dúvidas de que gostará de comer puro mesmo (às colheradas!!). 
+E se você ama [queijo](http://paneladepau.github.io/paneladepau-jekyll-blog/torta-cremosa-de-queijo/), assim como o Panela de Pau, não há dúvidas de que gostará de comer puro mesmo (às colheradas!!). 
 
 **Molho quatro queijos**
 

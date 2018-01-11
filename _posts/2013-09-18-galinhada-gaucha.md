@@ -53,7 +53,7 @@ Como há varias receitas diferentes de galinhada - todas com base no arroz, na g
 3. Adicione os tomates, o pimentão, as azeitonas e o caldo da mistura da marinada. Refogue bem por cerca de 3 minutos e, logo, adicione o arroz e deixe dar uma boa fritada. 
 4. Cubra com água e deixe cozinhar por cerca de 20 a 30 minutos (ou até que o arroz esteja cozido), com a tampa da panela entreaberta. Acerte o sal, se necessário. 
 
-E a galinhada está prontinha para você servir! O modo de fazer é bastante similiar ao do [Carreteiro de Charque](https://paneladepau.com.br/semana-da-cozinha-gaucha-carreteiro-de-charque/). Se você puder utilizar a panela de ferro, como nas outras receitas, tanto melhor. Ela preserva mais o calor e confere um sabor inconfundível à comida - a rapinha do arroz, então, é de comer rezando! 
+E a galinhada está prontinha para você servir! O modo de fazer é bastante similiar ao do [Carreteiro de Charque](https://paneladepau.github.io/paneladepau-jekyll-blog/semana-da-cozinha-gaucha-carreteiro-de-charque/). Se você puder utilizar a panela de ferro, como nas outras receitas, tanto melhor. Ela preserva mais o calor e confere um sabor inconfundível à comida - a rapinha do arroz, então, é de comer rezando! 
 
 Se preferir, você pode usar outra bebida no lugar da cachaça. Inclusive, na maioria das receitas, usa-se vinho branco. Como eu não tinha, resolvi experimentar com a cachaça e não me arrependi - a carne ficou muito saborosa e douradinha!
 

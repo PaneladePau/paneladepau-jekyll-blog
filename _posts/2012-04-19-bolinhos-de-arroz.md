@@ -15,11 +15,11 @@ legendaimg2: Esquema de trabalho - massa, panela de fritura, bolinhos prontos.
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Se tem algo que me deixa feliz, é reutilizar [sobras da geladeira](http://paneladepau.com.br/tags/reutilizando-sobras/). Não concordo, de maneira alguma, que comida boa seja jogada fora. Com tantas pessoas passando fome, acho extremamente errado jogar alimentos no lixo. 
+Se tem algo que me deixa feliz, é reutilizar [sobras da geladeira](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/reutilizando-sobras/). Não concordo, de maneira alguma, que comida boa seja jogada fora. Com tantas pessoas passando fome, acho extremamente errado jogar alimentos no lixo. 
 
 Se você não quer mais comer, dê para alguém, mas, por favor, não descarte se ainda pode ser utilizado. Faça alguma receita com as sobras. Use a criatividade :)
 
-Na minha casa, acho que a coisa que mais sobra na geladeira é [arroz](hhttp://paneladepau.com.br/arroz-frango-cerveja/). E para a receita de hoje, as sobras de arroz estavam muito passadas para serem comidas sem mistura, mas, com alguns temperinhos, viraram deliciosos bolinhos de arroz!
+Na minha casa, acho que a coisa que mais sobra na geladeira é [arroz](hhttp://paneladepau.github.io/paneladepau-jekyll-blog/arroz-frango-cerveja/). E para a receita de hoje, as sobras de arroz estavam muito passadas para serem comidas sem mistura, mas, com alguns temperinhos, viraram deliciosos bolinhos de arroz!
 
 **Bolinhos de arroz**
 

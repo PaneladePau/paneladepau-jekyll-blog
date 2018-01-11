@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-A dica de hoje é uma receita infalível para os resfriados do inverno: o indispensável [chá](http://paneladepau.com.br/cha-preto-com-maca/) de limão e mel. Desde bem pequena, essa era uma tática certa da minha mãe - que, às vezes, trocava o mel por açúcar queimado. Além de o chá ser hidratante, boa parte da sensação de conforto que ele nos causa se deve à temperatura quente, que diminui o frio e a umidade corporal. 
+A dica de hoje é uma receita infalível para os resfriados do inverno: o indispensável [chá](http://paneladepau.github.io/paneladepau-jekyll-blog/cha-preto-com-maca/) de limão e mel. Desde bem pequena, essa era uma tática certa da minha mãe - que, às vezes, trocava o mel por açúcar queimado. Além de o chá ser hidratante, boa parte da sensação de conforto que ele nos causa se deve à temperatura quente, que diminui o frio e a umidade corporal. 
 
 O chá de hoje traz uma combinação de ingredientes ótimos: o mel, um bom ajudante para a hidratação das mucosas (é composto de água) e que possui uma série de vitaminas, e o limão, um poderoso energético rico em vitamina C que auxilia na limpeza das toxinas do corpo. Juntos, o mel e o limão fazem uma mistura tanto saudável quanto saborosa.
 

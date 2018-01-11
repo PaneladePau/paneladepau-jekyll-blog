@@ -24,7 +24,7 @@ O beijinho é um dos docinhos que mais faz a alegria nas festas brasileiras. Uma
 * 395g de leite condensado
 * 1 colher (sopa) de manteiga sem sal
 * Coco ralado a gosto (opcional)
-* Recheio cremoso a gosto (brigadeiro, [creme de avelã](http://paneladepau.com.br/brownie-de-nutella/), pasta de amendoim...)  
+* Recheio cremoso a gosto (brigadeiro, [creme de avelã](http://paneladepau.github.io/paneladepau-jekyll-blog/brownie-de-nutella/), pasta de amendoim...)  
 * Confeito a gosto
 
 ### Modo de fazer:
@@ -38,7 +38,7 @@ O beijinho é um dos docinhos que mais faz a alegria nas festas brasileiras. Uma
 
 E rapidinho assim está pronto um doce maravilhoso! A parte mais demorada é esperar o beijinho esfriar. Eu não gosto de resfriar na geladeira, pois a massa tende a ressecar, além de que é mais fácil de se perder o ponto do doce devido à troca de temperatura. 
 
-Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de [chocolates](http://paneladepau.com.br/tutorial-chocolates-pascoa/) branco e preto. É importante usar um recheio que seja cremoso, mas consistente, pois recheios moles são difíceis de moldar e também de comer.   
+Com essa primeira etapa pronta, é só rechear e confeitar à vontade. Eu escolhi creme de avelã e granulado misto de [chocolates](http://paneladepau.github.io/paneladepau-jekyll-blog/tutorial-chocolates-pascoa/) branco e preto. É importante usar um recheio que seja cremoso, mas consistente, pois recheios moles são difíceis de moldar e também de comer.   
 
 Fácil, né?
 Então aproveite a dica e inove na sua próxima comemoração :)

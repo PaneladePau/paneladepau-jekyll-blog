@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Puro, o beijinho de coco já é uma delícia. Recheado, então, é maravilhoso. 
 
-Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como fazer beijinho recheado](http://paneladepau.com.br/beijinho-recheado/). E hoje vamos incrementar mais a receita com uma fruta bem maravilhosa, o damasco. 
+Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como fazer beijinho recheado](http://paneladepau.github.io/paneladepau-jekyll-blog/beijinho-recheado/). E hoje vamos incrementar mais a receita com uma fruta bem maravilhosa, o damasco. 
 
 **Beijinho recheado com damasco**
 
@@ -30,7 +30,7 @@ Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como faze
 
 ### Modo de fazer: 
 
-1. Coloque o leite condensado e a manteiga em uma panela. Leve ao fogo baixo e mexa sempre até que a mistura desgrude do fundo da panela (ponto de [brigadeiro](http://paneladepau.com.br/brigadeiro-de-ovomaltine/) de enrolar).
+1. Coloque o leite condensado e a manteiga em uma panela. Leve ao fogo baixo e mexa sempre até que a mistura desgrude do fundo da panela (ponto de [brigadeiro](http://paneladepau.github.io/paneladepau-jekyll-blog/brigadeiro-de-ovomaltine/) de enrolar).
 2. Tire a panela do fogo. Adicione duas colheres (sobremesa) de coco ralado e misture bem. 
 3. Coloque a massa do beijinho em um refratário untado com manteiga e deixe que esfrie totalmente.
 4. Depois que o beijinho esfriar, é só montar os doces. Pegue uma porção da massa e abra-a na mão até que cubra todo o gordinho da palma. No meio da massa, coloque um pedaço de damasco.  
@@ -40,4 +40,4 @@ Aqui no Panela de Pau, já compartilhamos um passo a passo básico de [como faze
 A receita rende de 15 a 20 beijinhos, dependendo da sua moldagem.
 
 Fácil, né? 
-Que tal surpreender na próxima festa com um [doce](http://paneladepau.com.br/tags/doces-e-sobremesas/) muito saboroso, mas simples de fazer? 
+Que tal surpreender na próxima festa com um [doce](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/doces-e-sobremesas/) muito saboroso, mas simples de fazer? 

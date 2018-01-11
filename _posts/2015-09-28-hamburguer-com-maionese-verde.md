@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-A cozinha do Panela de Pau ganhou um presente bem bacana da **Unilever**. Chegou por aqui um kit da **Hellmann's**, com receitas bem gostosas, e a gente escolheu testar do nosso jeitinho a deliciosa maionese verde, uma ótima pedida para acompanhar aquele [hambúrguer](http://paneladepau.com.br/hamburguer-caseiro/) especial para receber os amigos :)
+A cozinha do Panela de Pau ganhou um presente bem bacana da **Unilever**. Chegou por aqui um kit da **Hellmann's**, com receitas bem gostosas, e a gente escolheu testar do nosso jeitinho a deliciosa maionese verde, uma ótima pedida para acompanhar aquele [hambúrguer](http://paneladepau.github.io/paneladepau-jekyll-blog/hamburguer-caseiro/) especial para receber os amigos :)
 
 **Hambúrguer com maionese verde**
 
@@ -26,7 +26,7 @@ A cozinha do Panela de Pau ganhou um presente bem bacana da **Unilever**. Chegou
 * Suco de meio limão
 * 1 xícara (chá) de salsinha picada
 * 1 xícara (chá) de cebolinha picada
-* 4 hambúrgueres de [carne](http://paneladepau.com.br/tags/carnes/) moída (200g cada)
+* 4 hambúrgueres de [carne](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/carnes/) moída (200g cada)
 * 4 pães de hambúrguer
 
 ### Toque especial do Panela de Pau:
@@ -49,4 +49,4 @@ No encarte da Hellmann's, a sugestão é fazer hambúrguer de picanha. Pessoalme
 
 Para finalizar, ainda dá para completar o hambúrguer com alface e um tomate, como a gente fez por aqui. A salada dá um frescor no prato e combina bem com a carne. 
 
-Por fim, se você achar que a nossa etapa do ketchup já complica um pouco a tarefa, fique à vontade para pular. Mas se você não tiver preguiça, vá com essa dica sem arrependimentos: o agridoce do ketchup contrasta com o salgadinho da carne e o sabor marcante da [maionese](http://paneladepau.com.br/maionese-marianinha/)...hum, delicioso!!
+Por fim, se você achar que a nossa etapa do ketchup já complica um pouco a tarefa, fique à vontade para pular. Mas se você não tiver preguiça, vá com essa dica sem arrependimentos: o agridoce do ketchup contrasta com o salgadinho da carne e o sabor marcante da [maionese](http://paneladepau.github.io/paneladepau-jekyll-blog/maionese-marianinha/)...hum, delicioso!!

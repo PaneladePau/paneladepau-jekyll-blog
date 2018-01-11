@@ -25,8 +25,8 @@ Lasanha é uma comida que todo mundo gosta. Afinal, quem não vai amar um prato 
 * 200g de queijo muçarela
 * 200g de presunto magro
 * 250g de frango desfiado (qualquer corte)
-* Molho vermelho a gosto (veja ideias [aqui](http://paneladepau.com.br/molho-de-cachorro-quente) e [aqui](http://paneladepau.com.br/molho-vermelho-sem-tomate))
-* Molho branco a gosto (veja ideias [aqui](http://paneladepau.com.br/espaguete-cheddar) e [aqui](http://paneladepau.com.br/lasanha-de-legumes))
+* Molho vermelho a gosto (veja ideias [aqui](http://paneladepau.github.io/paneladepau-jekyll-blog/molho-de-cachorro-quente) e [aqui](http://paneladepau.github.io/paneladepau-jekyll-blog/molho-vermelho-sem-tomate))
+* Molho branco a gosto (veja ideias [aqui](http://paneladepau.github.io/paneladepau-jekyll-blog/espaguete-cheddar) e [aqui](http://paneladepau.github.io/paneladepau-jekyll-blog/lasanha-de-legumes))
 
 ### Modo de fazer:
 

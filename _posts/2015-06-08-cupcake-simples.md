@@ -15,7 +15,7 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no blog, já tivemos vários testes de cupcake: [de banana com Nutella](http://paneladepau.com.br/cupcake-banana-com-nutella), [de milho](http://paneladepau.com.br/cupcake-de-milho), [de baunilha com brigadeiro](http://paneladepau.com.br/cupcake). Todos são saborosos e também muito fáceis de se fazer. E hoje a gente vai aprender um cupcake mais fácil ainda, um passo a passo coringa para o livrinho de receitas. 
+Cupcake é um bolo ótimo para servir um doce em porções individuais. Aqui no blog, já tivemos vários testes de cupcake: [de banana com Nutella](http://paneladepau.github.io/paneladepau-jekyll-blog/cupcake-banana-com-nutella), [de milho](http://paneladepau.github.io/paneladepau-jekyll-blog/cupcake-de-milho), [de baunilha com brigadeiro](http://paneladepau.github.io/paneladepau-jekyll-blog/cupcake). Todos são saborosos e também muito fáceis de se fazer. E hoje a gente vai aprender um cupcake mais fácil ainda, um passo a passo coringa para o livrinho de receitas. 
 
 **Cupcake simples**
 

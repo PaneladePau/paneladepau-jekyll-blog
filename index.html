@@ -5,7 +5,7 @@ layout: home
 {% for post in paginator.posts limit: 1 %}
 <article class="destaque home">
 {% if paginator.page == 1 %}
-<a class="post-link" href="{{ post.url }}">ler post</a>
+<a class="post-link" href="http://paneladepau.github.io/paneladepau-jekyll-blog{{ post.url }}">ler post</a>
 	{% include post-info.html %}
 {% else %}
 <a class="post-link" href="..{{ post.url }}">ler post</a>
@@ -19,7 +19,7 @@ layout: home
 	
 <article class="post-list">
 {% if paginator.page == 1 %}
-<a class="post-link" href="{{ post.url }}">ler post</a>
+<a class="post-link" href="http://paneladepau.github.io/paneladepau-jekyll-blog{{ post.url }}">ler post</a>
 <h2 class="titulo-list">{{ post.titulo | strip_html | truncatewords:3 }}</h2>
 	{% include post-info.html %}
 {% else %}

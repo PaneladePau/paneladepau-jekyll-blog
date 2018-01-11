@@ -33,7 +33,7 @@ E se o Panela de Pau te contar que tem um jeito bem fácil e rápido de fazer?
 ### Modo de fazer:
 
 1. Misture o polvilho e os queijos. 
-2. Adicione à mistura o azeite e o creme de leite. Combine tudo com as mãos até formar uma massa compacta até chegar no ponto como de [brigadeiro](http://paneladepau.com.br/brigadeiro-de-ovomaltine)/[beijinho](http://paneladepau.com.br/beijinho-recheado) pronto para enrolar.
+2. Adicione à mistura o azeite e o creme de leite. Combine tudo com as mãos até formar uma massa compacta até chegar no ponto como de [brigadeiro](http://paneladepau.github.io/paneladepau-jekyll-blog/brigadeiro-de-ovomaltine)/[beijinho](http://paneladepau.github.io/paneladepau-jekyll-blog/beijinho-recheado) pronto para enrolar.
 3. Deixe a massa descansar por alguns minutos. 
 4. Na sequência, abra porções da massa na palma da mão, uma de cada vez. No meio de cada porção aberta, adicione o recheio. Feche a massa começando pelas bordas e finalize dando a forma de bolinha. Repita esse processo até terminar a massa. 
 5. Transfira as bolinhas para uma forma untada. 

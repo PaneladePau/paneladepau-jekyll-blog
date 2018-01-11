@@ -25,7 +25,7 @@ O papel nutritivo das abóboras na alimentação brasileira tem importantes raí
 
 O mogango, produto bastante comum no Rio Grande do Sul, é mais um dos tipos de abóboras do Brasil. Sua produção tem origem em sementes crioulas (melhoramento realizado através da cruza de sementes, sem processos químicos, que se dá com adaptações ao solo e ao clima), com bastante influência da colonização portuguesa no Estado. Inclusive, a palavra Mogango é bastante utilizada na região do Alentejo, em Portugal. No Rio Grande do Sul, o mogango é muito forte na região da campanha gaúcha, local onde há a tradição de servir o mogango doce acompanhado de leite. O mogango é um tipo de abóbora de cor verde (com listras claras e escuras), textura rajada, casca dura e interior fibroso. 
 
-Como na última semana não consegui encontrar mogango - é mais comum em feiras -, a receita de hoje vai com a moranga, também bastante comum aqui no Rio Grande do Sul. Trata-se da abóbora achatadinha e mais alaranjada. A receita de hoje é um gostoso acompanhamento para uma boa carne assada ou um saboroso [carreteiro de charque](http://paneladepau.com.br/semana-da-cozinha-gaucha-carreteiro-de-charque). 
+Como na última semana não consegui encontrar mogango - é mais comum em feiras -, a receita de hoje vai com a moranga, também bastante comum aqui no Rio Grande do Sul. Trata-se da abóbora achatadinha e mais alaranjada. A receita de hoje é um gostoso acompanhamento para uma boa carne assada ou um saboroso [carreteiro de charque](http://paneladepau.github.io/paneladepau-jekyll-blog/semana-da-cozinha-gaucha-carreteiro-de-charque). 
 
 **Moranga Caramelada**
 

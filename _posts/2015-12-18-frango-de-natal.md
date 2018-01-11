@@ -54,19 +54,19 @@ Bastante simples de preparar, em menos de duas horas você tem um frango delicio
 
 Se você perdeu alguma receita do nosso especial ou está chegando só hoje, confira todas as delícias de final de ano que postamos desde a semana passada em homenagem à despedida do **TeleSéries**.
 
-09/12 - [Chow Mein](http://paneladepau.com.br/chow-mein)
+09/12 - [Chow Mein](http://paneladepau.github.io/paneladepau-jekyll-blog/chow-mein)
 
-10/12 - [Bolo de coco](http://paneladepau.com.br/bolo-de-coco)
+10/12 - [Bolo de coco](http://paneladepau.github.io/paneladepau-jekyll-blog/bolo-de-coco)
 
-11/12 - [Caipirinha de vinho com morangos](http://paneladepau.com.br/caipirinha-de-vinho-com-morangos)
+11/12 - [Caipirinha de vinho com morangos](http://paneladepau.github.io/paneladepau-jekyll-blog/caipirinha-de-vinho-com-morangos)
 
-14/12 - [Pudim de leite clássico](http://paneladepau.com.br/pudim-de-leite-classico)
+14/12 - [Pudim de leite clássico](http://paneladepau.github.io/paneladepau-jekyll-blog/pudim-de-leite-classico)
 
-15/12 - [Costelinhas de porco com molho barbecue](http://paneladepau.com.br/costelinhas-molho-barbecue)
+15/12 - [Costelinhas de porco com molho barbecue](http://paneladepau.github.io/paneladepau-jekyll-blog/costelinhas-molho-barbecue)
 
-16/12 - [Maçãs assadas](http://paneladepau.com.br/macas-assadas)
+16/12 - [Maçãs assadas](http://paneladepau.github.io/paneladepau-jekyll-blog/macas-assadas)
 
-17/12 - [Rabanada](http://paneladepau.com.br/rabanada)
+17/12 - [Rabanada](http://paneladepau.github.io/paneladepau-jekyll-blog/rabanada)
 
 Até a próxima e Feliz Natal!! :)
 

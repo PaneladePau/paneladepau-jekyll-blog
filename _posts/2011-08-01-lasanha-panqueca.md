@@ -17,7 +17,7 @@ legendaimg2: Legenda da imagem 2
 
 Nesta noite fria de segunda-feira, trago para vocês um prato quentinho, meio demorado, mas fácil de fazer. Trata-se da lasanha com massa de panqueca. Ultimamente, aqui em casa, é o único tipo de lasanha que ando fazendo. Acho que o prato fica mais leve do que com a massa comum (e daí dá para comer mais hihi \o/) e também demora menos tempo no forno (pois a massa já estará cozida, bastando derreter o queijo e esquentar bem o molho).
 
-A receita de hoje, como as dos últimos dias, não é nada fixa. O motivo da lasanha de hoje ser meio de lua é o reaproveitamento da comida da geladeira. Como sobrou bastante frango do almoço, resolvi utilizá-lo no molho base. Para completar, fiz um molho branco e garimpei uns restos de queijo cheddar (aquele mesmo que usei para o [espaguete de cheddar](https://paneladepau.com.br/espaguete-cheddar)). Para ficar melhor explicado, segue abaixo a receita improvisada de hoje:
+A receita de hoje, como as dos últimos dias, não é nada fixa. O motivo da lasanha de hoje ser meio de lua é o reaproveitamento da comida da geladeira. Como sobrou bastante frango do almoço, resolvi utilizá-lo no molho base. Para completar, fiz um molho branco e garimpei uns restos de queijo cheddar (aquele mesmo que usei para o [espaguete de cheddar](https://paneladepau.github.io/paneladepau-jekyll-blog/espaguete-cheddar)). Para ficar melhor explicado, segue abaixo a receita improvisada de hoje:
 
 **Lasanha com massa de panqueca**
 

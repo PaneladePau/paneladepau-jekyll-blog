@@ -24,7 +24,7 @@ Para começar as dicas de pratos quentes bem saborosos, a pedida de hoje é um d
 ### Ingredientes: 
 
 * 1 xícara (chá) de arroz arbóreo (opção: branco comum)
-* 1½ l de [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro)
+* 1½ l de [caldo de legumes](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro)
 * ½ cebola picada
 * ½ xícara (chá) de vinho branco de mesa (opção: vodka)
 * Azeite de oliva (ou óleo de cozinha) a gosto

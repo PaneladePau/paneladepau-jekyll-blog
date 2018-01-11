@@ -17,7 +17,7 @@ legendaimg2: Bolinhos prontos para assarem no forno.
 
 Olá!
 
-Já trouxe aqui no blog duas receitas de salgadinhos, a dos [pasteizinhos](https://paneladepau.com.br/pastel-frito) e a dos [bolinhos de arroz](https://paneladepau.com.br/bolinho-salgado-frito). Só que elas, apesar de serem gostosas, devem ser comidas com moderação, afinal, são frituras e não fazem muito bem à saúde. Só que o bom é que existem opções menos gordurosas, que podem ser comidas sem perigo e ainda são nutritivas.
+Já trouxe aqui no blog duas receitas de salgadinhos, a dos [pasteizinhos](https://paneladepau.github.io/paneladepau-jekyll-blog/pastel-frito) e a dos [bolinhos de arroz](https://paneladepau.github.io/paneladepau-jekyll-blog/bolinho-salgado-frito). Só que elas, apesar de serem gostosas, devem ser comidas com moderação, afinal, são frituras e não fazem muito bem à saúde. Só que o bom é que existem opções menos gordurosas, que podem ser comidas sem perigo e ainda são nutritivas.
 
 Hoje, trago aqui para vocês bolinhos de mandioca assados com recheio de pimentão. Se fossem fritos, com certeza teriam o dobro de calorias e seriam mais gordurosos. Além disso, fazendo os salgadinhos assados, não geramos os resíduos que seriam produzidos com a fritura banhada em óleo.
 

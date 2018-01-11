@@ -21,7 +21,7 @@ Todo brasileiro sabe o valor de uma coxinha. Um dos salgados mais famosos do Bra
 
 ### Ingredientes: 
 
-* 1 receita de [nhoque fácil](http://paneladepau.com.br/nhoque-facil)
+* 1 receita de [nhoque fácil](http://paneladepau.github.io/paneladepau-jekyll-blog/nhoque-facil)
 * Recheio de frango a gosto
 * Requeijão cremoso (opcional)
 

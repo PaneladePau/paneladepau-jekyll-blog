@@ -26,15 +26,15 @@ Acabamos de entrar no inverno aqui no Brasil, o que significa que teremos dias b
 * 1 inhame médio descascado em cubos (outras opções: batata comum ou mandioquinha)
 * ½ xícara (chá) de ervilha seca 
 * Sal e pimenta do reino a gosto
-* 1 litro de [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro)
+* 1 litro de [caldo de legumes](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro)
 
 ### Modo de fazer:
 
 1. Aqueça a panela em fogo alto por alguns segundos e adicione o azeite. Em seguida, adicione o alho e deixe dourar levemente.
 2. Adicione a ervilha e o inhame e refogue por uns dois minutos. 
-3. Cubra os ingredientes com 600ml do [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro). Regule o sal e deixe cozinhar em fogo alto até começar a ferver. 
-4. Baixe o fogo e deixe cozinhar por cerca de 30 minutos, mexendo de vez em quando e adicionando mais [caldo](http://paneladepau.com.br/caldo-de-legumes-caseiro) se necessário. 
-5. Processe duas conchas da sopa com o que sobrar do [caldo de legumes](http://paneladepau.com.br/caldo-de-legumes-caseiro) no liquidificador. Passe o creme que se formar para a panela da sopa e deixe tudo cozinhar por mais 10 ou 15 minutos.
+3. Cubra os ingredientes com 600ml do [caldo de legumes](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro). Regule o sal e deixe cozinhar em fogo alto até começar a ferver. 
+4. Baixe o fogo e deixe cozinhar por cerca de 30 minutos, mexendo de vez em quando e adicionando mais [caldo](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro) se necessário. 
+5. Processe duas conchas da sopa com o que sobrar do [caldo de legumes](http://paneladepau.github.io/paneladepau-jekyll-blog/caldo-de-legumes-caseiro) no liquidificador. Passe o creme que se formar para a panela da sopa e deixe tudo cozinhar por mais 10 ou 15 minutos.
 6. Sirva as porções de sopa e finalize com pimenta do reino a gosto. 
 
 Além de saborosa, a sopa de ervilha é nutritiva e uma opção de prato principal leve, mas que sacia bastante.

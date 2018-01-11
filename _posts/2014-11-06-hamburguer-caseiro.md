@@ -13,11 +13,11 @@ tags: [carnes, comida rapida]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Carne moída é um espetáculo. Com apenas um ingrediente principal, alguns temperos e mil ideias, você pode criar diversas receitas gostosas para o dia a dia. [Panqueca](http://paneladepau.com.br/panquecao/), lasanha, quibe, [escondidinho](http://paneladepau.com.br/escondidinho-de-carne/) e pastel são apenas alguns exemplos que combinam muito bem com carne moída. 
+Carne moída é um espetáculo. Com apenas um ingrediente principal, alguns temperos e mil ideias, você pode criar diversas receitas gostosas para o dia a dia. [Panqueca](http://paneladepau.github.io/paneladepau-jekyll-blog/panquecao/), lasanha, quibe, [escondidinho](http://paneladepau.github.io/paneladepau-jekyll-blog/escondidinho-de-carne/) e pastel são apenas alguns exemplos que combinam muito bem com carne moída. 
 
-Mas eu acho que a rainha das receitas com carne moída é o hambúrguer. Tradicionalmente servido com [pão](http://paneladepau.com.br/pao-integral-caseiro/), o bife de hambúrguer já há algum tempo é opção de carne nos restaurantes de buffet, e os cozinheiros não poupam para deixá-los saborosos. Tem um restaurante que eu almoço que serve o hambúrguer com molho de tomate e queijo. Há alguma dúvida de que eu sempre pego quando tem? 
+Mas eu acho que a rainha das receitas com carne moída é o hambúrguer. Tradicionalmente servido com [pão](http://paneladepau.github.io/paneladepau-jekyll-blog/pao-integral-caseiro/), o bife de hambúrguer já há algum tempo é opção de carne nos restaurantes de buffet, e os cozinheiros não poupam para deixá-los saborosos. Tem um restaurante que eu almoço que serve o hambúrguer com molho de tomate e queijo. Há alguma dúvida de que eu sempre pego quando tem? 
 
-Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro bem simples, com base tirada de uma receita que você já viu aqui no blog, as [almôndegas de forno](http://paneladepau.com.br/almondegas-de-forno). 
+Como é um prato muito querido, as receitas de hambúrguer são muitas. Há vários modos de preparo (frigideira, grelha, forno), diferentes tipos de carne são utilizados e vários são os condimentos que podem acompanhar. E para dar mais uma dica para você, a receita de hoje é a de um hambúrguer caseiro bem simples, com base tirada de uma receita que você já viu aqui no blog, as [almôndegas de forno](http://paneladepau.github.io/paneladepau-jekyll-blog/almondegas-de-forno). 
 
 **Hambúrguer caseiro**
 

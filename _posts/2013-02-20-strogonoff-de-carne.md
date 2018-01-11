@@ -15,7 +15,7 @@ legendaimg2: Família reunida em volta da mesa, coisa boa!
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Oi, pessoal! A receita de hoje é ótima para aqueles dias especiais, quando todo mundo se reúne em volta da mesa para conversar e curtir um tempo juntos. Abrimos os trabalhos da semana com um [strogonoff](http://paneladepau.com.br/risoto-de-strogonoff/) de carne. Vamos pra cozinha?
+Oi, pessoal! A receita de hoje é ótima para aqueles dias especiais, quando todo mundo se reúne em volta da mesa para conversar e curtir um tempo juntos. Abrimos os trabalhos da semana com um [strogonoff](http://paneladepau.github.io/paneladepau-jekyll-blog/risoto-de-strogonoff/) de carne. Vamos pra cozinha?
 
 **Strogonoff de carne**  
 
@@ -42,7 +42,7 @@ Oi, pessoal! A receita de hoje é ótima para aqueles dias especiais, quando tod
 6. Adicione o champignon e deixe cozinhar novamente por cerca de 15 minutos.
 7. Com o caldo pronto (deve ficar espesso com a fervura), tire a panela do fogo e adicione as duas latas de creme de leite. Misture bem.
 
-E está pronto para servir! Uma sugestão bem tradicional é servir com arroz, batata palha e alface. Se preferir, você pode optar por fazer o strogonoff com carne de [frango](http://paneladepau.com.br/arroz-frango-cerveja/), que é mais leve e também fica muito saboroso.
+E está pronto para servir! Uma sugestão bem tradicional é servir com arroz, batata palha e alface. Se preferir, você pode optar por fazer o strogonoff com carne de [frango](http://paneladepau.github.io/paneladepau-jekyll-blog/arroz-frango-cerveja/), que é mais leve e também fica muito saboroso.
 
 **Dica para flambar** 
 A técnica de flambar consiste em adicionar bebida alcóolica no prato e atear fogo até que ele se extingua durante o cozimento. É uma forma de utilizar a bebida alcóolica como um aromatizante. No strogonoff, geralmente se utiliza conhaque, como na nossa receita. No entanto, você pode utilizar outra bebida, se preferir. Aqui em casa, como não tinha mais conhaque, usei uma cachaça. Ficou ótimo. Se você tem alguma dúvida sobre como flambar, encontrei um [vídeo](https://www.youtube.com/watch?v=793hNTN4oaw) bem legal ensinando como fazer.

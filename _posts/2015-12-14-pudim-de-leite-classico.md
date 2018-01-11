@@ -56,10 +56,10 @@ Para fazer o pudim é necessário um pouco de cuidado e paciência, mas a receit
 
 E se você tá chegando agora e ainda não viu as receitas do especial que saíram na passada, não deixe de conferir:
 
-09/12 - [Chow Mein](http://paneladepau.com.br/chow-mein)
+09/12 - [Chow Mein](http://paneladepau.github.io/paneladepau-jekyll-blog/chow-mein)
 
-10/12 - [Bolo de coco](http://paneladepau.com.br/bolo-de-coco)
+10/12 - [Bolo de coco](http://paneladepau.github.io/paneladepau-jekyll-blog/bolo-de-coco)
 
-11/12 - [Caipirinha de vinho com morangos](http://paneladepau.com.br/caipirinha-de-vinho-com-morangos)
+11/12 - [Caipirinha de vinho com morangos](http://paneladepau.github.io/paneladepau-jekyll-blog/caipirinha-de-vinho-com-morangos)
 
 Amanhã voltamos com mais receita :)

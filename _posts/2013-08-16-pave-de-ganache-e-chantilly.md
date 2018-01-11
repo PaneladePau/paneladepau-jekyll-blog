@@ -17,7 +17,7 @@ legendaimg2: Delicadeza e sabor - uma dica bem legal é servir o delicioso pavê
 
 *Huuuuuum!* Esta é a expressão para começar uma sexta-feira que promete ser saborosa aqui no Panela de Pau. Nada pode ser mais perfeito para melhorar o humor do que uma bela sobremesa que reconforta com aquela alegria doce que só o açúcar e os seus queridos companheiros são capazes de proporcionar! A nossa pedida especial de hoje, que é uma dica para animar o final de semana, é um pavê (torta de bolacha) especial regado com generosas camadas de ganache e chantilly!
 
-Eu já falei brevemente sobre a ganache [aqui no blog](https://paneladepau.com.br/um-ano-pp/)em uma outra receita de pavê que fiz em comemoração ao primeiro ano do Panela de Pau. Eu acho que nunca vou conseguir achar um creme tão gostoso como a ganache - a mistura do creme de leite com o chocolate é um passaporte instantâneo para a felicidade. E, para complementar a função toda, o clássico chantilly, geralmente utilizado para cobrir tortas suntuosas, é a combinação perfeita para a cremosidade e o sabor de um doce simples, mas com cara de arrojado.
+Eu já falei brevemente sobre a ganache [aqui no blog](https://paneladepau.github.io/paneladepau-jekyll-blog/um-ano-pp/)em uma outra receita de pavê que fiz em comemoração ao primeiro ano do Panela de Pau. Eu acho que nunca vou conseguir achar um creme tão gostoso como a ganache - a mistura do creme de leite com o chocolate é um passaporte instantâneo para a felicidade. E, para complementar a função toda, o clássico chantilly, geralmente utilizado para cobrir tortas suntuosas, é a combinação perfeita para a cremosidade e o sabor de um doce simples, mas com cara de arrojado.
 
 **Pavê de ganache e chantilly**
 

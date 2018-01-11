@@ -17,7 +17,7 @@ legendaimg2: Não há segredos sobre como fazer bolinhos de arroz assados - é s
 
 *Eu sou um bolinho de arroz, meus bracinhos vieram bem depois...*
 
-Quem nunca ouviu a musiquinha de um dos reis da cozinha por aí? Um dos alimentos mais consumidos do mundo, o arroz é a estrela do clássico bolinho de arroz (no Panela de Pau, já testamos duas versões, uma [frita](http://paneladepau.com.br/bolinhos-de-arroz/) e outra [assada](http://paneladepau.com.br/bolinho-de-arroz-assado/)).
+Quem nunca ouviu a musiquinha de um dos reis da cozinha por aí? Um dos alimentos mais consumidos do mundo, o arroz é a estrela do clássico bolinho de arroz (no Panela de Pau, já testamos duas versões, uma [frita](http://paneladepau.github.io/paneladepau-jekyll-blog/bolinhos-de-arroz/) e outra [assada](http://paneladepau.github.io/paneladepau-jekyll-blog/bolinho-de-arroz-assado/)).
 
 E a boa é que preparamos mais um passo a passo sobre como fazer bolinhos de arroz assados. Além de nutritiva, a nossa opção de hoje é bem deliciosa :)
 
@@ -30,7 +30,7 @@ E a boa é que preparamos mais um passo a passo sobre como fazer bolinhos de arr
 * Temperos a gosto (sugestões: curry, páprica, orégano)
 * 1 colher (sopa) de farinha de linhaça (hidratada em 2 colheres de sopa de água por 10 minutos)
 * 1 colher (sobremesa) de azeite de oliva
-* 3 colheres (sopa) de água ou [leite vegetal](http://paneladepau.com.br/leite-de-aveia/)
+* 3 colheres (sopa) de água ou [leite vegetal](http://paneladepau.github.io/paneladepau-jekyll-blog/leite-de-aveia/)
 * Farinha o suficiente para dar ponto da massa
 * Sal e pimenta a gosto 
 
@@ -45,7 +45,7 @@ E a boa é que preparamos mais um passo a passo sobre como fazer bolinhos de arr
 
 **Dicas** 
 
-A receita de hoje é bem nutritiva e um pouco diferente das tradicionais. No lugar do arroz branco, entrou o integral. O espaço do ovo foi ocupado pela [linhaça](http://paneladepau.com.br/biscoito-linhaca-aveia/). Ao invés de presunto ou queijo, a massa ganhou legumes e muitos temperos. E o leite de vaca deu vez para a água e as opções de leite sem lactose. 
+A receita de hoje é bem nutritiva e um pouco diferente das tradicionais. No lugar do arroz branco, entrou o integral. O espaço do ovo foi ocupado pela [linhaça](http://paneladepau.github.io/paneladepau-jekyll-blog/biscoito-linhaca-aveia/). Ao invés de presunto ou queijo, a massa ganhou legumes e muitos temperos. E o leite de vaca deu vez para a água e as opções de leite sem lactose. 
 
 Outra dica é a da farinha: você pode usar tanto a de trigo normal quanto as opções sem glúten, como a própria farinha de arroz. 
 

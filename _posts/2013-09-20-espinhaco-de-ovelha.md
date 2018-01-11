@@ -55,21 +55,21 @@ Para servir, além da mandioca - temperada com uma bela cebolinha, sal e um fioz
 
 {% include imagem3.html %}
 
-Se, depois dessa bóia forte, você ainda tiver um espacinho, nada melhor que o saboroso [arroz de leite de ontem](https://paneladepau.com.br/arroz-de-leite) para arrematar os festejos! É de ficar mais *faceiro que mosca em rolha de xarope*!
+Se, depois dessa bóia forte, você ainda tiver um espacinho, nada melhor que o saboroso [arroz de leite de ontem](https://paneladepau.github.io/paneladepau-jekyll-blog/arroz-de-leite) para arrematar os festejos! É de ficar mais *faceiro que mosca em rolha de xarope*!
 
 E aqui chegamos ao final da nossa *Semana da Cozinha Gaúcha*!
 
 Obrigada a todos que acompanharam esses dias de descobertas à mesa dos *pagos* do Rio Grande do Sul. Se você perdeu alguma receita, não deixe de visitar as páginas e conferir as outras delícias preparadas nessa última semana:
 
-12/09 - [Carreteiro de Charque ](https://paneladepau.com.br/semana-da-cozinha-gaucha-carreteiro-de-charque)
+12/09 - [Carreteiro de Charque ](https://paneladepau.github.io/paneladepau-jekyll-blog/semana-da-cozinha-gaucha-carreteiro-de-charque)
 
-13/09 - [Canjica Doce](https://paneladepau.com.br/canjica-doce)
+13/09 - [Canjica Doce](https://paneladepau.github.io/paneladepau-jekyll-blog/canjica-doce)
 
-17/09 - [Mogango Caramelado ](https://paneladepau.com.br/moranga-caramelada)
+17/09 - [Mogango Caramelado ](https://paneladepau.github.io/paneladepau-jekyll-blog/moranga-caramelada)
 
-18/09 - [Galinhada ](https://paneladepau.com.br/galinhada-gaucha)
+18/09 - [Galinhada ](https://paneladepau.github.io/paneladepau-jekyll-blog/galinhada-gaucha)
 
-19/09 - [Arroz de Leite ](https://paneladepau.com.br/arroz-de-leite)
+19/09 - [Arroz de Leite ](https://paneladepau.github.io/paneladepau-jekyll-blog/arroz-de-leite)
 
 Até a próxima!
 

@@ -17,7 +17,7 @@ legendaimg2: Um jeito muito legal de servir os biscoitinhos é acomodá-los em u
 
 Boa tarde!
 
-Huuum! Sexta-feira é um dia perfeito para um lanche bem gostoso no final do dia. Ainda mais que a tarde está bonita, tranquila, com tempo ameno. Para acompanhar o saboroso [chá aromatizado](https://paneladepau.com.br/cha-preto-com-maca) da segunda-feira ou, até mesmo, um bom café, não há pedida mais certa que os biscoitinhos de limão de hoje.
+Huuum! Sexta-feira é um dia perfeito para um lanche bem gostoso no final do dia. Ainda mais que a tarde está bonita, tranquila, com tempo ameno. Para acompanhar o saboroso [chá aromatizado](https://paneladepau.github.io/paneladepau-jekyll-blog/cha-preto-com-maca) da segunda-feira ou, até mesmo, um bom café, não há pedida mais certa que os biscoitinhos de limão de hoje.
 
 Aprendi como fazer essa delícia no livro oficial de receitas da saga *As Crônicas de Gelo e Fogo*, largamente conhecida pelo seriado *Game of Thrones*. A obra, chamada [A Feast of Ice & Fire - The Official Companion Cookbook](http://www.innatthecrossroads.com/a-feast-of-ice-and-fire/), é escrita por Chelsea Mornoe-Cassel (a quem tive o prazer de entrevistar para uma [matéria](http://www.oene.com.br/game-of-thrones-food/) sobre a comida de GoT) e Sariann Lehrer, fãs da série e aventureiras da cozinha. Os biscoitinhos, na verdade, são pequenos bolos de limão, famosos por serem o prato favorito de Sansa Stark, uma das personagens do núcleo principal da história. No livro de receitas, o prato é associado à região de Porto Real (*King's Landing*), local que se torna a morada de Sansa por muito tempo e possui clima bem mais agradável que as terras nortenhas de onde veio a moça.
 

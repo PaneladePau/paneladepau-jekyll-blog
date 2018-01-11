@@ -13,7 +13,7 @@ tags: [paes e bolos, lanches]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Não é segredo nenhum que [queijo](http://paneladepau.com.br/torta-cremosa-de-queijo/) é uma das paixões da minha vida. Desde sempre, eu dou um jeito de colocar um queijinho nas minhas preparações (e muitas provas haha). O teste mais recente foi a fantástica pedida de hoje: o muffin de parmesão. 
+Não é segredo nenhum que [queijo](http://paneladepau.github.io/paneladepau-jekyll-blog/torta-cremosa-de-queijo/) é uma das paixões da minha vida. Desde sempre, eu dou um jeito de colocar um queijinho nas minhas preparações (e muitas provas haha). O teste mais recente foi a fantástica pedida de hoje: o muffin de parmesão. 
 
 Pra começo de conversa, mesmo sem queijo, muffin é sempre uma delícia. Então, imagina juntar esse bolinho leve e gostoso com o sabor especial de um queijo marcante como o parmesão? Não tem como ser mais maravilhoso! E a receita é fácil, olha só:
 
@@ -41,7 +41,7 @@ Pra começo de conversa, mesmo sem queijo, muffin é sempre uma delícia. Então
 
 Depois que os bolinhos saírem do forno, basta desenformá-los para devorar! Se as forminhas forem de alumínio, é necessário esperar esfriar um pouco para desenformar, pois os muffins podem quebrar. Caso você use as de silicone, o processo é mais fácil - dá para desenformar na hora se conseguir aguentar a temperatura alta das formas. 
 
-Tanto quentinho quanto em temperatura ambiente, o muffin de parmesão é a pedida certa para um [lanche](http://paneladepau.com.br/tags/lanches/) bem gostoso. Servido puro, esse bolinho já é um espetáculo. Mas sugiro que você experimente lambuzá-lo com uma manteiguinha ou um requeijão para ir direto para o céu :D
+Tanto quentinho quanto em temperatura ambiente, o muffin de parmesão é a pedida certa para um [lanche](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/lanches/) bem gostoso. Servido puro, esse bolinho já é um espetáculo. Mas sugiro que você experimente lambuzá-lo com uma manteiguinha ou um requeijão para ir direto para o céu :D
 
 E aí, que tal testar essa delícia na sua cozinha? O sucesso é certo!
 

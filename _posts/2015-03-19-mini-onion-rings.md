@@ -42,6 +42,6 @@ E é só DEVORAR! A porção desta receita é boa para duas pessoas. Para render
 
 Quanto à água com gelo: esse processo é bem importante, porque ajuda a suavizar o ardido da cebola e também enrijece a estrutura dos anéis com o choque térmico, o que vai ajudar naquele resultado super crocante que se espera de um saboroso *onion ring*.
 
-Por fim, fica a clássica dica de servir os deliciosos anéis de cebola com algum molhinho. Que tal testar uma [maionese de alho](http://paneladepau.com.br/maionese-de-alho) ou o [molho barbecue](http://paneladepau.com.br/molho-barbecue)? Ou quem sabe os dois? :D
+Por fim, fica a clássica dica de servir os deliciosos anéis de cebola com algum molhinho. Que tal testar uma [maionese de alho](http://paneladepau.github.io/paneladepau-jekyll-blog/maionese-de-alho) ou o [molho barbecue](http://paneladepau.github.io/paneladepau-jekyll-blog/molho-barbecue)? Ou quem sabe os dois? :D
 
 Até a próxima!

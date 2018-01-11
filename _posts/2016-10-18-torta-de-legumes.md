@@ -15,9 +15,9 @@ legendaimg2: Legenda da imagem 2
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Vamos combinar: nada é melhor para [reaproveitar as sobras de legumes e verduras](http://paneladepau.com.br/tags/reutilizando-sobras/) do que uma boa torta salgada. 
+Vamos combinar: nada é melhor para [reaproveitar as sobras de legumes e verduras](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/reutilizando-sobras/) do que uma boa torta salgada. 
 
-A torta de legumes que vamos preparar hoje é uma opção vegana — livre de lactose e [sem ovos](http://paneladepau.com.br/cuca-sem-ovos/) — bem nutritiva e é uma forma excelente para introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso.
+A torta de legumes que vamos preparar hoje é uma opção vegana — livre de lactose e [sem ovos](http://paneladepau.github.io/paneladepau-jekyll-blog/cuca-sem-ovos/) — bem nutritiva e é uma forma excelente para introduzir alimentos saudáveis no dia a dia de um jeito simples, prático e saboroso.
 
 Bora testar?
 
@@ -27,7 +27,7 @@ Bora testar?
 
 * 1 xícara (chá) de farinha de trigo branca ou integral
 * 1 colher (chá) de fermento químico
-* 180 ml de água ou [leite vegetal](http://paneladepau.com.br/leite-de-aveia/)
+* 180 ml de água ou [leite vegetal](http://paneladepau.github.io/paneladepau-jekyll-blog/leite-de-aveia/)
 * 2 colheres (sopa) de azeite de oliva 
 * 1 ovo de chia (veja como preparar abaixo)
 * 1½ xícara (chá) de legumes e verduras a gosto
@@ -51,7 +51,7 @@ E antes de a gente se despedir para você testar na sua casa essa torta de legum
 
 A chia é uma semente rica em fibras solúveis e, ao absorver a água, ela ganha uma textura gelatinosa, ótima para dar liga em pratos como bolos e panquecas. Substitua cada ovo das suas receitas por uma medida do ovo de chia da nossa torta de legumes. 
 
-Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas. Ela fornece proteínas, fibras e ácidos graxos em boa quantidade — uma aliada e tanto para uma [cozinha saudável](http://paneladepau.com.br/tags/cozinha-saudavel/)!
+Além de ser uma alternativa quando faltam ovos, a chia deixa as receitas mais nutritivas. Ela fornece proteínas, fibras e ácidos graxos em boa quantidade — uma aliada e tanto para uma [cozinha saudável](http://paneladepau.github.io/paneladepau-jekyll-blog/tags/cozinha-saudavel/)!
 
 Por fim, mais uma dica: essa torta de legumes é um prato que deve ser bem colorido para abrir o apetite mesmo. Então, o segredo é usar legumes e verduras variados :)
 

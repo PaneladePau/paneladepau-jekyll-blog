@@ -50,7 +50,7 @@ E, como sempre - ainda mais quando o prato é daqueles que nos deixam logo com v
 
 E está prontinho o seu bolo gelado!
 
-A dica especial desta receita é o chantilly de caixinha. Para quem acompanhou [a última postagem](https://paneladepau.com.br/pave-de-ganache-e-chantilly/), deve lembrar do chantilly pré-pronto em pó, que é um produto bastante prático. Para essa receita, resolvi testar o pré-pronto líquido. Praticamente, não há diferença nenhuma, é tão bom quanto o em pó. No entanto, me pareceu que o em pó é mais fácil de controlar o ponto desejado e também é menos doce. Ainda, ele é consideravelmente mais barato. Então, apesar de os dois funcionarem bem, continuo mais fiel com o em pó ;). 
+A dica especial desta receita é o chantilly de caixinha. Para quem acompanhou [a última postagem](https://paneladepau.github.io/paneladepau-jekyll-blog/pave-de-ganache-e-chantilly/), deve lembrar do chantilly pré-pronto em pó, que é um produto bastante prático. Para essa receita, resolvi testar o pré-pronto líquido. Praticamente, não há diferença nenhuma, é tão bom quanto o em pó. No entanto, me pareceu que o em pó é mais fácil de controlar o ponto desejado e também é menos doce. Ainda, ele é consideravelmente mais barato. Então, apesar de os dois funcionarem bem, continuo mais fiel com o em pó ;). 
 
 Bem, depois de feita a receita, é hora de você se deliciar. Como não gosto de refrigerante, sugiro como acompanhamentos um chá gelado (sem açúcar) ou, ainda, um bom copo de leite puro ou com achocolatado/chocolate em pó (maravilhoso sabor de infância)!
 

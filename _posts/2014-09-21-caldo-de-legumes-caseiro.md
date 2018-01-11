@@ -13,7 +13,7 @@ tags: [pratos quentes, cozinha saudavel]
 [este é um texto com link](https://www.enderecodolink.com)
 {% endcomment %}
 
-Há muitos pratos que levam caldo de legumes. [Risotos](http://paneladepau.com.br/risoto-de-queijo-brie/), molhos e massas salgadas são apenas alguns exemplos. E é bem comum o uso de caldos industrializados para agilizar as receitas.  
+Há muitos pratos que levam caldo de legumes. [Risotos](http://paneladepau.github.io/paneladepau-jekyll-blog/risoto-de-queijo-brie/), molhos e massas salgadas são apenas alguns exemplos. E é bem comum o uso de caldos industrializados para agilizar as receitas.  
 
 Eu não gosto desses produtos e, sempre que possível, prefiro mantê-los longe da cozinha. Além do sabor artificial, eles não são nada saudáveis - são pilhas de sal, corantes e conservantes. Pensando nisso, vou mostrar como a gente pode melhorar os sabores do dia a dia, deixando os pratos mais nutritivos e com sabor bem gostoso. 
 
@@ -40,7 +40,7 @@ Se você escolher pela geladeira, o caldo vai se manter fresco por dois ou três
 
 Para a receita de hoje, utilizei cascas de chuchu e talos de brócolis. Mas, como disse antes, você pode variar bastante e colocar no caldo os alimentos que preferir. Ervas frescas, como salsa, cebolinha e manjericão, também são ótimas pedidas e deixam o caldo de legumes caseiro bem aromático. 
 
-Se você já acompanha as receitas do Panela de Pau, o caldo de hoje pode ser um bom aliado para substituir os líquidos das receitas das sopas de [cappelletti ](https://paneladepau.com.br/sopa-de-cappelletti)e de [batatas](https://paneladepau.com.br/sopa-de-batatas).
+Se você já acompanha as receitas do Panela de Pau, o caldo de hoje pode ser um bom aliado para substituir os líquidos das receitas das sopas de [cappelletti ](https://paneladepau.github.io/paneladepau-jekyll-blog/sopa-de-cappelletti)e de [batatas](https://paneladepau.github.io/paneladepau-jekyll-blog/sopa-de-batatas).
 
 Fácil, né? :)
 

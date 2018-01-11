@@ -56,7 +56,7 @@ E está pronto o risot de bacalhau!
 * A receita de hoje serve seis pessoas. Você pode adicionar um pouco mais de arroz para render algumas porções a mais, sem problemas.
  
 Agora sim, podemos ir à mesa! 
-Como acompanhamentos de hoje, servimos salada de [lentilha](http://paneladepau.com.br/risoto-de-lentilhas-com-arroz-integral/) e alface. Quanto às bebidas, foi a gosto do povo: metade vinho, metade cerveja. Arrematando o cardápio, servimos o excelente pudim do meu pai!
+Como acompanhamentos de hoje, servimos salada de [lentilha](http://paneladepau.github.io/paneladepau-jekyll-blog/risoto-de-lentilhas-com-arroz-integral/) e alface. Quanto às bebidas, foi a gosto do povo: metade vinho, metade cerveja. Arrematando o cardápio, servimos o excelente pudim do meu pai!
 
 {% include imagem2.html %}
 
